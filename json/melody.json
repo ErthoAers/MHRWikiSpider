@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "attack_up"
+    },
+    {
+        "id": 2,
+        "name": "defense_up"
+    },
+    {
+        "id": 3,
+        "name": "affinity_up"
+    },
+    {
+        "id": 4,
+        "name": "elemental_attack_boost"
+    },
+    {
+        "id": 5,
+        "name": "attack_and_defense_up"
+    },
+    {
+        "id": 6,
+        "name": "attack_and_affinity_up"
+    },
+    {
+        "id": 7,
+        "name": "knockbacks_negated"
+    },
+    {
+        "id": 8,
+        "name": "earplugs_s"
+    },
+    {
+        "id": 9,
+        "name": "earplugs_l"
+    },
+    {
+        "id": 10,
+        "name": "tremors_negated"
+    },
+    {
+        "id": 11,
+        "name": "wind_pressure_negated"
+    },
+    {
+        "id": 12,
+        "name": "stun_negated"
+    },
+    {
+        "id": 13,
+        "name": "blight_negated"
+    },
+    {
+        "id": 14,
+        "name": "divine_protection"
+    },
+    {
+        "id": 15,
+        "name": "health_recovery_s"
+    },
+    {
+        "id": 16,
+        "name": "health_recovery_l"
+    },
+    {
+        "id": 17,
+        "name": "health_recovery_s_antidote"
+    },
+    {
+        "id": 18,
+        "name": "health_regeneration"
+    },
+    {
+        "id": 19,
+        "name": "stamina_use_reduced"
+    },
+    {
+        "id": 20,
+        "name": "stamina_recovery_up"
+    },
+    {
+        "id": 21,
+        "name": "sharpness_loss_reduced"
+    },
+    {
+        "id": 22,
+        "name": "environment_damage_negated"
+    },
+    {
+        "id": 23,
+        "name": "sonic_wave"
+    },
+    {
+        "id": 24,
+        "name": "sonic_barrier"
+    }
+]
