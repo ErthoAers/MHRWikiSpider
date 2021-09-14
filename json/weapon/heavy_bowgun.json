@@ -163,9 +163,7 @@
             {
                 "ammo_type": "shrapnel_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_1",
@@ -190,11 +188,9 @@
                 ]
             },
             {
-                "ammo_type": "amor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "slicing_ammo",
@@ -399,9 +395,7 @@
             {
                 "ammo_type": "shrapnel_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_1",
@@ -426,11 +420,9 @@
                 ]
             },
             {
-                "ammo_type": "amor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "slicing_ammo",
@@ -626,9 +618,7 @@
             {
                 "ammo_type": "pierce_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_1",
@@ -640,9 +630,7 @@
             {
                 "ammo_type": "spread_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_1",
@@ -654,9 +642,7 @@
             {
                 "ammo_type": "shrapnel_ammo_2",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_1",
@@ -681,11 +667,9 @@
                 ]
             },
             {
-                "ammo_type": "amor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "slicing_ammo",
@@ -883,23 +867,17 @@
             {
                 "ammo_type": "normal_ammo_3",
                 "capacity": 5,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_1",
@@ -911,9 +889,7 @@
             {
                 "ammo_type": "shrapnel_ammo_2",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_1",
@@ -971,30 +947,22 @@
             {
                 "ammo_type": "recover_ammo_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "freeze_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "dragon_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -1169,23 +1137,17 @@
             {
                 "ammo_type": "normal_ammo_3",
                 "capacity": 5,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_1",
@@ -1197,9 +1159,7 @@
             {
                 "ammo_type": "shrapnel_ammo_2",
                 "capacity": 5,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_1",
@@ -1257,30 +1217,22 @@
             {
                 "ammo_type": "recover_ammo_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "freeze_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "dragon_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -1462,23 +1414,17 @@
             {
                 "ammo_type": "normal_ammo_3",
                 "capacity": 5,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_1",
@@ -1490,9 +1436,7 @@
             {
                 "ammo_type": "shrapnel_ammo_2",
                 "capacity": 5,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_1",
@@ -1550,30 +1494,22 @@
             {
                 "ammo_type": "recover_ammo_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "freeze_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "dragon_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -1786,9 +1722,7 @@
             {
                 "ammo_type": "pierce_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_1",
@@ -1824,9 +1758,7 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
@@ -1850,7 +1782,7 @@
                 ]
             },
             {
-                "ammo_type": "amor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_reload"
@@ -1866,9 +1798,7 @@
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -2098,9 +2028,7 @@
             {
                 "ammo_type": "pierce_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_1",
@@ -2136,9 +2064,7 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
@@ -2162,7 +2088,7 @@
                 ]
             },
             {
-                "ammo_type": "amor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_reload"
@@ -2178,9 +2104,7 @@
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -2377,9 +2301,7 @@
             {
                 "ammo_type": "pierce_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_1",
@@ -2415,9 +2337,7 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
@@ -2441,7 +2361,7 @@
                 ]
             },
             {
-                "ammo_type": "amor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 2,
                 "shot_type": [
                     "moving_reload"
@@ -2457,9 +2377,7 @@
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -2672,9 +2590,7 @@
             {
                 "ammo_type": "spread_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_1",
@@ -2901,9 +2817,7 @@
             {
                 "ammo_type": "spread_ammo_2",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_1",
@@ -3126,9 +3040,7 @@
             {
                 "ammo_type": "pierce_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_1",
@@ -3141,9 +3053,7 @@
             {
                 "ammo_type": "spread_ammo_2",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_1",
@@ -3155,9 +3065,7 @@
             {
                 "ammo_type": "shrapnel_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_1",
@@ -3385,9 +3293,7 @@
             {
                 "ammo_type": "pierce_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_1",
@@ -3407,16 +3313,12 @@
             {
                 "ammo_type": "sticky_ammo_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
@@ -3621,9 +3523,7 @@
             {
                 "ammo_type": "pierce_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_1",
@@ -3643,16 +3543,12 @@
             {
                 "ammo_type": "sticky_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
@@ -3862,9 +3758,7 @@
             {
                 "ammo_type": "pierce_ammo_2",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_1",
@@ -3876,9 +3770,7 @@
             {
                 "ammo_type": "spread_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_1",
@@ -3891,23 +3783,17 @@
             {
                 "ammo_type": "shrapnel_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
@@ -4124,9 +4010,7 @@
             {
                 "ammo_type": "pierce_ammo_2",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_1",
@@ -4138,9 +4022,7 @@
             {
                 "ammo_type": "spread_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_1",
@@ -4153,23 +4035,17 @@
             {
                 "ammo_type": "shrapnel_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
@@ -4377,9 +4253,7 @@
             {
                 "ammo_type": "normal_ammo_3",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_1",
@@ -4391,16 +4265,12 @@
             {
                 "ammo_type": "pierce_ammo_2",
                 "capacity": 5,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_3",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_1",
@@ -4412,9 +4282,7 @@
             {
                 "ammo_type": "spread_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_1",
@@ -4427,23 +4295,17 @@
             {
                 "ammo_type": "shrapnel_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
@@ -4685,9 +4547,7 @@
             {
                 "ammo_type": "normal_ammo_3",
                 "capacity": 5,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_1",
@@ -4699,16 +4559,12 @@
             {
                 "ammo_type": "pierce_ammo_2",
                 "capacity": 5,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_3",
                 "capacity": 5,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_1",
@@ -4720,9 +4576,7 @@
             {
                 "ammo_type": "spread_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_1",
@@ -4735,23 +4589,17 @@
             {
                 "ammo_type": "shrapnel_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
@@ -5681,9 +5529,7 @@
             {
                 "ammo_type": "normal_ammo_3",
                 "capacity": 9,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_1",
@@ -5695,16 +5541,12 @@
             {
                 "ammo_type": "pierce_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_3",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_1",
@@ -5716,16 +5558,12 @@
             {
                 "ammo_type": "spread_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_3",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_1",
@@ -5737,16 +5575,12 @@
             {
                 "ammo_type": "shrapnel_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_3",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_1",
@@ -5777,30 +5611,22 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_3",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_2",
@@ -5813,9 +5639,7 @@
             {
                 "ammo_type": "paralysis_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "paralysis_ammo_2",
@@ -5828,9 +5652,7 @@
             {
                 "ammo_type": "sleep_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sleep_ammo_2",
@@ -5843,9 +5665,7 @@
             {
                 "ammo_type": "exhaust_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "exhaust_ammo_2",
@@ -5858,26 +5678,20 @@
             {
                 "ammo_type": "recover_ammo_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "dragon_ammo",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
-                "ammo_type": "piercing_drago_ammo",
+                "ammo_type": "piercing_dragon_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_shot",
@@ -6064,9 +5878,7 @@
             {
                 "ammo_type": "normal_ammo_3",
                 "capacity": 9,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_1",
@@ -6078,16 +5890,12 @@
             {
                 "ammo_type": "pierce_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_3",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_1",
@@ -6099,16 +5907,12 @@
             {
                 "ammo_type": "spread_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_3",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_1",
@@ -6120,16 +5924,12 @@
             {
                 "ammo_type": "shrapnel_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_3",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_1",
@@ -6160,30 +5960,22 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_3",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_2",
@@ -6196,9 +5988,7 @@
             {
                 "ammo_type": "paralysis_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "paralysis_ammo_2",
@@ -6211,9 +6001,7 @@
             {
                 "ammo_type": "sleep_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sleep_ammo_2",
@@ -6226,9 +6014,7 @@
             {
                 "ammo_type": "exhaust_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "exhaust_ammo_2",
@@ -6241,26 +6027,20 @@
             {
                 "ammo_type": "recover_ammo_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "dragon_ammo",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
-                "ammo_type": "piercing_drago_ammo",
+                "ammo_type": "piercing_dragon_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_shot",
@@ -6447,9 +6227,7 @@
             {
                 "ammo_type": "normal_ammo_3",
                 "capacity": 9,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_1",
@@ -6461,16 +6239,12 @@
             {
                 "ammo_type": "pierce_ammo_2",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_3",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_1",
@@ -6482,16 +6256,12 @@
             {
                 "ammo_type": "spread_ammo_2",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_3",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_1",
@@ -6503,16 +6273,12 @@
             {
                 "ammo_type": "shrapnel_ammo_2",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_3",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_1",
@@ -6543,30 +6309,22 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_3",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_2",
@@ -6579,9 +6337,7 @@
             {
                 "ammo_type": "paralysis_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "paralysis_ammo_2",
@@ -6594,9 +6350,7 @@
             {
                 "ammo_type": "sleep_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sleep_ammo_2",
@@ -6609,9 +6363,7 @@
             {
                 "ammo_type": "exhaust_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "exhaust_ammo_2",
@@ -6624,26 +6376,20 @@
             {
                 "ammo_type": "recover_ammo_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "dragon_ammo",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
-                "ammo_type": "piercing_drago_ammo",
+                "ammo_type": "piercing_dragon_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_shot",
@@ -6839,16 +6585,12 @@
             {
                 "ammo_type": "normal_ammo_2",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "normal_ammo_3",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_1",
@@ -6860,9 +6602,7 @@
             {
                 "ammo_type": "shrapnel_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_1",
@@ -6895,9 +6635,7 @@
             {
                 "ammo_type": "poison_ammo_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
@@ -6909,16 +6647,12 @@
             {
                 "ammo_type": "recover_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -7097,16 +6831,12 @@
             {
                 "ammo_type": "normal_ammo_2",
                 "capacity": 5,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "normal_ammo_3",
                 "capacity": 5,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_1",
@@ -7118,9 +6848,7 @@
             {
                 "ammo_type": "shrapnel_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_1",
@@ -7153,9 +6881,7 @@
             {
                 "ammo_type": "poison_ammo_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
@@ -7167,16 +6893,12 @@
             {
                 "ammo_type": "recover_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -7351,16 +7073,12 @@
             {
                 "ammo_type": "normal_ammo_2",
                 "capacity": 6,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "normal_ammo_3",
                 "capacity": 5,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_1",
@@ -7372,9 +7090,7 @@
             {
                 "ammo_type": "shrapnel_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_1",
@@ -7407,9 +7123,7 @@
             {
                 "ammo_type": "poison_ammo_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
@@ -7421,16 +7135,12 @@
             {
                 "ammo_type": "recover_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -8488,9 +8198,7 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "paralysis_ammo_1",
@@ -8549,7 +8257,7 @@
                 ]
             },
             {
-                "ammo_type": "amor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 2,
                 "shot_type": [
                     "moving_shot"
@@ -8779,9 +8487,7 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "paralysis_ammo_1",
@@ -8840,7 +8546,7 @@
                 ]
             },
             {
-                "ammo_type": "amor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 2,
                 "shot_type": [
                     "moving_shot"
@@ -9071,9 +8777,7 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "paralysis_ammo_1",
@@ -9132,7 +8836,7 @@
                 ]
             },
             {
-                "ammo_type": "amor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 3,
                 "shot_type": [
                     "moving_shot"
@@ -9364,16 +9068,12 @@
             {
                 "ammo_type": "shrapnel_ammo_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
@@ -9392,16 +9092,12 @@
             {
                 "ammo_type": "demon_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
-                "ammo_type": "amor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "slicing_ammo",
@@ -9639,16 +9335,12 @@
             {
                 "ammo_type": "shrapnel_ammo_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
@@ -9667,16 +9359,12 @@
             {
                 "ammo_type": "demon_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
-                "ammo_type": "amor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "slicing_ammo",
@@ -9880,16 +9568,12 @@
             {
                 "ammo_type": "shrapnel_ammo_1",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
@@ -9908,16 +9592,12 @@
             {
                 "ammo_type": "demon_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
-                "ammo_type": "amor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "slicing_ammo",
@@ -10127,16 +9807,12 @@
             {
                 "ammo_type": "shrapnel_ammo_1",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
@@ -10155,16 +9831,12 @@
             {
                 "ammo_type": "demon_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
-                "ammo_type": "amor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "slicing_ammo",
@@ -10410,9 +10082,7 @@
             {
                 "ammo_type": "sticky_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "exhaust_ammo_1",
@@ -10433,9 +10103,7 @@
             {
                 "ammo_type": "recover_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "water_ammo",
@@ -10707,9 +10375,7 @@
             {
                 "ammo_type": "sticky_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "exhaust_ammo_1",
@@ -10730,9 +10396,7 @@
             {
                 "ammo_type": "recover_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "water_ammo",
@@ -10970,9 +10634,7 @@
             {
                 "ammo_type": "sticky_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "exhaust_ammo_1",
@@ -10993,9 +10655,7 @@
             {
                 "ammo_type": "recover_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "water_ammo",
@@ -11228,9 +10888,7 @@
             {
                 "ammo_type": "sticky_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "exhaust_ammo_1",
@@ -11251,9 +10909,7 @@
             {
                 "ammo_type": "recover_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "water_ammo",
@@ -11486,9 +11142,7 @@
             {
                 "ammo_type": "pierce_ammo_3",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_1",
@@ -11545,9 +11199,7 @@
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -11779,9 +11431,7 @@
             {
                 "ammo_type": "pierce_ammo_3",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_1",
@@ -11838,9 +11488,7 @@
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -12038,9 +11686,7 @@
             {
                 "ammo_type": "pierce_ammo_3",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_1",
@@ -12097,9 +11743,7 @@
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -12324,9 +11968,7 @@
             {
                 "ammo_type": "cluster_bomb_3",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "exhaust_ammo_1",
@@ -12350,7 +11992,7 @@
                 ]
             },
             {
-                "ammo_type": "piercing_drago_ammo",
+                "ammo_type": "piercing_dragon_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_shot"
@@ -12573,9 +12215,7 @@
             {
                 "ammo_type": "cluster_bomb_3",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "exhaust_ammo_1",
@@ -12599,7 +12239,7 @@
                 ]
             },
             {
-                "ammo_type": "piercing_drago_ammo",
+                "ammo_type": "piercing_dragon_ammo",
                 "capacity": 2,
                 "shot_type": [
                     "moving_shot"
@@ -12817,9 +12457,7 @@
             {
                 "ammo_type": "cluster_bomb_3",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "exhaust_ammo_1",
@@ -12843,7 +12481,7 @@
                 ]
             },
             {
-                "ammo_type": "piercing_drago_ammo",
+                "ammo_type": "piercing_dragon_ammo",
                 "capacity": 3,
                 "shot_type": [
                     "moving_shot"
@@ -13052,9 +12690,7 @@
             {
                 "ammo_type": "pierce_ammo_1",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_2",
@@ -13082,23 +12718,17 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "exhaust_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "exhaust_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
@@ -13111,9 +12741,7 @@
             {
                 "ammo_type": "demon_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "flaming_ammo",
@@ -13133,9 +12761,7 @@
             {
                 "ammo_type": "slicing_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -13351,9 +12977,7 @@
             {
                 "ammo_type": "pierce_ammo_1",
                 "capacity": 5,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_2",
@@ -13381,23 +13005,17 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "exhaust_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "exhaust_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
@@ -13410,9 +13028,7 @@
             {
                 "ammo_type": "demon_ammo",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "flaming_ammo",
@@ -13432,9 +13048,7 @@
             {
                 "ammo_type": "slicing_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -13613,9 +13227,7 @@
             {
                 "ammo_type": "pierce_ammo_1",
                 "capacity": 5,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_2",
@@ -13643,30 +13255,22 @@
             {
                 "ammo_type": "shrapnel_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "exhaust_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "exhaust_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
@@ -13679,9 +13283,7 @@
             {
                 "ammo_type": "demon_ammo",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "flaming_ammo",
@@ -13701,9 +13303,7 @@
             {
                 "ammo_type": "slicing_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -13898,9 +13498,7 @@
             {
                 "ammo_type": "normal_ammo_3",
                 "capacity": 6,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_2",
@@ -13912,9 +13510,7 @@
             {
                 "ammo_type": "pierce_ammo_3",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_2",
@@ -13926,9 +13522,7 @@
             {
                 "ammo_type": "spread_ammo_3",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_2",
@@ -13940,9 +13534,7 @@
             {
                 "ammo_type": "shrapnel_ammo_3",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_2",
@@ -13954,23 +13546,17 @@
             {
                 "ammo_type": "sticky_ammo_3",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_3",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_2",
@@ -13982,16 +13568,12 @@
             {
                 "ammo_type": "sleep_ammo_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "demon_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "flaming_ammo",
@@ -14023,16 +13605,12 @@
             {
                 "ammo_type": "dragon_ammo",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
-                "ammo_type": "piercing_drago_ammo",
+                "ammo_type": "piercing_dragon_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "slicing_ammo",
@@ -14227,9 +13805,7 @@
             {
                 "ammo_type": "normal_ammo_3",
                 "capacity": 6,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_2",
@@ -14241,9 +13817,7 @@
             {
                 "ammo_type": "pierce_ammo_3",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_2",
@@ -14255,9 +13829,7 @@
             {
                 "ammo_type": "spread_ammo_3",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_2",
@@ -14269,9 +13841,7 @@
             {
                 "ammo_type": "shrapnel_ammo_3",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_2",
@@ -14283,51 +13853,37 @@
             {
                 "ammo_type": "sticky_ammo_3",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_3",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sleep_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "exhaust_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "demon_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "flaming_ammo",
@@ -14359,16 +13915,12 @@
             {
                 "ammo_type": "dragon_ammo",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
-                "ammo_type": "piercing_drago_ammo",
+                "ammo_type": "piercing_dragon_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "slicing_ammo",
@@ -14554,9 +14106,7 @@
             {
                 "ammo_type": "normal_ammo_3",
                 "capacity": 7,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_2",
@@ -14568,9 +14118,7 @@
             {
                 "ammo_type": "pierce_ammo_3",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_2",
@@ -14582,9 +14130,7 @@
             {
                 "ammo_type": "spread_ammo_3",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_2",
@@ -14596,9 +14142,7 @@
             {
                 "ammo_type": "shrapnel_ammo_3",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_2",
@@ -14610,51 +14154,37 @@
             {
                 "ammo_type": "sticky_ammo_3",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_3",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sleep_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "exhaust_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "demon_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "flaming_ammo",
@@ -14686,16 +14216,12 @@
             {
                 "ammo_type": "dragon_ammo",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
-                "ammo_type": "piercing_drago_ammo",
+                "ammo_type": "piercing_dragon_ammo",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "slicing_ammo",
@@ -14924,9 +14450,7 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_1",
@@ -14981,11 +14505,9 @@
                 ]
             },
             {
-                "ammo_type": "amor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "piercing_fire_ammo",
@@ -15032,9 +14554,7 @@
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -15245,9 +14765,7 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_1",
@@ -15302,11 +14820,9 @@
                 ]
             },
             {
-                "ammo_type": "amor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "piercing_fire_ammo",
@@ -15353,9 +14869,7 @@
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -15537,100 +15051,72 @@
             {
                 "ammo_type": "normal_ammo_1",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "normal_ammo_2",
                 "capacity": 6,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "dragon_ammo",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
-                "ammo_type": "piercing_drago_ammo",
+                "ammo_type": "piercing_dragon_ammo",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "slicing_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -15801,100 +15287,72 @@
             {
                 "ammo_type": "normal_ammo_1",
                 "capacity": 5,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "normal_ammo_2",
                 "capacity": 6,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "dragon_ammo",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
-                "ammo_type": "piercing_drago_ammo",
+                "ammo_type": "piercing_dragon_ammo",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "slicing_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -16109,44 +15567,32 @@
             {
                 "ammo_type": "sticky_ammo_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "paralysis_ammo_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sleep_ammo_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "exhaust_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
@@ -16166,9 +15612,7 @@
             {
                 "ammo_type": "slicing_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -16368,44 +15812,32 @@
             {
                 "ammo_type": "sticky_ammo_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "paralysis_ammo_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sleep_ammo_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "exhaust_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
@@ -16425,9 +15857,7 @@
             {
                 "ammo_type": "slicing_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -16628,44 +16058,32 @@
             {
                 "ammo_type": "sticky_ammo_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "paralysis_ammo_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sleep_ammo_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "exhaust_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
@@ -16685,9 +16103,7 @@
             {
                 "ammo_type": "slicing_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -16885,9 +16301,7 @@
             {
                 "ammo_type": "normal_ammo_3",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_1",
@@ -16915,9 +16329,7 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "exhaust_ammo_1",
@@ -17135,9 +16547,7 @@
             {
                 "ammo_type": "normal_ammo_3",
                 "capacity": 5,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_1",
@@ -17165,9 +16575,7 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "exhaust_ammo_1",
@@ -17385,9 +16793,7 @@
             {
                 "ammo_type": "normal_ammo_3",
                 "capacity": 5,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_1",
@@ -17415,9 +16821,7 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "exhaust_ammo_1",
@@ -17666,9 +17070,7 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_1",
@@ -17723,9 +17125,7 @@
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -17958,9 +17358,7 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_1",
@@ -18015,9 +17413,7 @@
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -18202,9 +17598,7 @@
             {
                 "ammo_type": "pierce_ammo_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_1",
@@ -18224,16 +17618,12 @@
             {
                 "ammo_type": "spread_ammo_3",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_1",
@@ -18288,9 +17678,7 @@
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -18502,23 +17890,17 @@
             {
                 "ammo_type": "sleep_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "water_ammo",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "freeze_ammo",
@@ -18537,9 +17919,7 @@
             {
                 "ammo_type": "slicing_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -18764,16 +18144,12 @@
             {
                 "ammo_type": "sleep_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "water_ammo",
@@ -18799,9 +18175,7 @@
             {
                 "ammo_type": "slicing_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -18992,16 +18366,12 @@
             {
                 "ammo_type": "sleep_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "water_ammo",
@@ -19027,9 +18397,7 @@
             {
                 "ammo_type": "slicing_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -19256,9 +18624,7 @@
             {
                 "ammo_type": "sticky_ammo_3",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_1",
@@ -19277,9 +18643,7 @@
             {
                 "ammo_type": "cluster_bomb_3",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sleep_ammo_1",
@@ -19291,9 +18655,7 @@
             {
                 "ammo_type": "sleep_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
@@ -19519,9 +18881,7 @@
             {
                 "ammo_type": "sticky_ammo_3",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_1",
@@ -19540,9 +18900,7 @@
             {
                 "ammo_type": "cluster_bomb_3",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sleep_ammo_1",
@@ -19554,9 +18912,7 @@
             {
                 "ammo_type": "sleep_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
@@ -19776,9 +19132,7 @@
             {
                 "ammo_type": "sticky_ammo_3",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_1",
@@ -19797,9 +19151,7 @@
             {
                 "ammo_type": "cluster_bomb_3",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sleep_ammo_1",
@@ -19811,9 +19163,7 @@
             {
                 "ammo_type": "sleep_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
@@ -20025,9 +19375,7 @@
             {
                 "ammo_type": "normal_ammo_3",
                 "capacity": 5,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_1",
@@ -20047,9 +19395,7 @@
             {
                 "ammo_type": "spread_ammo_3",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_1",
@@ -20089,7 +19435,7 @@
                 ]
             },
             {
-                "ammo_type": "amor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_reload"
@@ -20098,16 +19444,12 @@
             {
                 "ammo_type": "flaming_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "slicing_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -20285,9 +19627,7 @@
             {
                 "ammo_type": "normal_ammo_3",
                 "capacity": 5,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_1",
@@ -20307,9 +19647,7 @@
             {
                 "ammo_type": "spread_ammo_3",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_1",
@@ -20349,7 +19687,7 @@
                 ]
             },
             {
-                "ammo_type": "amor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 2,
                 "shot_type": [
                     "moving_reload"
@@ -20358,16 +19696,12 @@
             {
                 "ammo_type": "flaming_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "slicing_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -20544,9 +19878,7 @@
             {
                 "ammo_type": "normal_ammo_3",
                 "capacity": 5,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_1",
@@ -20566,9 +19898,7 @@
             {
                 "ammo_type": "spread_ammo_3",
                 "capacity": 5,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_1",
@@ -20615,7 +19945,7 @@
                 ]
             },
             {
-                "ammo_type": "amor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 2,
                 "shot_type": [
                     "moving_reload"
@@ -20624,16 +19954,12 @@
             {
                 "ammo_type": "flaming_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "slicing_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -20875,9 +20201,7 @@
             {
                 "ammo_type": "shrapnel_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_1",
@@ -20889,9 +20213,7 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_1",
@@ -20910,9 +20232,7 @@
             {
                 "ammo_type": "paralysis_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sleep_ammo_1",
@@ -20924,16 +20244,12 @@
             {
                 "ammo_type": "recover_ammo_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "flaming_ammo",
@@ -20952,9 +20268,7 @@
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -21180,9 +20494,7 @@
             {
                 "ammo_type": "shrapnel_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_1",
@@ -21194,9 +20506,7 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_1",
@@ -21215,9 +20525,7 @@
             {
                 "ammo_type": "paralysis_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sleep_ammo_1",
@@ -21229,16 +20537,12 @@
             {
                 "ammo_type": "recover_ammo_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "flaming_ammo",
@@ -21257,9 +20561,7 @@
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -21480,9 +20782,7 @@
             {
                 "ammo_type": "shrapnel_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_1",
@@ -21494,9 +20794,7 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_1",
@@ -21515,9 +20813,7 @@
             {
                 "ammo_type": "paralysis_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sleep_ammo_1",
@@ -21529,16 +20825,12 @@
             {
                 "ammo_type": "recover_ammo_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "flaming_ammo",
@@ -21557,9 +20849,7 @@
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -21761,9 +21051,7 @@
             {
                 "ammo_type": "pierce_ammo_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_1",
@@ -21796,30 +21084,22 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "paralysis_ammo_2",
@@ -21833,19 +21113,15 @@
             {
                 "ammo_type": "sleep_ammo_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
-                "ammo_type": "amor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 2,
                 "shot_type": [
                     "moving_reload"
@@ -21870,9 +21146,7 @@
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -22058,9 +21332,7 @@
             {
                 "ammo_type": "pierce_ammo_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_1",
@@ -22093,30 +21365,22 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "paralysis_ammo_2",
@@ -22130,19 +21394,15 @@
             {
                 "ammo_type": "sleep_ammo_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
-                "ammo_type": "amor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 2,
                 "shot_type": [
                     "moving_reload"
@@ -22167,9 +21427,7 @@
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -22358,9 +21616,7 @@
             {
                 "ammo_type": "pierce_ammo_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_1",
@@ -22393,30 +21649,22 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "paralysis_ammo_2",
@@ -22430,19 +21678,15 @@
             {
                 "ammo_type": "sleep_ammo_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
-                "ammo_type": "amor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 2,
                 "shot_type": [
                     "moving_reload"
@@ -22467,9 +21711,7 @@
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -22667,9 +21909,7 @@
             {
                 "ammo_type": "normal_ammo_3",
                 "capacity": 5,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_1",
@@ -22681,9 +21921,7 @@
             {
                 "ammo_type": "pierce_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_1",
@@ -22718,9 +21956,7 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_2",
@@ -22740,9 +21976,7 @@
             {
                 "ammo_type": "poison_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
@@ -22975,9 +22209,7 @@
             {
                 "ammo_type": "normal_ammo_3",
                 "capacity": 5,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_1",
@@ -22989,9 +22221,7 @@
             {
                 "ammo_type": "pierce_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_1",
@@ -23026,9 +22256,7 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_2",
@@ -23048,9 +22276,7 @@
             {
                 "ammo_type": "poison_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
@@ -23070,9 +22296,7 @@
             {
                 "ammo_type": "piercing_fire_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "slicing_ammo",
@@ -23262,9 +22486,7 @@
             {
                 "ammo_type": "normal_ammo_3",
                 "capacity": 6,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_1",
@@ -23276,9 +22498,7 @@
             {
                 "ammo_type": "pierce_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_1",
@@ -23313,9 +22533,7 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_2",
@@ -23335,9 +22553,7 @@
             {
                 "ammo_type": "poison_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
@@ -23357,9 +22573,7 @@
             {
                 "ammo_type": "piercing_fire_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "slicing_ammo",
@@ -24343,9 +23557,7 @@
             {
                 "ammo_type": "pierce_ammo_3",
                 "capacity": 5,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_1",
@@ -24357,16 +23569,12 @@
             {
                 "ammo_type": "sticky_ammo_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "paralysis_ammo_1",
@@ -24378,9 +23586,7 @@
             {
                 "ammo_type": "paralysis_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sleep_ammo_1",
@@ -24392,9 +23598,7 @@
             {
                 "ammo_type": "demon_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "thunder_ammo",
@@ -24413,9 +23617,7 @@
             {
                 "ammo_type": "slicing_ammo",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -24604,9 +23806,7 @@
             {
                 "ammo_type": "pierce_ammo_3",
                 "capacity": 5,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_1",
@@ -24618,16 +23818,12 @@
             {
                 "ammo_type": "sticky_ammo_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "paralysis_ammo_1",
@@ -24639,9 +23835,7 @@
             {
                 "ammo_type": "paralysis_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sleep_ammo_1",
@@ -24653,9 +23847,7 @@
             {
                 "ammo_type": "demon_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "thunder_ammo",
@@ -24674,9 +23866,7 @@
             {
                 "ammo_type": "slicing_ammo",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -24860,9 +24050,7 @@
             {
                 "ammo_type": "pierce_ammo_3",
                 "capacity": 5,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_1",
@@ -24874,16 +24062,12 @@
             {
                 "ammo_type": "sticky_ammo_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "paralysis_ammo_1",
@@ -24895,9 +24079,7 @@
             {
                 "ammo_type": "paralysis_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sleep_ammo_1",
@@ -24909,9 +24091,7 @@
             {
                 "ammo_type": "demon_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "thunder_ammo",
@@ -24930,9 +24110,7 @@
             {
                 "ammo_type": "slicing_ammo",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -25166,9 +24344,7 @@
             {
                 "ammo_type": "spread_ammo_3",
                 "capacity": 5,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_1",
@@ -25180,44 +24356,32 @@
             {
                 "ammo_type": "sticky_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "paralysis_ammo_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "demon_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "flaming_ammo",
@@ -25229,16 +24393,12 @@
             {
                 "ammo_type": "dragon_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -25485,9 +24645,7 @@
             {
                 "ammo_type": "spread_ammo_3",
                 "capacity": 5,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_1",
@@ -25499,44 +24657,32 @@
             {
                 "ammo_type": "sticky_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "paralysis_ammo_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "demon_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "flaming_ammo",
@@ -25548,16 +24694,12 @@
             {
                 "ammo_type": "dragon_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -25775,9 +24917,7 @@
             {
                 "ammo_type": "spread_ammo_3",
                 "capacity": 5,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_1",
@@ -25789,44 +24929,32 @@
             {
                 "ammo_type": "sticky_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "paralysis_ammo_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "demon_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "flaming_ammo",
@@ -25838,16 +24966,12 @@
             {
                 "ammo_type": "dragon_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -26062,37 +25186,27 @@
             {
                 "ammo_type": "sticky_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "demon_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "slicing_ammo",
@@ -26299,37 +25413,27 @@
             {
                 "ammo_type": "sticky_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "demon_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "slicing_ammo",
@@ -26540,37 +25644,27 @@
             {
                 "ammo_type": "sticky_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "demon_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "slicing_ammo",
@@ -26793,9 +25887,7 @@
             {
                 "ammo_type": "sticky_ammo_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "exhaust_ammo_1",
@@ -26807,9 +25899,7 @@
             {
                 "ammo_type": "exhaust_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
@@ -26843,9 +25933,7 @@
             {
                 "ammo_type": "slicing_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -27079,9 +26167,7 @@
             {
                 "ammo_type": "sticky_ammo_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "exhaust_ammo_1",
@@ -27093,9 +26179,7 @@
             {
                 "ammo_type": "exhaust_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
@@ -27129,9 +26213,7 @@
             {
                 "ammo_type": "slicing_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -27336,9 +26418,7 @@
             {
                 "ammo_type": "sticky_ammo_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "exhaust_ammo_1",
@@ -27350,9 +26430,7 @@
             {
                 "ammo_type": "exhaust_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
@@ -27386,9 +26464,7 @@
             {
                 "ammo_type": "slicing_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -27589,9 +26665,7 @@
             {
                 "ammo_type": "pierce_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_1",
@@ -27603,23 +26677,17 @@
             {
                 "ammo_type": "shrapnel_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "paralysis_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "paralysis_ammo_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "thunder_ammo",
@@ -27631,9 +26699,7 @@
             {
                 "ammo_type": "piercing_thunder_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "slicing_ammo",
@@ -27646,9 +26712,7 @@
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -27838,9 +26902,7 @@
             {
                 "ammo_type": "pierce_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_1",
@@ -27852,23 +26914,17 @@
             {
                 "ammo_type": "shrapnel_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "paralysis_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "paralysis_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "thunder_ammo",
@@ -27880,9 +26936,7 @@
             {
                 "ammo_type": "piercing_thunder_ammo",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "slicing_ammo",
@@ -27895,9 +26949,7 @@
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -28094,9 +27146,7 @@
             {
                 "ammo_type": "pierce_ammo_2",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_1",
@@ -28108,23 +27158,17 @@
             {
                 "ammo_type": "shrapnel_ammo_2",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "paralysis_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "paralysis_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "thunder_ammo",
@@ -28136,9 +27180,7 @@
             {
                 "ammo_type": "piercing_thunder_ammo",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "slicing_ammo",
@@ -28151,9 +27193,7 @@
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -28381,16 +27421,12 @@
             {
                 "ammo_type": "sticky_ammo_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_3",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_1",
@@ -28432,16 +27468,12 @@
             {
                 "ammo_type": "dragon_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -28658,16 +27690,12 @@
             {
                 "ammo_type": "sticky_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_3",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_1",
@@ -28709,16 +27737,12 @@
             {
                 "ammo_type": "dragon_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -28935,16 +27959,12 @@
             {
                 "ammo_type": "sticky_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_3",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_1",
@@ -28986,16 +28006,12 @@
             {
                 "ammo_type": "dragon_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -29241,16 +28257,12 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "exhaust_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "exhaust_ammo_2",
@@ -29263,16 +28275,12 @@
             {
                 "ammo_type": "demon_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -29540,16 +28548,12 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "exhaust_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "exhaust_ammo_2",
@@ -29562,16 +28566,12 @@
             {
                 "ammo_type": "demon_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -29802,16 +28802,12 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "exhaust_ammo_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "exhaust_ammo_2",
@@ -29824,16 +28820,12 @@
             {
                 "ammo_type": "demon_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -30026,9 +29018,7 @@
             {
                 "ammo_type": "normal_ammo_3",
                 "capacity": 5,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_1",
@@ -30040,16 +29030,12 @@
             {
                 "ammo_type": "pierce_ammo_2",
                 "capacity": 5,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_3",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_1",
@@ -30069,23 +29055,17 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_2",
@@ -30098,9 +29078,7 @@
             {
                 "ammo_type": "paralysis_ammo_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "paralysis_ammo_2",
@@ -30120,16 +29098,12 @@
             {
                 "ammo_type": "recover_ammo_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
-                "ammo_type": "amor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "water_ammo",
@@ -30162,9 +29136,7 @@
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -30350,9 +29322,7 @@
             {
                 "ammo_type": "normal_ammo_3",
                 "capacity": 6,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_1",
@@ -30364,16 +29334,12 @@
             {
                 "ammo_type": "pierce_ammo_2",
                 "capacity": 5,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_3",
                 "capacity": 5,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_1",
@@ -30393,23 +29359,17 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_2",
@@ -30422,9 +29382,7 @@
             {
                 "ammo_type": "paralysis_ammo_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "paralysis_ammo_2",
@@ -30444,16 +29402,12 @@
             {
                 "ammo_type": "recover_ammo_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
-                "ammo_type": "amor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "water_ammo",
@@ -30486,9 +29440,7 @@
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -30706,9 +29658,7 @@
             {
                 "ammo_type": "pierce_ammo_3",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_1",
@@ -30735,9 +29685,7 @@
             {
                 "ammo_type": "shrapnel_ammo_3",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_1",
@@ -30763,23 +29711,17 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_3",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
@@ -30791,9 +29733,7 @@
             {
                 "ammo_type": "recover_ammo_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "flaming_ammo",
@@ -30805,9 +29745,7 @@
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -31014,9 +29952,7 @@
             {
                 "ammo_type": "pierce_ammo_3",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_1",
@@ -31043,9 +29979,7 @@
             {
                 "ammo_type": "shrapnel_ammo_3",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_1",
@@ -31071,23 +30005,17 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_2",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_3",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "recover_ammo_1",
@@ -31099,9 +30027,7 @@
             {
                 "ammo_type": "recover_ammo_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "flaming_ammo",
@@ -31113,9 +30039,7 @@
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -31320,23 +30244,17 @@
             {
                 "ammo_type": "pierce_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_2",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_2",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_1",
@@ -31368,9 +30286,7 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_1",
@@ -31447,16 +30363,12 @@
             {
                 "ammo_type": "flaming_ammo",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "dragon_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -31650,30 +30562,22 @@
             {
                 "ammo_type": "pierce_ammo_1",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "pierce_ammo_2",
                 "capacity": 3,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "spread_ammo_2",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "shrapnel_ammo_2",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "sticky_ammo_1",
@@ -31705,9 +30609,7 @@
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "poison_ammo_1",
@@ -31784,16 +30686,12 @@
             {
                 "ammo_type": "flaming_ammo",
                 "capacity": 4,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "dragon_ammo",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -32047,23 +30945,17 @@
             {
                 "ammo_type": "sticky_ammo_3",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "paralysis_ammo_1",
@@ -32104,9 +30996,7 @@
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -32349,23 +31239,17 @@
             {
                 "ammo_type": "sticky_ammo_3",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "paralysis_ammo_1",
@@ -32406,9 +31290,7 @@
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",
@@ -32643,30 +31525,22 @@
             {
                 "ammo_type": "sticky_ammo_3",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_1",
                 "capacity": 2,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_2",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "cluster_bomb_3",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "paralysis_ammo_1",
@@ -32707,9 +31581,7 @@
             {
                 "ammo_type": "wyvern_ammo",
                 "capacity": 1,
-                "shot_type": [
-                    ""
-                ]
+                "shot_type": []
             },
             {
                 "ammo_type": "tranq_ammo",

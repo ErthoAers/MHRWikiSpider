@@ -206,6 +206,9 @@ def fetch_upgrade(upgrade):
     return upgrade_entry
 
 def fetch(link):
+    rarity = int(link.find("div").find("div")["class"][0].split("-")[-1])
+    link = link["href"]
+    
     expr = r"^/weapon/([A-Za-z]+)_(\d{3}).html$"
     match = re.match(expr, link)
     w = match.group(1)
@@ -239,6 +242,7 @@ def fetch(link):
 
     entry = {
         "id": weapon_id,
+        "rarity": rarity,
         "genre": camel_to_snake(w),
         "name": name,
         "name_entry": [{
@@ -293,7 +297,7 @@ for w in weapon_list:
 
     expr = f"/weapon/{''.join(i.capitalize() for i in w.split('_'))}" + r"_(\d{3}).html"
     soup = BeautifulSoup(r.text, features="lxml")
-    links[w] = [i["href"] for i in soup.find_all(href=re.compile(expr))]
+    links[w] = [i for i in soup.find_all(href=re.compile(expr))]
 
 for w in weapon_list:
     weapon[w] = []

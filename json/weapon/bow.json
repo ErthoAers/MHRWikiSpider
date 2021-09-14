@@ -676,7 +676,7 @@
             221
         ],
         "bottle": [
-            "close_rangepower_up",
+            "close_range_power_up",
             "power"
         ],
         "crafting": [
@@ -888,7 +888,7 @@
             221
         ],
         "bottle": [
-            "close_rangepower_up",
+            "close_range_power_up",
             "power"
         ],
         "crafting": [
@@ -1063,7 +1063,7 @@
             221
         ],
         "bottle": [
-            "close_rangepower_up",
+            "close_range_power_up",
             "power"
         ],
         "crafting": [
@@ -5141,8 +5141,8 @@
         "bottle": [
             "close_range",
             "power",
-            "paralyzepower_up",
-            "sleeppower_up"
+            "paralyze_power_up",
+            "sleep_power_up"
         ],
         "crafting": [
             {
@@ -5317,8 +5317,8 @@
         "bottle": [
             "close_range",
             "power",
-            "paralyzepower_up",
-            "sleeppower_up"
+            "paralyze_power_up",
+            "sleep_power_up"
         ],
         "crafting": [
             {
@@ -5494,8 +5494,8 @@
         "bottle": [
             "close_range",
             "power",
-            "paralyzepower_up",
-            "sleeppower_up"
+            "paralyze_power_up",
+            "sleep_power_up"
         ],
         "crafting": [
             {
@@ -5687,7 +5687,7 @@
         "bottle": [
             "close_range",
             "power",
-            "paralyzepower_up"
+            "paralyze_power_up"
         ],
         "crafting": [
             {
@@ -5862,7 +5862,7 @@
         "bottle": [
             "close_range",
             "power",
-            "paralyzepower_up"
+            "paralyze_power_up"
         ],
         "crafting": [
             {
@@ -6038,7 +6038,7 @@
         "bottle": [
             "close_range",
             "power",
-            "paralyzepower_up"
+            "paralyze_power_up"
         ],
         "crafting": [
             {
@@ -6230,8 +6230,8 @@
         "bottle": [
             "close_range",
             "power",
-            "poisonpower_up",
-            "paralyzepower_up",
+            "poison_power_up",
+            "paralyze_power_up",
             "sleep",
             "blast",
             "exhaust"
@@ -6409,8 +6409,8 @@
         "bottle": [
             "close_range",
             "power",
-            "poisonpower_up",
-            "paralyzepower_up",
+            "poison_power_up",
+            "paralyze_power_up",
             "sleep",
             "blast",
             "exhaust"
@@ -6589,8 +6589,8 @@
         "bottle": [
             "close_range",
             "power",
-            "poisonpower_up",
-            "paralyzepower_up",
+            "poison_power_up",
+            "paralyze_power_up",
             "sleep",
             "blast",
             "exhaust"
@@ -6784,7 +6784,7 @@
         ],
         "bottle": [
             "close_range",
-            "sleeppower_up",
+            "sleep_power_up",
             "blast",
             "exhaust"
         ],
@@ -6956,7 +6956,7 @@
         ],
         "bottle": [
             "close_range",
-            "sleeppower_up",
+            "sleep_power_up",
             "blast",
             "exhaust"
         ],
@@ -7133,7 +7133,7 @@
         ],
         "bottle": [
             "close_range",
-            "sleeppower_up",
+            "sleep_power_up",
             "blast",
             "exhaust"
         ],
@@ -7329,7 +7329,7 @@
             "power",
             "poison",
             "paralyze",
-            "sleeppower_up"
+            "sleep_power_up"
         ],
         "crafting": [
             {
@@ -7507,7 +7507,7 @@
             "power",
             "poison",
             "paralyze",
-            "sleeppower_up"
+            "sleep_power_up"
         ],
         "crafting": [
             {
@@ -7685,7 +7685,7 @@
             "power",
             "poison",
             "paralyze",
-            "sleeppower_up"
+            "sleep_power_up"
         ],
         "crafting": [
             {
@@ -7876,8 +7876,8 @@
         "bottle": [
             "close_range",
             "power",
-            "poisonpower_up",
-            "paralyzepower_up"
+            "poison_power_up",
+            "paralyze_power_up"
         ],
         "crafting": [
             {
@@ -8083,8 +8083,8 @@
         "bottle": [
             "close_range",
             "power",
-            "poisonpower_up",
-            "paralyzepower_up"
+            "poison_power_up",
+            "paralyze_power_up"
         ],
         "crafting": [
             {
@@ -8260,8 +8260,8 @@
         "bottle": [
             "close_range",
             "power",
-            "poisonpower_up",
-            "paralyzepower_up"
+            "poison_power_up",
+            "paralyze_power_up"
         ],
         "crafting": [
             {
@@ -8450,7 +8450,7 @@
             238
         ],
         "bottle": [
-            "close_rangepower_up",
+            "close_range_power_up",
             "power",
             "blast",
             "exhaust"
@@ -8631,7 +8631,7 @@
             238
         ],
         "bottle": [
-            "close_rangepower_up",
+            "close_range_power_up",
             "power",
             "blast",
             "exhaust"
@@ -8807,7 +8807,7 @@
             238
         ],
         "bottle": [
-            "close_rangepower_up",
+            "close_range_power_up",
             "power",
             "blast",
             "exhaust"
@@ -11421,7 +11421,7 @@
         ],
         "bottle": [
             "close_range",
-            "paralyzepower_up"
+            "paralyze_power_up"
         ],
         "crafting": [
             {
@@ -11598,7 +11598,7 @@
         ],
         "bottle": [
             "close_range",
-            "paralyzepower_up"
+            "paralyze_power_up"
         ],
         "crafting": [
             {
@@ -11769,7 +11769,7 @@
         ],
         "bottle": [
             "close_range",
-            "paralyzepower_up"
+            "paralyze_power_up"
         ],
         "crafting": [
             {
@@ -11955,7 +11955,7 @@
         ],
         "bottle": [
             "close_range",
-            "paralyzepower_up"
+            "paralyze_power_up"
         ],
         "crafting": [
             {
@@ -12126,7 +12126,7 @@
         ],
         "bottle": [
             "close_range",
-            "paralyzepower_up"
+            "paralyze_power_up"
         ],
         "crafting": [
             {
@@ -12296,7 +12296,7 @@
         ],
         "bottle": [
             "close_range",
-            "paralyzepower_up"
+            "paralyze_power_up"
         ],
         "crafting": [
             {
@@ -12483,7 +12483,7 @@
         ],
         "bottle": [
             "close_range",
-            "paralyzepower_up"
+            "paralyze_power_up"
         ],
         "crafting": [
             {
@@ -12654,7 +12654,7 @@
         ],
         "bottle": [
             "close_range",
-            "paralyzepower_up"
+            "paralyze_power_up"
         ],
         "crafting": [
             {
@@ -12825,7 +12825,7 @@
         ],
         "bottle": [
             "close_range",
-            "paralyzepower_up"
+            "paralyze_power_up"
         ],
         "crafting": [
             {
@@ -13011,7 +13011,7 @@
         ],
         "bottle": [
             "close_range",
-            "paralyzepower_up"
+            "paralyze_power_up"
         ],
         "crafting": [
             {
@@ -13182,7 +13182,7 @@
         ],
         "bottle": [
             "close_range",
-            "paralyzepower_up"
+            "paralyze_power_up"
         ],
         "crafting": [
             {
@@ -13352,7 +13352,7 @@
         ],
         "bottle": [
             "close_range",
-            "paralyzepower_up"
+            "paralyze_power_up"
         ],
         "crafting": [
             {
@@ -13543,7 +13543,7 @@
         ],
         "bottle": [
             "close_range",
-            "paralyzepower_up"
+            "paralyze_power_up"
         ],
         "crafting": [
             {
@@ -13746,7 +13746,7 @@
         ],
         "bottle": [
             "close_range",
-            "paralyzepower_up"
+            "paralyze_power_up"
         ],
         "crafting": [
             {
@@ -13921,7 +13921,7 @@
         ],
         "bottle": [
             "close_range",
-            "paralyzepower_up"
+            "paralyze_power_up"
         ],
         "crafting": [
             {
@@ -14106,7 +14106,7 @@
             199
         ],
         "bottle": [
-            "close_rangepower_up",
+            "close_range_power_up",
             "power",
             "poison",
             "paralyze",
@@ -14285,7 +14285,7 @@
             199
         ],
         "bottle": [
-            "close_rangepower_up",
+            "close_range_power_up",
             "power",
             "poison",
             "paralyze",
@@ -14464,7 +14464,7 @@
             199
         ],
         "bottle": [
-            "close_rangepower_up",
+            "close_range_power_up",
             "power",
             "poison",
             "paralyze",
@@ -15196,7 +15196,7 @@
             "close_range",
             "power",
             "poison",
-            "sleeppower_up",
+            "sleep_power_up",
             "blast",
             "exhaust"
         ],
@@ -15371,7 +15371,7 @@
             "close_range",
             "power",
             "poison",
-            "sleeppower_up",
+            "sleep_power_up",
             "blast",
             "exhaust"
         ],
@@ -15549,7 +15549,7 @@
             "close_range",
             "power",
             "poison",
-            "sleeppower_up",
+            "sleep_power_up",
             "blast",
             "exhaust"
         ],
@@ -15743,8 +15743,8 @@
         "bottle": [
             "close_range",
             "power",
-            "poisonpower_up",
-            "sleeppower_up"
+            "poison_power_up",
+            "sleep_power_up"
         ],
         "crafting": [
             {
@@ -15939,8 +15939,8 @@
         "bottle": [
             "close_range",
             "power",
-            "poisonpower_up",
-            "sleeppower_up"
+            "poison_power_up",
+            "sleep_power_up"
         ],
         "crafting": [
             {
@@ -16116,8 +16116,8 @@
         "bottle": [
             "close_range",
             "power",
-            "poisonpower_up",
-            "sleeppower_up"
+            "poison_power_up",
+            "sleep_power_up"
         ],
         "crafting": [
             {
@@ -17599,7 +17599,7 @@
         "bottle": [
             "close_range",
             "power",
-            "paralyzepower_up",
+            "paralyze_power_up",
             "sleep"
         ],
         "crafting": [
@@ -17776,7 +17776,7 @@
         "bottle": [
             "close_range",
             "power",
-            "paralyzepower_up",
+            "paralyze_power_up",
             "sleep"
         ],
         "crafting": [
@@ -17948,7 +17948,7 @@
         "bottle": [
             "close_range",
             "power",
-            "paralyzepower_up",
+            "paralyze_power_up",
             "sleep"
         ],
         "crafting": [
@@ -18140,7 +18140,7 @@
         ],
         "bottle": [
             "close_range",
-            "poisonpower_up",
+            "poison_power_up",
             "paralyze",
             "blast"
         ],
@@ -18318,7 +18318,7 @@
         ],
         "bottle": [
             "close_range",
-            "poisonpower_up",
+            "poison_power_up",
             "paralyze",
             "blast"
         ],
@@ -18494,7 +18494,7 @@
         ],
         "bottle": [
             "close_range",
-            "poisonpower_up",
+            "poison_power_up",
             "paralyze",
             "blast"
         ],
@@ -18687,7 +18687,7 @@
         ],
         "bottle": [
             "close_range",
-            "poisonpower_up",
+            "poison_power_up",
             "paralyze"
         ],
         "crafting": [
@@ -18859,7 +18859,7 @@
         ],
         "bottle": [
             "close_range",
-            "poisonpower_up",
+            "poison_power_up",
             "paralyze"
         ],
         "crafting": [
@@ -19030,7 +19030,7 @@
         ],
         "bottle": [
             "close_range",
-            "poisonpower_up",
+            "poison_power_up",
             "paralyze"
         ],
         "crafting": [
@@ -19935,7 +19935,7 @@
         "bottle": [
             "close_range",
             "power",
-            "paralyzepower_up"
+            "paralyze_power_up"
         ],
         "crafting": [
             {
@@ -20111,7 +20111,7 @@
         "bottle": [
             "close_range",
             "power",
-            "paralyzepower_up"
+            "paralyze_power_up"
         ],
         "crafting": [
             {
@@ -20282,7 +20282,7 @@
         "bottle": [
             "close_range",
             "power",
-            "paralyzepower_up"
+            "paralyze_power_up"
         ],
         "crafting": [
             {
@@ -20458,7 +20458,7 @@
         "bottle": [
             "close_range",
             "power",
-            "paralyzepower_up"
+            "paralyze_power_up"
         ],
         "crafting": [
             {
@@ -21186,7 +21186,7 @@
             228
         ],
         "bottle": [
-            "close_rangepower_up",
+            "close_range_power_up",
             "poison",
             "paralyze"
         ],
@@ -21362,7 +21362,7 @@
             228
         ],
         "bottle": [
-            "close_rangepower_up",
+            "close_range_power_up",
             "poison",
             "paralyze"
         ],
@@ -21538,7 +21538,7 @@
             228
         ],
         "bottle": [
-            "close_rangepower_up",
+            "close_range_power_up",
             "poison",
             "paralyze"
         ],
@@ -22265,7 +22265,7 @@
         "bottle": [
             "close_range",
             "power",
-            "poisonpower_up",
+            "poison_power_up",
             "paralyze"
         ],
         "crafting": [
@@ -22471,7 +22471,7 @@
         "bottle": [
             "close_range",
             "power",
-            "poisonpower_up",
+            "poison_power_up",
             "paralyze"
         ],
         "crafting": [
@@ -22648,7 +22648,7 @@
         "bottle": [
             "close_range",
             "power",
-            "poisonpower_up",
+            "poison_power_up",
             "paralyze"
         ],
         "crafting": [
@@ -25264,7 +25264,7 @@
         "bottle": [
             "close_range",
             "power",
-            "poisonpower_up",
+            "poison_power_up",
             "paralyze"
         ],
         "crafting": [
@@ -25445,7 +25445,7 @@
         "bottle": [
             "close_range",
             "power",
-            "poisonpower_up",
+            "poison_power_up",
             "paralyze"
         ],
         "crafting": [
