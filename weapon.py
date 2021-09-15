@@ -134,8 +134,9 @@ def fetch_ammo_list(ammo_list):
                 continue
             contents = ammo.contents
             shot_type = [i.strip().lower().replace(" ", "_") for i in contents[2].text.split(",")]
+            ammo_type = contents[0].text.lower().replace(" ", "_")
             ammo_entry.append({
-                "ammo_type": contents[0].text.lower().replace(" ", "_"),
+                "ammo_type": ammo_type if ammo_type != "amor_ammo" else "ammor_ammo",
                 "capacity": int(contents[1].text),
                 "shot_type": shot_type if shot_type[0] != "" else []
             })
