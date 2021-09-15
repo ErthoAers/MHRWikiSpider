@@ -153,6 +153,7 @@ def fetch_bottle(bottle):
     for i, bottle in enumerate(bottles):
         if bottle.endswith("power_up"):
             bottles[i] = f"{bottle[:-8]}_power_up"
+    return bottles
 
 def fetch_crafting(crafting):
     crafting = crafting.find("tbody").contents
