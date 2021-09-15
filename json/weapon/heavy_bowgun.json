@@ -5777,7 +5777,7 @@
                 "shot_type": []
             },
             {
-                "ammo_type": "piercing_drago_ammo",
+                "ammo_type": "piercing_dragon_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_shot",
@@ -6131,7 +6131,7 @@
                 "shot_type": []
             },
             {
-                "ammo_type": "piercing_drago_ammo",
+                "ammo_type": "piercing_dragon_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_shot",
@@ -6481,7 +6481,7 @@
                 "shot_type": []
             },
             {
-                "ammo_type": "piercing_drago_ammo",
+                "ammo_type": "piercing_dragon_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_shot",
@@ -12175,7 +12175,7 @@
                 ]
             },
             {
-                "ammo_type": "piercing_drago_ammo",
+                "ammo_type": "piercing_dragon_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_shot"
@@ -12427,7 +12427,7 @@
                 ]
             },
             {
-                "ammo_type": "piercing_drago_ammo",
+                "ammo_type": "piercing_dragon_ammo",
                 "capacity": 2,
                 "shot_type": [
                     "moving_shot"
@@ -12670,7 +12670,7 @@
                 ]
             },
             {
-                "ammo_type": "piercing_drago_ammo",
+                "ammo_type": "piercing_dragon_ammo",
                 "capacity": 3,
                 "shot_type": [
                     "moving_shot"
@@ -13816,7 +13816,7 @@
                 "shot_type": []
             },
             {
-                "ammo_type": "piercing_drago_ammo",
+                "ammo_type": "piercing_dragon_ammo",
                 "capacity": 2,
                 "shot_type": []
             },
@@ -14131,7 +14131,7 @@
                 "shot_type": []
             },
             {
-                "ammo_type": "piercing_drago_ammo",
+                "ammo_type": "piercing_dragon_ammo",
                 "capacity": 2,
                 "shot_type": []
             },
@@ -14433,7 +14433,7 @@
                 "shot_type": []
             },
             {
-                "ammo_type": "piercing_drago_ammo",
+                "ammo_type": "piercing_dragon_ammo",
                 "capacity": 3,
                 "shot_type": []
             },
@@ -15327,7 +15327,7 @@
                 "shot_type": []
             },
             {
-                "ammo_type": "piercing_drago_ammo",
+                "ammo_type": "piercing_dragon_ammo",
                 "capacity": 3,
                 "shot_type": []
             },
@@ -15568,7 +15568,7 @@
                 "shot_type": []
             },
             {
-                "ammo_type": "piercing_drago_ammo",
+                "ammo_type": "piercing_dragon_ammo",
                 "capacity": 3,
                 "shot_type": []
             },
