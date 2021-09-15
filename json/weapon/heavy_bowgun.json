@@ -216,7 +216,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 131,
@@ -454,7 +457,10 @@
             {
                 "method": "upgrade",
                 "basic": 0,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 691,
@@ -1013,7 +1019,10 @@
             {
                 "method": "upgrade",
                 "basic": 1,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 133,
@@ -1300,7 +1309,10 @@
             {
                 "method": "upgrade",
                 "basic": 3,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 692,
@@ -1594,7 +1606,10 @@
             {
                 "method": "upgrade",
                 "basic": 4,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 696,
@@ -1889,7 +1904,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 692,
@@ -1918,7 +1936,10 @@
             {
                 "method": "upgrade",
                 "basic": 2,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 697,
@@ -2733,7 +2754,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 417,
@@ -2964,7 +2988,10 @@
             {
                 "method": "upgrade",
                 "basic": 9,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 721,
@@ -3212,7 +3239,10 @@
             {
                 "method": "upgrade",
                 "basic": 10,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 657,
@@ -3711,7 +3741,10 @@
             {
                 "method": "upgrade",
                 "basic": 12,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 131,
@@ -4504,7 +4537,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 697,
@@ -4533,7 +4569,10 @@
             {
                 "method": "upgrade",
                 "basic": 15,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 697,
@@ -5003,7 +5042,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 603,
@@ -5183,7 +5225,10 @@
             {
                 "method": "upgrade",
                 "basic": 18,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 608,
@@ -5358,7 +5403,10 @@
             {
                 "method": "upgrade",
                 "basic": 19,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 578,
@@ -5533,7 +5581,10 @@
             {
                 "method": "upgrade",
                 "basic": 119,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 607,
@@ -5920,7 +5971,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 1018,
@@ -6958,7 +7012,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 697,
@@ -7218,7 +7275,10 @@
             {
                 "method": "upgrade",
                 "basic": 25,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 698,
@@ -7473,7 +7533,10 @@
             {
                 "method": "upgrade",
                 "basic": 26,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 422,
@@ -7756,7 +7819,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 895,
@@ -8033,7 +8099,10 @@
             {
                 "method": "upgrade",
                 "basic": 28,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 274,
@@ -8301,7 +8370,10 @@
             {
                 "method": "upgrade",
                 "basic": 29,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 896,
@@ -8613,7 +8685,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 893,
@@ -8906,7 +8981,10 @@
             {
                 "method": "upgrade",
                 "basic": 31,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 893,
@@ -9199,7 +9277,10 @@
             {
                 "method": "upgrade",
                 "basic": 32,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 894,
@@ -9457,7 +9538,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 520,
@@ -9486,7 +9570,10 @@
             {
                 "method": "upgrade",
                 "basic": 0,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 520,
@@ -9976,7 +10063,10 @@
             {
                 "method": "upgrade",
                 "basic": 35,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 523,
@@ -10502,7 +10592,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 117,
@@ -10531,7 +10624,10 @@
             {
                 "method": "upgrade",
                 "basic": 13,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 117,
@@ -10801,7 +10897,10 @@
             {
                 "method": "upgrade",
                 "basic": 38,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 532,
@@ -11324,7 +11423,10 @@
             {
                 "method": "upgrade",
                 "basic": 40,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 566,
@@ -11604,7 +11706,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 539,
@@ -11633,7 +11738,10 @@
             {
                 "method": "upgrade",
                 "basic": 59,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 539,
@@ -12159,7 +12267,10 @@
             {
                 "method": "upgrade",
                 "basic": 43,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 547,
@@ -12420,7 +12531,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 172,
@@ -12916,7 +13030,10 @@
             {
                 "method": "upgrade",
                 "basic": 46,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 553,
@@ -13198,7 +13315,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 577,
@@ -13227,7 +13347,10 @@
             {
                 "method": "upgrade",
                 "basic": 36,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 577,
@@ -13499,7 +13622,10 @@
             {
                 "method": "upgrade",
                 "basic": 48,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 436,
@@ -14105,7 +14231,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 578,
@@ -15103,7 +15232,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 585,
@@ -15701,7 +15833,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 599,
@@ -16242,7 +16377,10 @@
             {
                 "method": "upgrade",
                 "basic": 9,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 217,
@@ -16763,7 +16901,10 @@
             {
                 "method": "upgrade",
                 "basic": 59,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 522,
@@ -17030,7 +17171,10 @@
             {
                 "method": "upgrade",
                 "basic": 10,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 991,
@@ -17532,7 +17676,10 @@
             {
                 "method": "upgrade",
                 "basic": 62,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 266,
@@ -17804,7 +17951,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 217,
@@ -17833,7 +17983,10 @@
             {
                 "method": "upgrade",
                 "basic": 13,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 217,
@@ -18372,7 +18525,10 @@
             {
                 "method": "upgrade",
                 "basic": 65,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 218,
@@ -18621,7 +18777,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 231,
@@ -18650,7 +18809,10 @@
             {
                 "method": "upgrade",
                 "basic": 9,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 231,
@@ -19114,7 +19276,10 @@
             {
                 "method": "upgrade",
                 "basic": 68,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 232,
@@ -19393,7 +19558,10 @@
             {
                 "method": "upgrade",
                 "basic": 1,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 366,
@@ -19915,7 +20083,10 @@
             {
                 "method": "upgrade",
                 "basic": 71,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 367,
@@ -20196,7 +20367,10 @@
             {
                 "method": "upgrade",
                 "basic": 70,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 273,
@@ -20724,7 +20898,10 @@
             {
                 "method": "upgrade",
                 "basic": 74,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 274,
@@ -21046,7 +21223,10 @@
             {
                 "method": "upgrade",
                 "basic": 11,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 637,
@@ -21653,7 +21833,10 @@
             {
                 "method": "upgrade",
                 "basic": 77,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 564,
@@ -21967,7 +22150,10 @@
             {
                 "method": "upgrade",
                 "basic": 3,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 1030,
@@ -22566,7 +22752,10 @@
             {
                 "method": "upgrade",
                 "basic": 80,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 1031,
@@ -22861,7 +23050,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 92,
@@ -22890,7 +23082,10 @@
             {
                 "method": "upgrade",
                 "basic": 38,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 93,
@@ -23178,7 +23373,10 @@
             {
                 "method": "upgrade",
                 "basic": 82,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 294,
@@ -23724,7 +23922,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 264,
@@ -23753,7 +23954,10 @@
             {
                 "method": "upgrade",
                 "basic": 83,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 266,
@@ -24002,7 +24206,10 @@
             {
                 "method": "upgrade",
                 "basic": 85,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 572,
@@ -24519,7 +24726,10 @@
             {
                 "method": "upgrade",
                 "basic": 10,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 614,
@@ -25038,7 +25248,10 @@
             {
                 "method": "upgrade",
                 "basic": 89,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 615,
@@ -25344,7 +25557,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 647,
@@ -25373,7 +25589,10 @@
             {
                 "method": "upgrade",
                 "basic": 7,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 647,
@@ -25665,7 +25884,10 @@
             {
                 "method": "upgrade",
                 "basic": 91,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 567,
@@ -26209,7 +26431,10 @@
             {
                 "method": "upgrade",
                 "basic": 59,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 282,
@@ -26447,7 +26672,10 @@
             {
                 "method": "upgrade",
                 "basic": 94,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 283,
@@ -26957,7 +27185,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 108,
@@ -26986,7 +27217,10 @@
             {
                 "method": "upgrade",
                 "basic": 14,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 108,
@@ -27245,7 +27479,10 @@
             {
                 "method": "upgrade",
                 "basic": 97,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 304,
@@ -27764,7 +28001,10 @@
             {
                 "method": "upgrade",
                 "basic": 65,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 103,
@@ -28014,7 +28254,10 @@
             {
                 "method": "upgrade",
                 "basic": 100,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 298,
@@ -28560,7 +28803,10 @@
             {
                 "method": "upgrade",
                 "basic": 14,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 333,
@@ -28838,7 +29084,10 @@
             {
                 "method": "upgrade",
                 "basic": 103,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 327,
@@ -29393,7 +29642,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 319,
@@ -29422,7 +29674,10 @@
             {
                 "method": "upgrade",
                 "basic": 62,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 319,
@@ -29694,7 +29949,10 @@
             {
                 "method": "upgrade",
                 "basic": 106,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 423,
@@ -30288,7 +30546,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 347,
@@ -30933,7 +31194,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 354,
@@ -31584,7 +31848,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 341,
@@ -32236,7 +32503,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 335,
@@ -32540,7 +32810,10 @@
             {
                 "method": "upgrade",
                 "basic": 115,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 992,
@@ -33036,7 +33309,10 @@
             {
                 "method": "upgrade",
                 "basic": 20,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 604,
@@ -33211,7 +33487,10 @@
             {
                 "method": "upgrade",
                 "basic": 118,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 605,

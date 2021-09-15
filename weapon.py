@@ -162,7 +162,7 @@ def fetch_crafting(crafting):
             basic = int(re.match(expr, contents[0].find(href=re.compile(expr))["href"]).group(1))
             entry["basic"] = basic
 
-        categorized_material = {}
+        categorized_material = {"material": "none", "point": 0}
         if contents[1].text != "-":
             material, point = contents[1].contents
             categorized_material["material"] = material.find(class_=en_tag).text
@@ -308,4 +308,4 @@ for w in weapon_list:
     weapon[w].sort(key=lambda x: x["id"])
 
     with open(f"json/weapon/{w}.json", "w", encoding="utf-8") as f:
-        json.dump(weapon[w], f)
+        json.dump(weapon[w], f, indent=4, ensure_ascii=False)

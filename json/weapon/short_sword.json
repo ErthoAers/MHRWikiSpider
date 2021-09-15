@@ -117,22 +117,22 @@
             "value": 0
         },
         "sharpness": [
-            20,
+            20.0,
             17.5,
             12.5,
-            0,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             1,
@@ -142,7 +142,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 131,
@@ -282,20 +285,20 @@
         "sharpness": [
             17.5,
             12.5,
-            20,
-            0,
-            0,
-            0,
-            0
+            20.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             1,
@@ -306,7 +309,10 @@
             {
                 "method": "upgrade",
                 "basic": 0,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 691,
@@ -444,22 +450,22 @@
             "value": 0
         },
         "sharpness": [
-            15,
-            15,
-            15,
-            5,
-            0,
-            0,
-            0
+            15.0,
+            15.0,
+            15.0,
+            5.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -470,7 +476,10 @@
             {
                 "method": "upgrade",
                 "basic": 1,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 133,
@@ -623,22 +632,22 @@
             "value": 18
         },
         "sharpness": [
-            10,
+            10.0,
             22.5,
             17.5,
-            0,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             1,
@@ -649,7 +658,10 @@
             {
                 "method": "upgrade",
                 "basic": 24,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 691,
@@ -793,18 +805,18 @@
             17.5,
             17.5,
             7.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             1,
@@ -815,7 +827,10 @@
             {
                 "method": "upgrade",
                 "basic": 3,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 133,
@@ -956,21 +971,21 @@
         },
         "sharpness": [
             7.5,
-            15,
+            15.0,
             27.5,
             17.5,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0
+            0.0
         ],
         "rampage_skills": [
             3,
@@ -981,7 +996,10 @@
             {
                 "method": "upgrade",
                 "basic": 4,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 694,
@@ -1139,20 +1157,20 @@
         "sharpness": [
             22.5,
             17.5,
-            10,
+            10.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0,
-            0
+            5.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -1303,21 +1321,21 @@
         },
         "sharpness": [
             17.5,
-            20,
-            20,
+            20.0,
+            20.0,
             12.5,
-            5,
-            0,
-            0
+            5.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -1328,7 +1346,10 @@
             {
                 "method": "upgrade",
                 "basic": 6,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 697,
@@ -1469,22 +1490,22 @@
             "value": 0
         },
         "sharpness": [
-            20,
+            20.0,
             22.5,
             22.5,
-            15,
+            15.0,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            5.0,
             7.5,
-            0
+            0.0
         ],
         "rampage_skills": [
             3,
@@ -1651,21 +1672,21 @@
         },
         "sharpness": [
             2.5,
-            5,
+            5.0,
             7.5,
             47.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            5,
+            0.0,
+            0.0,
+            0.0,
+            5.0,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             222,
@@ -1675,7 +1696,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 1017,
@@ -1820,21 +1844,21 @@
         },
         "sharpness": [
             2.5,
-            5,
+            5.0,
             7.5,
-            60,
-            0,
-            0,
-            0
+            60.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             222,
@@ -1845,7 +1869,10 @@
             {
                 "method": "upgrade",
                 "basic": 9,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 992,
@@ -2007,20 +2034,20 @@
         "sharpness": [
             22.5,
             22.5,
-            10,
-            15,
-            5,
-            0,
-            0
+            10.0,
+            15.0,
+            5.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0
+            0.0
         ],
         "rampage_skills": [
             17,
@@ -2030,7 +2057,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 692,
@@ -2059,7 +2089,10 @@
             {
                 "method": "upgrade",
                 "basic": 2,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 692,
@@ -2206,20 +2239,20 @@
         "sharpness": [
             22.5,
             22.5,
-            10,
+            10.0,
             12.5,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0
+            0.0
         ],
         "rampage_skills": [
             17,
@@ -2369,22 +2402,22 @@
             "value": 33
         },
         "sharpness": [
-            25,
-            25,
+            25.0,
+            25.0,
             12.5,
-            15,
-            10,
-            0,
-            0
+            15.0,
+            10.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            5.0,
             7.5,
-            0
+            0.0
         ],
         "rampage_skills": [
             18,
@@ -2552,20 +2585,20 @@
         "sharpness": [
             17.5,
             22.5,
-            10,
-            0,
-            0,
-            0,
-            0
+            10.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -2575,7 +2608,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 417,
@@ -2713,22 +2749,22 @@
             "value": 0
         },
         "sharpness": [
-            20,
+            20.0,
             17.5,
             12.5,
-            0,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -2739,7 +2775,10 @@
             {
                 "method": "upgrade",
                 "basic": 14,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 720,
@@ -2884,19 +2923,19 @@
             22.5,
             22.5,
             17.5,
-            0,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -2907,7 +2946,10 @@
             {
                 "method": "upgrade",
                 "basic": 15,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 718,
@@ -3058,22 +3100,22 @@
             "value": 0
         },
         "sharpness": [
-            25,
+            25.0,
             17.5,
             17.5,
             2.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -3226,20 +3268,20 @@
         "sharpness": [
             27.5,
             22.5,
-            15,
-            10,
-            0,
-            0,
-            0
+            15.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             3,
@@ -3250,7 +3292,10 @@
             {
                 "method": "upgrade",
                 "basic": 17,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 724,
@@ -3386,22 +3431,22 @@
             "value": 0
         },
         "sharpness": [
-            20,
+            20.0,
             17.5,
-            20,
+            20.0,
             17.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0,
-            0
+            5.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             4,
@@ -3570,19 +3615,19 @@
             27.5,
             17.5,
             17.5,
-            0,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
+            0.0,
+            0.0,
             2.5,
-            10,
-            0,
-            0,
-            0
+            10.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             12,
@@ -3593,7 +3638,10 @@
             {
                 "method": "upgrade",
                 "basic": 16,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 420,
@@ -3735,20 +3783,20 @@
         "sharpness": [
             27.5,
             22.5,
-            15,
-            10,
-            0,
-            0,
-            0
+            15.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0,
-            0
+            5.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             13,
@@ -3759,7 +3807,10 @@
             {
                 "method": "upgrade",
                 "basic": 20,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 421,
@@ -3904,17 +3955,17 @@
             12.5,
             7.5,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0
+            0.0
         ],
         "rampage_skills": [
             14,
@@ -3925,7 +3976,10 @@
             {
                 "method": "upgrade",
                 "basic": 21,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 317,
@@ -4083,20 +4137,20 @@
         "sharpness": [
             12.5,
             22.5,
-            15,
-            0,
-            0,
-            0,
-            0
+            15.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             1,
@@ -4236,22 +4290,22 @@
             "value": 0
         },
         "sharpness": [
-            15,
+            15.0,
             17.5,
             17.5,
-            0,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             1,
@@ -4262,7 +4316,10 @@
             {
                 "method": "upgrade",
                 "basic": 23,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 131,
@@ -4397,22 +4454,22 @@
             "value": 0
         },
         "sharpness": [
-            15,
+            15.0,
             17.5,
             22.5,
             7.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             1,
@@ -4567,20 +4624,20 @@
         "sharpness": [
             12.5,
             17.5,
-            20,
+            20.0,
             7.5,
-            5,
-            0,
-            0
+            5.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -4730,22 +4787,22 @@
             "value": 0
         },
         "sharpness": [
-            15,
-            20,
+            15.0,
+            20.0,
             22.5,
-            10,
+            10.0,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0
+            0.0
         ],
         "rampage_skills": [
             13,
@@ -4755,7 +4812,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 697,
@@ -4784,7 +4844,10 @@
             {
                 "method": "upgrade",
                 "basic": 26,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 697,
@@ -4929,22 +4992,22 @@
             "value": 0
         },
         "sharpness": [
-            10,
+            10.0,
             22.5,
-            15,
-            15,
+            15.0,
+            15.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0
+            5.0,
+            0.0
         ],
         "rampage_skills": [
             14,
@@ -5113,25 +5176,28 @@
             17.5,
             17.5,
             22.5,
-            5,
-            0,
-            0,
-            0
+            5.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [],
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 603,
@@ -5276,29 +5342,32 @@
             "value": 0
         },
         "sharpness": [
-            15,
+            15.0,
             17.5,
-            20,
-            10,
-            0,
-            0,
-            0
+            20.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [],
         "crafting": [
             {
                 "method": "upgrade",
                 "basic": 29,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 608,
@@ -5440,27 +5509,30 @@
         "sharpness": [
             12.5,
             17.5,
-            20,
+            20.0,
             7.5,
-            5,
-            0,
-            0
+            5.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [],
         "crafting": [
             {
                 "method": "upgrade",
                 "basic": 30,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 578,
@@ -5603,26 +5675,29 @@
             12.5,
             17.5,
             7.5,
-            15,
-            10,
-            0,
-            0
+            15.0,
+            10.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0
+            5.0,
+            0.0
         ],
         "rampage_skills": [],
         "crafting": [
             {
                 "method": "upgrade",
                 "basic": 137,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 607,
@@ -5769,22 +5844,22 @@
             "value": 15
         },
         "sharpness": [
-            15,
-            25,
-            10,
-            0,
-            0,
-            0,
-            0
+            15.0,
+            25.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -5794,7 +5869,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 691,
@@ -5938,22 +6016,22 @@
             "value": 26
         },
         "sharpness": [
-            15,
-            25,
-            20,
+            15.0,
+            25.0,
+            20.0,
             2.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             3,
@@ -5964,7 +6042,10 @@
             {
                 "method": "upgrade",
                 "basic": 33,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 1017,
@@ -6104,22 +6185,22 @@
             "value": 33
         },
         "sharpness": [
-            15,
-            25,
-            15,
-            20,
-            0,
-            0,
-            0
+            15.0,
+            25.0,
+            15.0,
+            20.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             2.5,
-            10,
-            0
+            10.0,
+            0.0
         ],
         "rampage_skills": [
             4,
@@ -6130,7 +6211,10 @@
             {
                 "method": "upgrade",
                 "basic": 34,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 456,
@@ -6291,21 +6375,21 @@
         },
         "sharpness": [
             12.5,
-            15,
+            15.0,
             22.5,
-            0,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0,
-            0,
-            0
+            5.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             16,
@@ -6315,7 +6399,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 897,
@@ -6461,20 +6548,20 @@
         "sharpness": [
             12.5,
             17.5,
-            25,
+            25.0,
             7.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0,
-            0
+            5.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             17,
@@ -6485,7 +6572,10 @@
             {
                 "method": "upgrade",
                 "basic": 36,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 180,
@@ -6629,18 +6719,18 @@
             12.5,
             32.5,
             17.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             18,
@@ -6651,7 +6741,10 @@
             {
                 "method": "upgrade",
                 "basic": 37,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 659,
@@ -6813,20 +6906,20 @@
         "sharpness": [
             7.5,
             17.5,
-            25,
-            0,
-            0,
-            0,
-            0
+            25.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             11,
@@ -6836,7 +6929,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 525,
@@ -6856,7 +6952,10 @@
             {
                 "method": "upgrade",
                 "basic": 14,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 525,
@@ -6994,20 +7093,20 @@
         "sharpness": [
             7.5,
             17.5,
-            15,
-            10,
-            0,
-            0,
-            0
+            15.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             12,
@@ -7159,21 +7258,21 @@
         },
         "sharpness": [
             7.5,
-            20,
+            20.0,
             12.5,
-            15,
+            15.0,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             13,
@@ -7184,7 +7283,10 @@
             {
                 "method": "upgrade",
                 "basic": 40,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 523,
@@ -7342,20 +7444,20 @@
         "sharpness": [
             7.5,
             17.5,
-            20,
-            5,
-            0,
-            0,
-            0
+            20.0,
+            5.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             16,
@@ -7365,7 +7467,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 118,
@@ -7394,7 +7499,10 @@
             {
                 "method": "upgrade",
                 "basic": 1,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 118,
@@ -7541,20 +7649,20 @@
         "sharpness": [
             7.5,
             17.5,
-            25,
+            25.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             16,
@@ -7704,22 +7812,22 @@
             "value": 13
         },
         "sharpness": [
-            10,
+            10.0,
             17.5,
             27.5,
-            20,
-            0,
-            0,
-            0
+            20.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             16,
@@ -7730,7 +7838,10 @@
             {
                 "method": "upgrade",
                 "basic": 43,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 534,
@@ -7891,21 +8002,21 @@
         },
         "sharpness": [
             7.5,
-            35,
-            10,
-            10,
-            0,
-            0,
-            0
+            35.0,
+            10.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             1,
@@ -7915,7 +8026,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 536,
@@ -7944,7 +8058,10 @@
             {
                 "method": "upgrade",
                 "basic": 25,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 536,
@@ -8090,22 +8207,22 @@
             "value": 0
         },
         "sharpness": [
-            5,
-            40,
+            5.0,
+            40.0,
             12.5,
-            10,
+            10.0,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             2.5,
-            10,
-            0
+            10.0,
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -8116,7 +8233,10 @@
             {
                 "method": "upgrade",
                 "basic": 45,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 546,
@@ -8259,19 +8379,19 @@
             7.5,
             42.5,
             17.5,
-            10,
-            10,
-            0,
-            0
+            10.0,
+            10.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -8441,22 +8561,22 @@
             "value": 13
         },
         "sharpness": [
-            40,
-            5,
-            10,
-            20,
-            0,
-            0,
-            0
+            40.0,
+            5.0,
+            10.0,
+            20.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0,
-            0
+            5.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -8466,7 +8586,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 174,
@@ -8616,21 +8739,21 @@
         },
         "sharpness": [
             42.5,
-            5,
-            5,
+            5.0,
+            5.0,
             22.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            5,
+            0.0,
+            0.0,
+            0.0,
+            5.0,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             3,
@@ -8786,20 +8909,20 @@
         "sharpness": [
             47.5,
             2.5,
-            5,
+            5.0,
             22.5,
-            10,
-            0,
-            0
+            10.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            5.0,
             7.5,
-            0
+            0.0
         ],
         "rampage_skills": [
             3,
@@ -8810,7 +8933,10 @@
             {
                 "method": "upgrade",
                 "basic": 49,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 555,
@@ -8970,22 +9096,22 @@
             "value": 10
         },
         "sharpness": [
-            25,
+            25.0,
             7.5,
             22.5,
             7.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             11,
@@ -8995,7 +9121,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 190,
@@ -9024,7 +9153,10 @@
             {
                 "method": "upgrade",
                 "basic": 61,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 190,
@@ -9169,22 +9301,22 @@
             "value": 11
         },
         "sharpness": [
-            25,
+            25.0,
             7.5,
             27.5,
-            10,
-            5,
-            0,
-            0
+            10.0,
+            5.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             11,
@@ -9195,7 +9327,10 @@
             {
                 "method": "upgrade",
                 "basic": 51,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 572,
@@ -9339,22 +9474,22 @@
             "value": 14
         },
         "sharpness": [
-            25,
+            25.0,
             7.5,
-            25,
-            10,
+            25.0,
+            10.0,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0
+            0.0
         ],
         "rampage_skills": [
             11,
@@ -9520,22 +9655,22 @@
             "value": 10
         },
         "sharpness": [
-            5,
-            5,
-            5,
-            10,
-            25,
-            0,
-            0
+            5.0,
+            5.0,
+            5.0,
+            10.0,
+            25.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             37,
@@ -9545,7 +9680,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 580,
@@ -9694,22 +9832,22 @@
             "value": 12
         },
         "sharpness": [
-            5,
-            5,
+            5.0,
+            5.0,
             12.5,
             12.5,
             27.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0
+            0.0
         ],
         "rampage_skills": [
             37,
@@ -9859,22 +9997,22 @@
             "value": 15
         },
         "sharpness": [
-            5,
-            5,
-            20,
-            15,
-            30,
-            0,
-            0
+            5.0,
+            5.0,
+            20.0,
+            15.0,
+            30.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0
+            5.0,
+            0.0
         ],
         "rampage_skills": [
             38,
@@ -10044,22 +10182,22 @@
             "value": 33
         },
         "sharpness": [
-            5,
-            5,
-            45,
-            10,
-            10,
-            0,
-            0
+            5.0,
+            5.0,
+            45.0,
+            10.0,
+            10.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            5.0,
             7.5,
-            0
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -10069,7 +10207,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 587,
@@ -10218,22 +10359,22 @@
             "value": 35
         },
         "sharpness": [
-            5,
+            5.0,
             2.5,
-            55,
-            10,
-            15,
-            0,
-            0
+            55.0,
+            10.0,
+            15.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             2.5,
-            10,
-            0
+            10.0,
+            0.0
         ],
         "rampage_skills": [
             3,
@@ -10403,22 +10544,22 @@
             "value": 32
         },
         "sharpness": [
-            45,
-            0,
-            0,
-            0,
-            0,
+            45.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             17.5,
-            0
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0
+            0.0
         ],
         "rampage_skills": [
             3,
@@ -10428,7 +10569,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 595,
@@ -10577,22 +10721,22 @@
             "value": 34
         },
         "sharpness": [
-            15,
-            0,
-            0,
-            0,
-            0,
+            15.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             22.5,
-            0
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0
+            0.0
         ],
         "rampage_skills": [
             3,
@@ -10760,20 +10904,20 @@
         "sharpness": [
             27.5,
             7.5,
-            15,
-            0,
-            0,
-            0,
-            0
+            15.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             16,
@@ -10784,7 +10928,10 @@
             {
                 "method": "upgrade",
                 "basic": 15,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 366,
@@ -10925,22 +11072,22 @@
             "value": 0
         },
         "sharpness": [
-            25,
+            25.0,
             7.5,
             17.5,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             17,
@@ -11090,22 +11237,22 @@
             "value": 0
         },
         "sharpness": [
-            35,
-            5,
-            15,
+            35.0,
+            5.0,
+            15.0,
             17.5,
             2.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0
+            0.0
         ],
         "rampage_skills": [
             17,
@@ -11116,7 +11263,10 @@
             {
                 "method": "upgrade",
                 "basic": 62,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 367,
@@ -11278,22 +11428,22 @@
             "value": 0
         },
         "sharpness": [
-            25,
+            25.0,
             7.5,
             17.5,
-            0,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             16,
@@ -11303,7 +11453,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 374,
@@ -11450,21 +11603,21 @@
         },
         "sharpness": [
             22.5,
-            5,
-            5,
+            5.0,
+            5.0,
             17.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             16,
@@ -11630,22 +11783,22 @@
             "value": 11
         },
         "sharpness": [
-            25,
-            10,
+            25.0,
+            10.0,
             7.5,
             7.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             1,
@@ -11656,7 +11809,10 @@
             {
                 "method": "upgrade",
                 "basic": 64,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 418,
@@ -11800,22 +11956,22 @@
             "value": 13
         },
         "sharpness": [
-            30,
-            10,
-            10,
+            30.0,
+            10.0,
+            10.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -11967,20 +12123,20 @@
         "sharpness": [
             37.5,
             7.5,
-            5,
-            15,
-            10,
-            0,
-            0
+            5.0,
+            15.0,
+            10.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0
+            0.0
         ],
         "rampage_skills": [
             3,
@@ -11991,7 +12147,10 @@
             {
                 "method": "upgrade",
                 "basic": 67,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 373,
@@ -12147,22 +12306,22 @@
             "value": 16
         },
         "sharpness": [
-            35,
+            35.0,
             7.5,
             7.5,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             17,
@@ -12172,7 +12331,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 374,
@@ -12201,7 +12363,10 @@
             {
                 "method": "upgrade",
                 "basic": 65,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 446,
@@ -12346,22 +12511,22 @@
             "value": 23
         },
         "sharpness": [
-            40,
-            5,
-            5,
-            25,
+            40.0,
+            5.0,
+            5.0,
+            25.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            5.0,
             7.5,
-            0
+            0.0
         ],
         "rampage_skills": [
             18,
@@ -12372,7 +12537,10 @@
             {
                 "method": "upgrade",
                 "basic": 69,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 302,
@@ -12532,22 +12700,22 @@
             "value": 17
         },
         "sharpness": [
-            35,
-            5,
-            5,
+            35.0,
+            5.0,
+            5.0,
             17.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             17,
@@ -12558,7 +12726,10 @@
             {
                 "method": "upgrade",
                 "basic": 65,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 691,
@@ -12701,20 +12872,20 @@
         "sharpness": [
             37.5,
             7.5,
-            5,
-            15,
-            10,
-            0,
-            0
+            5.0,
+            15.0,
+            10.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0
+            5.0,
+            0.0
         ],
         "rampage_skills": [
             18,
@@ -12725,7 +12896,10 @@
             {
                 "method": "upgrade",
                 "basic": 71,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 373,
@@ -12884,19 +13058,19 @@
             37.5,
             7.5,
             7.5,
-            10,
-            0,
-            0,
-            0
+            10.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             11,
@@ -13046,22 +13220,22 @@
             "value": 19
         },
         "sharpness": [
-            35,
+            35.0,
             7.5,
             7.5,
             17.5,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0
+            0.0
         ],
         "rampage_skills": [
             13,
@@ -13072,7 +13246,10 @@
             {
                 "method": "upgrade",
                 "basic": 73,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 441,
@@ -13230,20 +13407,20 @@
         "sharpness": [
             37.5,
             7.5,
-            5,
-            15,
-            10,
-            0,
-            0
+            5.0,
+            15.0,
+            10.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0
+            0.0
         ],
         "rampage_skills": [
             12,
@@ -13253,7 +13430,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 373,
@@ -13426,22 +13606,22 @@
             "value": 21
         },
         "sharpness": [
-            35,
-            5,
-            5,
+            35.0,
+            5.0,
+            5.0,
             17.5,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0
+            5.0,
+            0.0
         ],
         "rampage_skills": [
             12,
@@ -13452,7 +13632,10 @@
             {
                 "method": "upgrade",
                 "basic": 75,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 698,
@@ -13596,22 +13779,22 @@
             "value": 24
         },
         "sharpness": [
-            40,
-            5,
-            5,
+            40.0,
+            5.0,
+            5.0,
             22.5,
-            15,
-            0,
-            0
+            15.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             2.5,
-            10,
-            0
+            10.0,
+            0.0
         ],
         "rampage_skills": [
             13,
@@ -13779,20 +13962,20 @@
         "sharpness": [
             22.5,
             12.5,
-            10,
-            5,
-            0,
-            0,
-            0
+            10.0,
+            5.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             11,
@@ -13803,7 +13986,10 @@
             {
                 "method": "upgrade",
                 "basic": 0,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 225,
@@ -13947,22 +14133,22 @@
             "value": 23
         },
         "sharpness": [
-            25,
-            15,
+            25.0,
+            15.0,
             12.5,
-            10,
-            0,
-            0,
-            0
+            10.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             12,
@@ -14112,22 +14298,22 @@
             "value": 26
         },
         "sharpness": [
-            25,
-            15,
+            25.0,
+            15.0,
             12.5,
             17.5,
-            5,
-            0,
-            0
+            5.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             12,
@@ -14138,7 +14324,10 @@
             {
                 "method": "upgrade",
                 "basic": 79,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 226,
@@ -14300,20 +14489,20 @@
         "sharpness": [
             37.5,
             12.5,
-            10,
-            15,
-            0,
-            0,
-            0
+            10.0,
+            15.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0
+            5.0,
+            0.0
         ],
         "rampage_skills": [
             12,
@@ -14324,7 +14513,10 @@
             {
                 "method": "upgrade",
                 "basic": 7,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 698,
@@ -14464,22 +14656,22 @@
             "value": 0
         },
         "sharpness": [
-            40,
-            15,
+            40.0,
+            15.0,
             12.5,
-            20,
-            0,
-            0,
-            0
+            20.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            5.0,
             7.5,
-            0
+            0.0
         ],
         "rampage_skills": [
             12,
@@ -14629,22 +14821,22 @@
             "value": 0
         },
         "sharpness": [
-            40,
+            40.0,
             12.5,
             12.5,
             22.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             2.5,
-            10,
-            0
+            10.0,
+            0.0
         ],
         "rampage_skills": [
             13,
@@ -14815,21 +15007,21 @@
         },
         "sharpness": [
             22.5,
-            10,
-            10,
+            10.0,
+            10.0,
             7.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             11,
@@ -14839,7 +15031,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 249,
@@ -14864,7 +15059,10 @@
             {
                 "method": "upgrade",
                 "basic": 24,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 251,
@@ -15010,21 +15208,21 @@
         },
         "sharpness": [
             32.5,
-            10,
-            10,
-            10,
-            0,
-            0,
-            0
+            10.0,
+            10.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             12,
@@ -15035,7 +15233,10 @@
             {
                 "method": "upgrade",
                 "basic": 84,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 420,
@@ -15176,21 +15377,21 @@
         },
         "sharpness": [
             32.5,
-            15,
-            10,
+            15.0,
+            10.0,
             17.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            5,
+            0.0,
+            0.0,
+            0.0,
+            5.0,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             12,
@@ -15361,21 +15562,21 @@
         },
         "sharpness": [
             12.5,
-            10,
+            10.0,
             17.5,
-            10,
-            0,
-            0,
-            0
+            10.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -15386,7 +15587,10 @@
             {
                 "method": "upgrade",
                 "basic": 24,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 254,
@@ -15527,21 +15731,21 @@
         },
         "sharpness": [
             12.5,
-            15,
+            15.0,
             22.5,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -15692,22 +15896,22 @@
             "value": 27
         },
         "sharpness": [
-            15,
-            10,
-            30,
-            15,
-            5,
-            0,
-            0
+            15.0,
+            10.0,
+            30.0,
+            15.0,
+            5.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0
+            5.0,
+            0.0
         ],
         "rampage_skills": [
             3,
@@ -15718,7 +15922,10 @@
             {
                 "method": "upgrade",
                 "basic": 88,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 255,
@@ -15879,21 +16086,21 @@
         },
         "sharpness": [
             12.5,
-            15,
-            35,
-            0,
-            0,
-            0,
-            0
+            15.0,
+            35.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             11,
@@ -15904,7 +16111,10 @@
             {
                 "method": "upgrade",
                 "basic": 15,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 240,
@@ -16044,22 +16254,22 @@
             "value": 0
         },
         "sharpness": [
-            15,
-            15,
-            35,
-            10,
-            0,
-            0,
-            0
+            15.0,
+            15.0,
+            35.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             11,
@@ -16070,7 +16280,10 @@
             {
                 "method": "upgrade",
                 "basic": 90,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 143,
@@ -16215,22 +16428,22 @@
             "value": 0
         },
         "sharpness": [
-            15,
-            10,
-            45,
+            15.0,
+            10.0,
+            45.0,
             12.5,
-            5,
-            0,
-            0
+            5.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            5.0,
             7.5,
-            0
+            0.0
         ],
         "rampage_skills": [
             12,
@@ -16241,7 +16454,10 @@
             {
                 "method": "upgrade",
                 "basic": 91,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 243,
@@ -16398,21 +16614,21 @@
         },
         "sharpness": [
             17.5,
-            15,
-            10,
+            15.0,
+            10.0,
             7.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -16423,7 +16639,10 @@
             {
                 "method": "upgrade",
                 "basic": 1,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 626,
@@ -16567,22 +16786,22 @@
             "value": 22
         },
         "sharpness": [
-            25,
-            15,
+            25.0,
+            15.0,
             12.5,
-            10,
-            0,
-            0,
-            0
+            10.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -16732,22 +16951,22 @@
             "value": 30
         },
         "sharpness": [
-            25,
-            15,
+            25.0,
+            15.0,
             17.5,
             17.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0
+            0.0
         ],
         "rampage_skills": [
             4,
@@ -16758,7 +16977,10 @@
             {
                 "method": "upgrade",
                 "basic": 94,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 627,
@@ -16918,22 +17140,22 @@
             "value": 10
         },
         "sharpness": [
-            40,
+            40.0,
             7.5,
-            15,
-            0,
-            0,
-            0,
-            0
+            15.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             17,
@@ -16944,7 +17166,10 @@
             {
                 "method": "upgrade",
                 "basic": 40,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 402,
@@ -17080,22 +17305,22 @@
             "value": 15
         },
         "sharpness": [
-            25,
-            10,
-            15,
+            25.0,
+            10.0,
+            15.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0,
-            0
+            5.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             17,
@@ -17245,22 +17470,22 @@
             "value": 17
         },
         "sharpness": [
-            10,
-            10,
+            10.0,
+            10.0,
             17.5,
             37.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             18,
@@ -17271,7 +17496,10 @@
             {
                 "method": "upgrade",
                 "basic": 97,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 403,
@@ -17430,19 +17658,19 @@
             27.5,
             12.5,
             12.5,
-            10,
-            0,
-            0,
-            0
+            10.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -17453,7 +17681,10 @@
             {
                 "method": "upgrade",
                 "basic": 2,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 640,
@@ -17594,22 +17825,22 @@
             "value": 22
         },
         "sharpness": [
-            15,
-            15,
+            15.0,
+            15.0,
             17.5,
             22.5,
-            5,
-            0,
-            0
+            5.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             3,
@@ -17620,7 +17851,10 @@
             {
                 "method": "upgrade",
                 "basic": 99,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 641,
@@ -17760,22 +17994,22 @@
             "value": 30
         },
         "sharpness": [
-            25,
-            15,
-            20,
-            20,
+            25.0,
+            15.0,
+            20.0,
+            20.0,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0
+            0.0
         ],
         "rampage_skills": [
             3,
@@ -17941,22 +18175,22 @@
             "value": 14
         },
         "sharpness": [
-            15,
+            15.0,
             17.5,
             22.5,
-            20,
-            0,
-            0,
-            0
+            20.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            5,
+            0.0,
+            0.0,
+            0.0,
+            5.0,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -17966,7 +18200,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 296,
@@ -17995,7 +18232,10 @@
             {
                 "method": "upgrade",
                 "basic": 17,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 296,
@@ -18140,22 +18380,22 @@
             "value": 24
         },
         "sharpness": [
-            25,
-            10,
+            25.0,
+            10.0,
             27.5,
             17.5,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0
+            5.0,
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -18306,21 +18546,21 @@
         },
         "sharpness": [
             22.5,
-            10,
+            10.0,
             27.5,
             17.5,
-            10,
-            0,
-            0
+            10.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            5.0,
             7.5,
-            0
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -18331,7 +18571,10 @@
             {
                 "method": "upgrade",
                 "basic": 103,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 342,
@@ -18488,21 +18731,21 @@
         },
         "sharpness": [
             12.5,
-            15,
+            15.0,
             17.5,
             17.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0,
-            0
+            5.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -18512,7 +18755,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 269,
@@ -18541,7 +18787,10 @@
             {
                 "method": "upgrade",
                 "basic": 2,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 269,
@@ -18686,22 +18935,22 @@
             "value": 15
         },
         "sharpness": [
-            10,
+            10.0,
             17.5,
             17.5,
-            25,
-            5,
-            0,
-            0
+            25.0,
+            5.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             3,
@@ -18857,20 +19106,20 @@
         "sharpness": [
             12.5,
             17.5,
-            20,
-            20,
+            20.0,
+            20.0,
             17.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            5.0,
             7.5,
-            0
+            0.0
         ],
         "rampage_skills": [
             4,
@@ -18881,7 +19130,10 @@
             {
                 "method": "upgrade",
                 "basic": 106,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 268,
@@ -19041,22 +19293,22 @@
             "value": 15
         },
         "sharpness": [
-            30,
+            30.0,
             22.5,
             7.5,
             12.5,
             2.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             11,
@@ -19066,7 +19318,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 647,
@@ -19095,7 +19350,10 @@
             {
                 "method": "upgrade",
                 "basic": 63,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 647,
@@ -19242,20 +19500,20 @@
         "sharpness": [
             32.5,
             27.5,
-            10,
+            10.0,
             12.5,
-            5,
-            0,
-            0
+            5.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             12,
@@ -19266,7 +19524,10 @@
             {
                 "method": "upgrade",
                 "basic": 108,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 575,
@@ -19406,22 +19667,22 @@
             "value": 21
         },
         "sharpness": [
-            30,
+            30.0,
             27.5,
-            10,
+            10.0,
             12.5,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             13,
@@ -19589,20 +19850,20 @@
         "sharpness": [
             12.5,
             17.5,
-            20,
-            25,
-            0,
-            0,
-            0
+            20.0,
+            25.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -19613,7 +19874,10 @@
             {
                 "method": "upgrade",
                 "basic": 25,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 282,
@@ -19757,22 +20021,22 @@
             "value": 0
         },
         "sharpness": [
-            25,
+            25.0,
             7.5,
             17.5,
-            25,
+            25.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            5.0,
             7.5,
-            0
+            0.0
         ],
         "rampage_skills": [
             3,
@@ -19783,7 +20047,10 @@
             {
                 "method": "upgrade",
                 "basic": 111,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 283,
@@ -19924,21 +20191,21 @@
         },
         "sharpness": [
             17.5,
-            10,
+            10.0,
             27.5,
             22.5,
-            15,
+            15.0,
             7.5,
-            0
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             3,
@@ -20105,21 +20372,21 @@
         },
         "sharpness": [
             27.5,
-            10,
+            10.0,
             7.5,
             17.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            5,
+            0.0,
+            0.0,
+            0.0,
+            5.0,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -20130,7 +20397,10 @@
             {
                 "method": "upgrade",
                 "basic": 25,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 462,
@@ -20275,17 +20545,17 @@
             12.5,
             12.5,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0
+            5.0,
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -20296,7 +20566,10 @@
             {
                 "method": "upgrade",
                 "basic": 114,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 307,
@@ -20441,17 +20714,17 @@
             12.5,
             12.5,
             17.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0
+            0.0
         ],
         "rampage_skills": [
             3,
@@ -20618,21 +20891,21 @@
         },
         "sharpness": [
             7.5,
-            25,
-            15,
-            15,
-            0,
-            0,
-            0
+            25.0,
+            15.0,
+            15.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -20642,7 +20915,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 98,
@@ -20671,7 +20947,10 @@
             {
                 "method": "upgrade",
                 "basic": 99,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 98,
@@ -20821,21 +21100,21 @@
         },
         "sharpness": [
             22.5,
-            20,
-            20,
-            15,
-            10,
-            0,
-            0
+            20.0,
+            20.0,
+            15.0,
+            10.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -20846,7 +21125,10 @@
             {
                 "method": "upgrade",
                 "basic": 117,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 311,
@@ -20991,21 +21273,21 @@
         },
         "sharpness": [
             12.5,
-            10,
+            10.0,
             27.5,
-            25,
+            25.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0
+            0.0
         ],
         "rampage_skills": [
             3,
@@ -21172,21 +21454,21 @@
         },
         "sharpness": [
             17.5,
-            10,
+            10.0,
             22.5,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             1,
@@ -21197,7 +21479,10 @@
             {
                 "method": "upgrade",
                 "basic": 45,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 106,
@@ -21338,21 +21623,21 @@
         },
         "sharpness": [
             17.5,
-            10,
+            10.0,
             17.5,
-            20,
-            10,
-            0,
-            0
+            20.0,
+            10.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -21363,7 +21648,10 @@
             {
                 "method": "upgrade",
                 "basic": 120,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 302,
@@ -21504,21 +21792,21 @@
         },
         "sharpness": [
             17.5,
-            10,
-            25,
+            10.0,
+            25.0,
             22.5,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             2.5,
-            10,
-            0
+            10.0,
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -21686,20 +21974,20 @@
         "sharpness": [
             17.5,
             7.5,
-            25,
+            25.0,
             22.5,
             2.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -21710,7 +21998,10 @@
             {
                 "method": "upgrade",
                 "basic": 88,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 329,
@@ -21851,21 +22142,21 @@
         },
         "sharpness": [
             12.5,
-            10,
+            10.0,
             32.5,
-            25,
+            25.0,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0
+            5.0,
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -21876,7 +22167,10 @@
             {
                 "method": "upgrade",
                 "basic": 123,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 330,
@@ -22017,21 +22311,21 @@
         },
         "sharpness": [
             12.5,
-            10,
-            30,
-            30,
+            10.0,
+            30.0,
+            30.0,
             12.5,
-            5,
-            0
+            5.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             3,
@@ -22197,22 +22491,22 @@
             "value": 0
         },
         "sharpness": [
-            15,
-            10,
+            15.0,
+            10.0,
             12.5,
-            25,
-            0,
-            0,
-            0
+            25.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             2.5,
-            10,
-            0,
-            0
+            10.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             11,
@@ -22223,7 +22517,10 @@
             {
                 "method": "upgrade",
                 "basic": 91,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 314,
@@ -22365,20 +22662,20 @@
         "sharpness": [
             17.5,
             17.5,
-            20,
+            20.0,
             27.5,
-            5,
-            0,
-            0
+            5.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             12,
@@ -22389,7 +22686,10 @@
             {
                 "method": "upgrade",
                 "basic": 126,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 315,
@@ -22529,22 +22829,22 @@
             "value": 0
         },
         "sharpness": [
-            10,
-            15,
-            20,
-            30,
+            10.0,
+            15.0,
+            20.0,
+            30.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             13,
@@ -22711,21 +23011,21 @@
         },
         "sharpness": [
             17.5,
-            25,
-            15,
+            25.0,
+            15.0,
             17.5,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            5.0,
             7.5,
-            0
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -22735,7 +23035,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 352,
@@ -22884,22 +23187,22 @@
             "value": 36
         },
         "sharpness": [
-            20,
-            30,
+            20.0,
+            30.0,
             7.5,
             12.5,
-            15,
+            15.0,
             2.5,
-            0
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0
+            0.0
         ],
         "rampage_skills": [
             3,
@@ -23070,21 +23373,21 @@
         },
         "sharpness": [
             37.5,
-            5,
-            20,
-            15,
-            10,
-            0,
-            0
+            5.0,
+            20.0,
+            15.0,
+            10.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0
+            5.0,
+            0.0
         ],
         "rampage_skills": [
             2,
@@ -23094,7 +23397,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 354,
@@ -23243,22 +23549,22 @@
             "value": 39
         },
         "sharpness": [
-            40,
+            40.0,
             12.5,
             7.5,
-            15,
+            15.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            5.0,
             7.5,
-            0
+            0.0
         ],
         "rampage_skills": [
             3,
@@ -23429,21 +23735,21 @@
         },
         "sharpness": [
             12.5,
-            5,
-            25,
-            20,
-            0,
-            0,
-            0
+            5.0,
+            25.0,
+            20.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             11,
@@ -23453,7 +23759,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 335,
@@ -23598,22 +23907,22 @@
             "value": 17
         },
         "sharpness": [
-            5,
-            10,
-            25,
+            5.0,
+            10.0,
+            25.0,
             22.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [
             11,
@@ -23624,7 +23933,10 @@
             {
                 "method": "upgrade",
                 "basic": 133,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 992,
@@ -23765,21 +24077,21 @@
         },
         "sharpness": [
             12.5,
-            15,
-            20,
-            25,
+            15.0,
+            20.0,
+            25.0,
             2.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0
+            0.0
         ],
         "rampage_skills": [
             12,
@@ -23954,24 +24266,27 @@
             17.5,
             7.5,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "rampage_skills": [],
         "crafting": [
             {
                 "method": "upgrade",
                 "basic": 31,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 604,
@@ -24116,24 +24431,27 @@
             12.5,
             12.5,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0
+            0.0
         ],
         "rampage_skills": [],
         "crafting": [
             {
                 "method": "upgrade",
                 "basic": 136,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 605,

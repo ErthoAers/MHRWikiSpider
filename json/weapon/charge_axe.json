@@ -117,22 +117,22 @@
             "value": 0
         },
         "sharpness": [
-            20,
+            20.0,
             17.5,
             12.5,
-            0,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -146,7 +146,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 131,
@@ -285,21 +288,21 @@
         },
         "sharpness": [
             17.5,
-            15,
+            15.0,
             17.5,
-            0,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -314,7 +317,10 @@
             {
                 "method": "upgrade",
                 "basic": 0,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 691,
@@ -451,22 +457,22 @@
             "value": 0
         },
         "sharpness": [
-            20,
-            20,
-            15,
+            20.0,
+            20.0,
+            15.0,
             7.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -481,7 +487,10 @@
             {
                 "method": "upgrade",
                 "basic": 1,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 134,
@@ -638,20 +647,20 @@
         "sharpness": [
             22.5,
             17.5,
-            10,
+            10.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0,
-            0
+            5.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -811,18 +820,18 @@
             22.5,
             12.5,
             12.5,
-            5,
-            0,
-            0
+            5.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0
+            5.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -837,7 +846,10 @@
             {
                 "method": "upgrade",
                 "basic": 3,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 697,
@@ -979,20 +991,20 @@
         "sharpness": [
             22.5,
             22.5,
-            10,
+            10.0,
             12.5,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            5.0,
             7.5,
-            0
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -1168,20 +1180,20 @@
         "sharpness": [
             27.5,
             17.5,
-            15,
+            15.0,
             12.5,
             2.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "strong_element",
@@ -1195,7 +1207,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 692,
@@ -1224,7 +1239,10 @@
             {
                 "method": "upgrade",
                 "basic": 3,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 692,
@@ -1373,22 +1391,22 @@
             "value": 33
         },
         "sharpness": [
-            25,
+            25.0,
             17.5,
             12.5,
             12.5,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0
+            0.0
         ],
         "bottle": {
             "name": "strong_element",
@@ -1547,22 +1565,22 @@
             "value": 37
         },
         "sharpness": [
-            25,
-            20,
+            25.0,
+            20.0,
             17.5,
-            15,
-            10,
-            0,
-            0
+            15.0,
+            10.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0
+            5.0,
+            0.0
         ],
         "bottle": {
             "name": "strong_element",
@@ -1577,7 +1595,10 @@
             {
                 "method": "upgrade",
                 "basic": 7,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 559,
@@ -1740,19 +1761,19 @@
             17.5,
             22.5,
             17.5,
-            5,
-            0,
-            0,
-            0
+            5.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -1767,7 +1788,10 @@
             {
                 "method": "upgrade",
                 "basic": 14,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 420,
@@ -1907,22 +1931,22 @@
             "value": 0
         },
         "sharpness": [
-            20,
+            20.0,
             17.5,
-            15,
-            10,
-            0,
-            0,
-            0
+            15.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -1937,7 +1961,10 @@
             {
                 "method": "upgrade",
                 "basic": 9,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 724,
@@ -2078,22 +2105,22 @@
             "value": 0
         },
         "sharpness": [
-            20,
+            20.0,
             17.5,
-            20,
+            20.0,
             17.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0,
-            0
+            5.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -2269,20 +2296,20 @@
         "sharpness": [
             17.5,
             22.5,
-            10,
-            0,
-            0,
-            0,
-            0
+            10.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -2296,7 +2323,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 417,
@@ -2433,22 +2463,22 @@
             "value": 0
         },
         "sharpness": [
-            20,
+            20.0,
             17.5,
             12.5,
-            0,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -2463,7 +2493,10 @@
             {
                 "method": "upgrade",
                 "basic": 12,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 720,
@@ -2607,20 +2640,20 @@
         "sharpness": [
             22.5,
             12.5,
-            15,
-            0,
-            0,
-            0,
-            0
+            15.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -2790,22 +2823,22 @@
             "value": 8
         },
         "sharpness": [
-            25,
+            25.0,
             7.5,
-            10,
+            10.0,
             7.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -2820,7 +2853,10 @@
             {
                 "method": "upgrade",
                 "basic": 13,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 438,
@@ -2963,20 +2999,20 @@
         "sharpness": [
             37.5,
             17.5,
-            10,
-            10,
-            0,
-            0,
-            0
+            10.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -3136,20 +3172,20 @@
         "sharpness": [
             42.5,
             17.5,
-            10,
-            15,
+            10.0,
+            15.0,
             2.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -3164,7 +3200,10 @@
             {
                 "method": "upgrade",
                 "basic": 16,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 422,
@@ -3326,20 +3365,20 @@
         "sharpness": [
             37.5,
             17.5,
-            10,
-            10,
-            0,
-            0,
-            0
+            10.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "strong_element",
@@ -3353,7 +3392,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 723,
@@ -3382,7 +3424,10 @@
             {
                 "method": "upgrade",
                 "basic": 15,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 723,
@@ -3527,22 +3572,22 @@
             "value": 24
         },
         "sharpness": [
-            40,
+            40.0,
             12.5,
-            10,
+            10.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "strong_element",
@@ -3557,7 +3602,10 @@
             {
                 "method": "upgrade",
                 "basic": 18,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 294,
@@ -3699,20 +3747,20 @@
         "sharpness": [
             42.5,
             7.5,
-            10,
-            15,
-            0,
-            0,
-            0
+            10.0,
+            15.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0
+            0.0
         ],
         "bottle": {
             "name": "strong_element",
@@ -3727,7 +3775,10 @@
             {
                 "method": "upgrade",
                 "basic": 19,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 559,
@@ -3889,20 +3940,20 @@
         "sharpness": [
             12.5,
             22.5,
-            15,
-            0,
-            0,
-            0,
-            0
+            15.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -4046,22 +4097,22 @@
             "value": 0
         },
         "sharpness": [
-            15,
+            15.0,
             17.5,
             17.5,
-            0,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -4076,7 +4127,10 @@
             {
                 "method": "upgrade",
                 "basic": 21,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 131,
@@ -4209,22 +4263,22 @@
             "value": 0
         },
         "sharpness": [
-            15,
+            15.0,
             17.5,
             22.5,
             7.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -4382,20 +4436,20 @@
         "sharpness": [
             12.5,
             17.5,
-            20,
+            20.0,
             7.5,
-            5,
-            0,
-            0
+            5.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -4549,22 +4603,22 @@
             "value": 0
         },
         "sharpness": [
-            15,
-            20,
+            15.0,
+            20.0,
             22.5,
-            10,
+            10.0,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -4578,7 +4632,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 697,
@@ -4607,7 +4664,10 @@
             {
                 "method": "upgrade",
                 "basic": 24,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 697,
@@ -4752,22 +4812,22 @@
             "value": 0
         },
         "sharpness": [
-            10,
+            10.0,
             22.5,
-            15,
-            15,
+            15.0,
+            15.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0
+            5.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -4940,19 +5000,19 @@
             17.5,
             17.5,
             22.5,
-            5,
-            0,
-            0,
-            0
+            5.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -4962,7 +5022,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 603,
@@ -5107,22 +5170,22 @@
             "value": 0
         },
         "sharpness": [
-            15,
+            15.0,
             17.5,
-            20,
-            10,
-            0,
-            0,
-            0
+            20.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -5133,7 +5196,10 @@
             {
                 "method": "upgrade",
                 "basic": 27,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 608,
@@ -5275,20 +5341,20 @@
         "sharpness": [
             12.5,
             17.5,
-            20,
+            20.0,
             7.5,
-            5,
-            0,
-            0
+            5.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -5299,7 +5365,10 @@
             {
                 "method": "upgrade",
                 "basic": 28,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 578,
@@ -5442,19 +5511,19 @@
             12.5,
             17.5,
             7.5,
-            15,
-            10,
-            0,
-            0
+            15.0,
+            10.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0
+            5.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -5465,7 +5534,10 @@
             {
                 "method": "upgrade",
                 "basic": 119,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 607,
@@ -5612,22 +5684,22 @@
             "value": 0
         },
         "sharpness": [
-            30,
+            30.0,
             17.5,
-            15,
-            0,
-            0,
-            0,
-            0
+            15.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -5641,7 +5713,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 1017,
@@ -5785,22 +5860,22 @@
             "value": 0
         },
         "sharpness": [
-            40,
+            40.0,
             17.5,
-            15,
+            15.0,
             2.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -5815,7 +5890,10 @@
             {
                 "method": "upgrade",
                 "basic": 31,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 230,
@@ -5959,22 +6037,22 @@
             "value": 0
         },
         "sharpness": [
-            40,
-            15,
+            40.0,
+            15.0,
             12.5,
             7.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             2.5,
-            10,
-            0,
-            0
+            10.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -5989,7 +6067,10 @@
             {
                 "method": "upgrade",
                 "basic": 32,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 543,
@@ -6149,22 +6230,22 @@
             "value": 20
         },
         "sharpness": [
-            15,
-            25,
+            15.0,
+            25.0,
             7.5,
             2.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -6178,7 +6259,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 1016,
@@ -6328,21 +6412,21 @@
         },
         "sharpness": [
             17.5,
-            25,
+            25.0,
             12.5,
             7.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -6357,7 +6441,10 @@
             {
                 "method": "upgrade",
                 "basic": 34,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 991,
@@ -6501,22 +6588,22 @@
             "value": 28
         },
         "sharpness": [
-            20,
-            25,
-            15,
-            10,
-            5,
-            0,
-            0
+            20.0,
+            25.0,
+            15.0,
+            10.0,
+            5.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -6531,7 +6618,10 @@
             {
                 "method": "upgrade",
                 "basic": 35,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 456,
@@ -6693,20 +6783,20 @@
         "sharpness": [
             12.5,
             22.5,
-            10,
+            10.0,
             17.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0,
-            0
+            5.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -6720,7 +6810,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 899,
@@ -6874,17 +6967,17 @@
             7.5,
             17.5,
             2.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -6899,7 +6992,10 @@
             {
                 "method": "upgrade",
                 "basic": 37,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 189,
@@ -7046,19 +7142,19 @@
             7.5,
             37.5,
             7.5,
-            20,
-            15,
-            0,
-            0
+            20.0,
+            15.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0
+            5.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -7073,7 +7169,10 @@
             {
                 "method": "upgrade",
                 "basic": 38,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 578,
@@ -7233,22 +7332,22 @@
             "value": 17
         },
         "sharpness": [
-            15,
+            15.0,
             22.5,
             17.5,
             7.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            5,
+            0.0,
+            0.0,
+            0.0,
+            5.0,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "strong_element",
@@ -7262,7 +7361,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 902,
@@ -7408,20 +7510,20 @@
         "sharpness": [
             12.5,
             22.5,
-            15,
+            15.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             2.5,
-            10,
-            0,
-            0
+            10.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "strong_element",
@@ -7436,7 +7538,10 @@
             {
                 "method": "upgrade",
                 "basic": 40,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 181,
@@ -7580,22 +7685,22 @@
             "value": 27
         },
         "sharpness": [
-            15,
-            25,
+            15.0,
+            25.0,
             17.5,
             12.5,
-            5,
-            0,
-            0
+            5.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "strong_element",
@@ -7610,7 +7715,10 @@
             {
                 "method": "upgrade",
                 "basic": 41,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 692,
@@ -7771,21 +7879,21 @@
         },
         "sharpness": [
             17.5,
-            10,
+            10.0,
             12.5,
-            10,
-            0,
-            0,
-            0
+            10.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -7799,7 +7907,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 520,
@@ -7828,7 +7939,10 @@
             {
                 "method": "upgrade",
                 "basic": 0,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 520,
@@ -7974,21 +8088,21 @@
         },
         "sharpness": [
             17.5,
-            10,
-            10,
+            10.0,
+            10.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -8003,7 +8117,10 @@
             {
                 "method": "upgrade",
                 "basic": 43,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 520,
@@ -8144,22 +8261,22 @@
             "value": 0
         },
         "sharpness": [
-            25,
+            25.0,
             12.5,
             12.5,
             12.5,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -8174,7 +8291,10 @@
             {
                 "method": "upgrade",
                 "basic": 44,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 523,
@@ -8335,21 +8455,21 @@
         },
         "sharpness": [
             7.5,
-            20,
+            20.0,
             17.5,
-            5,
-            0,
-            0,
-            0
+            5.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -8363,7 +8483,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 118,
@@ -8392,7 +8515,10 @@
             {
                 "method": "upgrade",
                 "basic": 22,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 118,
@@ -8538,22 +8664,22 @@
             "value": 15
         },
         "sharpness": [
-            10,
+            10.0,
             22.5,
             27.5,
-            15,
-            0,
-            0,
-            0
+            15.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -8568,7 +8694,10 @@
             {
                 "method": "upgrade",
                 "basic": 46,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 534,
@@ -8712,22 +8841,22 @@
             "value": 18
         },
         "sharpness": [
-            10,
+            10.0,
             22.5,
             27.5,
             27.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -8897,22 +9026,22 @@
             "value": 12
         },
         "sharpness": [
-            20,
+            20.0,
             17.5,
             17.5,
             7.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -8926,7 +9055,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 169,
@@ -8955,7 +9087,10 @@
             {
                 "method": "upgrade",
                 "basic": 14,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 169,
@@ -9100,22 +9235,22 @@
             "value": 15
         },
         "sharpness": [
-            15,
+            15.0,
             12.5,
             22.5,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0,
-            0
+            5.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -9269,22 +9404,22 @@
             "value": 18
         },
         "sharpness": [
-            15,
+            15.0,
             12.5,
             37.5,
             22.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             2.5,
-            10,
-            0,
-            0
+            10.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -9299,7 +9434,10 @@
             {
                 "method": "upgrade",
                 "basic": 50,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 550,
@@ -9459,22 +9597,22 @@
             "value": 20
         },
         "sharpness": [
-            40,
-            5,
-            10,
-            20,
-            0,
-            0,
-            0
+            40.0,
+            5.0,
+            10.0,
+            20.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0,
-            0
+            5.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -9488,7 +9626,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 174,
@@ -9638,21 +9779,21 @@
         },
         "sharpness": [
             42.5,
-            5,
-            5,
+            5.0,
+            5.0,
             22.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            5,
+            0.0,
+            0.0,
+            0.0,
+            5.0,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -9812,20 +9953,20 @@
         "sharpness": [
             47.5,
             2.5,
-            5,
+            5.0,
             22.5,
-            10,
-            0,
-            0
+            10.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            5.0,
             7.5,
-            0
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -9840,7 +9981,10 @@
             {
                 "method": "upgrade",
                 "basic": 53,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 555,
@@ -10003,19 +10147,19 @@
             22.5,
             7.5,
             22.5,
-            10,
-            0,
-            0,
-            0
+            10.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -10029,7 +10173,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 187,
@@ -10058,7 +10205,10 @@
             {
                 "method": "upgrade",
                 "basic": 77,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 187,
@@ -10208,21 +10358,21 @@
         },
         "sharpness": [
             22.5,
-            10,
+            10.0,
             27.5,
-            10,
-            5,
-            0,
-            0
+            10.0,
+            5.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -10381,21 +10531,21 @@
         },
         "sharpness": [
             22.5,
-            10,
-            25,
-            10,
+            10.0,
+            25.0,
+            10.0,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -10410,7 +10560,10 @@
             {
                 "method": "upgrade",
                 "basic": 56,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 569,
@@ -10570,22 +10723,22 @@
             "value": 29
         },
         "sharpness": [
-            50,
-            10,
-            10,
+            50.0,
+            10.0,
+            10.0,
             7.5,
-            10,
-            0,
-            0
+            10.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0
+            0.0
         ],
         "bottle": {
             "name": "strong_element",
@@ -10599,7 +10752,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 576,
@@ -10628,7 +10784,10 @@
             {
                 "method": "upgrade",
                 "basic": 7,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 576,
@@ -10773,22 +10932,22 @@
             "value": 31
         },
         "sharpness": [
-            50,
-            10,
-            10,
+            50.0,
+            10.0,
+            10.0,
             7.5,
             7.5,
             2.5,
-            0
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0
+            0.0
         ],
         "bottle": {
             "name": "strong_element",
@@ -10803,7 +10962,10 @@
             {
                 "method": "upgrade",
                 "basic": 58,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 436,
@@ -10947,22 +11109,22 @@
             "value": 34
         },
         "sharpness": [
-            50,
+            50.0,
             7.5,
-            10,
+            10.0,
             7.5,
             7.5,
-            5,
-            0
+            5.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0
+            0.0
         ],
         "bottle": {
             "name": "strong_element",
@@ -11132,22 +11294,22 @@
             "value": 6
         },
         "sharpness": [
-            5,
-            5,
-            5,
-            10,
-            25,
-            0,
-            0
+            5.0,
+            5.0,
+            5.0,
+            10.0,
+            25.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -11161,7 +11323,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 582,
@@ -11310,22 +11475,22 @@
             "value": 9
         },
         "sharpness": [
-            5,
-            5,
+            5.0,
+            5.0,
             12.5,
             12.5,
             27.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -11479,22 +11644,22 @@
             "value": 17
         },
         "sharpness": [
-            5,
-            5,
-            20,
-            15,
-            30,
-            0,
-            0
+            5.0,
+            5.0,
+            20.0,
+            15.0,
+            30.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0
+            5.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -11668,22 +11833,22 @@
             "value": 34
         },
         "sharpness": [
-            5,
-            5,
+            5.0,
+            5.0,
             47.5,
-            10,
+            10.0,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            5.0,
             7.5,
-            0
+            0.0
         ],
         "bottle": {
             "name": "strong_element",
@@ -11697,7 +11862,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 585,
@@ -11847,21 +12015,21 @@
         },
         "sharpness": [
             2.5,
-            5,
-            55,
-            10,
-            15,
-            0,
-            0
+            5.0,
+            55.0,
+            10.0,
+            15.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             2.5,
-            10,
-            0
+            10.0,
+            0.0
         ],
         "bottle": {
             "name": "strong_element",
@@ -12035,22 +12203,22 @@
             "value": 30
         },
         "sharpness": [
-            45,
-            0,
-            0,
-            0,
-            0,
+            45.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             17.5,
-            0
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0
+            0.0
         ],
         "bottle": {
             "name": "strong_element",
@@ -12064,7 +12232,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 599,
@@ -12213,22 +12384,22 @@
             "value": 35
         },
         "sharpness": [
-            15,
-            0,
-            0,
-            0,
-            0,
+            15.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             22.5,
-            0
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0
+            0.0
         ],
         "bottle": {
             "name": "strong_element",
@@ -12399,21 +12570,21 @@
         },
         "sharpness": [
             12.5,
-            15,
-            35,
-            0,
-            0,
-            0,
-            0
+            15.0,
+            35.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -12428,7 +12599,10 @@
             {
                 "method": "upgrade",
                 "basic": 13,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 240,
@@ -12569,22 +12743,22 @@
             "value": 0
         },
         "sharpness": [
-            15,
-            15,
-            40,
-            5,
-            0,
-            0,
-            0
+            15.0,
+            15.0,
+            40.0,
+            5.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -12738,22 +12912,22 @@
             "value": 0
         },
         "sharpness": [
-            15,
-            15,
-            40,
+            15.0,
+            15.0,
+            40.0,
             17.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0
+            5.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -12768,7 +12942,10 @@
             {
                 "method": "upgrade",
                 "basic": 69,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 241,
@@ -12930,22 +13107,22 @@
             "value": 15
         },
         "sharpness": [
-            25,
-            10,
+            25.0,
+            10.0,
             17.5,
-            10,
-            0,
-            0,
-            0
+            10.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -12960,7 +13137,10 @@
             {
                 "method": "upgrade",
                 "basic": 68,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 273,
@@ -13100,22 +13280,22 @@
             "value": 17
         },
         "sharpness": [
-            25,
+            25.0,
             12.5,
             17.5,
-            15,
-            5,
-            0,
-            0
+            15.0,
+            5.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -13130,7 +13310,10 @@
             {
                 "method": "upgrade",
                 "basic": 71,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 274,
@@ -13271,21 +13454,21 @@
         },
         "sharpness": [
             27.5,
-            15,
+            15.0,
             17.5,
             17.5,
-            10,
-            0,
-            0
+            10.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -13463,18 +13646,18 @@
             22.5,
             12.5,
             12.5,
-            5,
-            0,
-            0
+            5.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "strong_element",
@@ -13488,7 +13671,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 622,
@@ -13517,7 +13703,10 @@
             {
                 "method": "upgrade",
                 "basic": 10,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 621,
@@ -13667,17 +13856,17 @@
             12.5,
             12.5,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0
+            0.0
         ],
         "bottle": {
             "name": "strong_element",
@@ -13692,7 +13881,10 @@
             {
                 "method": "upgrade",
                 "basic": 74,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 563,
@@ -13836,22 +14028,22 @@
             "value": 12
         },
         "sharpness": [
-            30,
-            30,
+            30.0,
+            30.0,
             7.5,
             7.5,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0
+            5.0,
+            0.0
         ],
         "bottle": {
             "name": "strong_element",
@@ -14027,20 +14219,20 @@
         "sharpness": [
             7.5,
             37.5,
-            10,
+            10.0,
             7.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -14055,7 +14247,10 @@
             {
                 "method": "upgrade",
                 "basic": 46,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 278,
@@ -14196,22 +14391,22 @@
             "value": 23
         },
         "sharpness": [
-            5,
-            35,
-            10,
+            5.0,
+            35.0,
+            10.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0,
-            0
+            5.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -14370,21 +14565,21 @@
         },
         "sharpness": [
             2.5,
-            35,
+            35.0,
             12.5,
-            20,
-            5,
-            0,
-            0
+            20.0,
+            5.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0
+            5.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -14399,7 +14594,10 @@
             {
                 "method": "upgrade",
                 "basic": 78,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 279,
@@ -14544,21 +14742,21 @@
         },
         "sharpness": [
             2.5,
-            35,
-            10,
-            20,
+            35.0,
+            10.0,
+            20.0,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            5.0,
             7.5,
-            0
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -14732,22 +14930,22 @@
             "value": 22
         },
         "sharpness": [
-            5,
+            5.0,
             22.5,
             22.5,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "strong_element",
@@ -14762,7 +14960,10 @@
             {
                 "method": "upgrade",
                 "basic": 23,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 93,
@@ -14902,22 +15103,22 @@
             "value": 26
         },
         "sharpness": [
-            5,
-            25,
-            15,
+            5.0,
+            25.0,
+            15.0,
             27.5,
             2.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "strong_element",
@@ -15073,20 +15274,20 @@
         "sharpness": [
             2.5,
             27.5,
-            10,
-            30,
-            5,
-            0,
-            0
+            10.0,
+            30.0,
+            5.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0
+            5.0,
+            0.0
         ],
         "bottle": {
             "name": "strong_element",
@@ -15101,7 +15302,10 @@
             {
                 "method": "upgrade",
                 "basic": 82,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 295,
@@ -15262,21 +15466,21 @@
         },
         "sharpness": [
             12.5,
-            15,
+            15.0,
             17.5,
             17.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0,
-            0
+            5.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "strong_element",
@@ -15291,7 +15495,10 @@
             {
                 "method": "upgrade",
                 "basic": 23,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 271,
@@ -15432,22 +15639,22 @@
             "value": 19
         },
         "sharpness": [
-            10,
+            10.0,
             12.5,
-            20,
+            20.0,
             17.5,
             2.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0
+            0.0
         ],
         "bottle": {
             "name": "strong_element",
@@ -15462,7 +15669,10 @@
             {
                 "method": "upgrade",
                 "basic": 84,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 290,
@@ -15602,22 +15812,22 @@
             "value": 22
         },
         "sharpness": [
-            10,
+            10.0,
             12.5,
-            20,
+            20.0,
             22.5,
-            10,
-            0,
-            0
+            10.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0
+            5.0,
+            0.0
         ],
         "bottle": {
             "name": "strong_element",
@@ -15777,20 +15987,20 @@
         "sharpness": [
             12.5,
             17.5,
-            20,
+            20.0,
             22.5,
-            15,
-            0,
-            0
+            15.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             2.5,
-            10,
-            0
+            10.0,
+            0.0
         ],
         "bottle": {
             "name": "strong_element",
@@ -15805,7 +16015,10 @@
             {
                 "method": "upgrade",
                 "basic": 86,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 272,
@@ -15968,19 +16181,19 @@
             32.5,
             7.5,
             12.5,
-            10,
-            0,
-            0,
-            0
+            10.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -15995,7 +16208,10 @@
             {
                 "method": "upgrade",
                 "basic": 1,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 612,
@@ -16136,21 +16352,21 @@
         },
         "sharpness": [
             27.5,
-            10,
+            10.0,
             12.5,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -16165,7 +16381,10 @@
             {
                 "method": "upgrade",
                 "basic": 88,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 321,
@@ -16305,22 +16524,22 @@
             "value": 20
         },
         "sharpness": [
-            30,
-            20,
+            30.0,
+            20.0,
             7.5,
             7.5,
-            10,
-            0,
-            0
+            10.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            5.0,
             7.5,
-            0
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -16335,7 +16554,10 @@
             {
                 "method": "upgrade",
                 "basic": 89,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 613,
@@ -16497,20 +16719,20 @@
         "sharpness": [
             12.5,
             17.5,
-            20,
-            25,
-            0,
-            0,
-            0
+            20.0,
+            25.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -16525,7 +16747,10 @@
             {
                 "method": "upgrade",
                 "basic": 44,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 288,
@@ -16667,20 +16892,20 @@
         "sharpness": [
             17.5,
             17.5,
-            10,
-            30,
+            10.0,
+            30.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0
+            5.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -16695,7 +16920,10 @@
             {
                 "method": "upgrade",
                 "basic": 91,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 289,
@@ -16840,21 +17068,21 @@
         },
         "sharpness": [
             17.5,
-            10,
-            25,
+            10.0,
+            25.0,
             22.5,
-            20,
-            5,
-            0
+            20.0,
+            5.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -17025,21 +17253,21 @@
         },
         "sharpness": [
             27.5,
-            10,
+            10.0,
             7.5,
             17.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            5,
+            0.0,
+            0.0,
+            0.0,
+            5.0,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -17054,7 +17282,10 @@
             {
                 "method": "upgrade",
                 "basic": 2,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 462,
@@ -17199,17 +17430,17 @@
             17.5,
             12.5,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0
+            5.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -17224,7 +17455,10 @@
             {
                 "method": "upgrade",
                 "basic": 94,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 307,
@@ -17373,17 +17607,17 @@
             17.5,
             12.5,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -17554,21 +17788,21 @@
         },
         "sharpness": [
             7.5,
-            25,
-            20,
-            10,
-            0,
-            0,
-            0
+            25.0,
+            20.0,
+            10.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -17583,7 +17817,10 @@
             {
                 "method": "upgrade",
                 "basic": 14,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 98,
@@ -17730,19 +17967,19 @@
             22.5,
             17.5,
             27.5,
-            15,
-            5,
-            0,
-            0
+            15.0,
+            5.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -17757,7 +17994,10 @@
             {
                 "method": "upgrade",
                 "basic": 97,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 311,
@@ -17902,21 +18142,21 @@
         },
         "sharpness": [
             22.5,
-            10,
+            10.0,
             32.5,
-            15,
+            15.0,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            5.0,
             7.5,
-            0
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -18087,21 +18327,21 @@
         },
         "sharpness": [
             17.5,
-            10,
+            10.0,
             22.5,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "strong_element",
@@ -18116,7 +18356,10 @@
             {
                 "method": "upgrade",
                 "basic": 84,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 103,
@@ -18261,21 +18504,21 @@
         },
         "sharpness": [
             17.5,
-            10,
+            10.0,
             17.5,
             22.5,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "strong_element",
@@ -18290,7 +18533,10 @@
             {
                 "method": "upgrade",
                 "basic": 100,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 298,
@@ -18435,21 +18681,21 @@
         },
         "sharpness": [
             17.5,
-            10,
-            25,
-            25,
-            10,
-            0,
-            0
+            10.0,
+            25.0,
+            25.0,
+            10.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             2.5,
-            10,
-            0
+            10.0,
+            0.0
         ],
         "bottle": {
             "name": "strong_element",
@@ -18621,20 +18867,20 @@
         "sharpness": [
             17.5,
             7.5,
-            25,
+            25.0,
             22.5,
             2.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -18649,7 +18895,10 @@
             {
                 "method": "upgrade",
                 "basic": 3,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 329,
@@ -18790,21 +19039,21 @@
         },
         "sharpness": [
             12.5,
-            10,
+            10.0,
             32.5,
-            25,
+            25.0,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             7.5,
-            5,
-            0
+            5.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -18819,7 +19068,10 @@
             {
                 "method": "upgrade",
                 "basic": 103,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 330,
@@ -18964,21 +19216,21 @@
         },
         "sharpness": [
             12.5,
-            10,
-            30,
-            30,
+            10.0,
+            30.0,
+            30.0,
             12.5,
-            5,
-            0
+            5.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -19149,21 +19401,21 @@
         },
         "sharpness": [
             12.5,
-            40,
+            40.0,
             7.5,
-            25,
+            25.0,
             2.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -19177,7 +19429,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 315,
@@ -19206,7 +19461,10 @@
             {
                 "method": "upgrade",
                 "basic": 70,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 315,
@@ -19352,21 +19610,21 @@
         },
         "sharpness": [
             12.5,
-            40,
-            5,
-            25,
-            5,
-            0,
-            0
+            40.0,
+            5.0,
+            25.0,
+            5.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -19381,7 +19639,10 @@
             {
                 "method": "upgrade",
                 "basic": 106,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 423,
@@ -19522,21 +19783,21 @@
         },
         "sharpness": [
             12.5,
-            40,
+            40.0,
             2.5,
-            25,
+            25.0,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            5.0,
             7.5,
-            0
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -19707,21 +19968,21 @@
         },
         "sharpness": [
             17.5,
-            10,
-            25,
+            10.0,
+            25.0,
             22.5,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            5.0,
             7.5,
-            0
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -19735,7 +19996,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 348,
@@ -19884,22 +20148,22 @@
             "value": 36
         },
         "sharpness": [
-            20,
-            25,
+            20.0,
+            25.0,
             17.5,
-            10,
+            10.0,
             12.5,
             2.5,
-            0
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -20074,21 +20338,21 @@
         },
         "sharpness": [
             37.5,
-            5,
+            5.0,
             17.5,
-            20,
+            20.0,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            5.0,
             7.5,
-            0
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -20102,7 +20366,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 357,
@@ -20251,22 +20518,22 @@
             "value": 43
         },
         "sharpness": [
-            40,
-            10,
+            40.0,
+            10.0,
             7.5,
-            20,
-            10,
-            0,
-            0
+            20.0,
+            10.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             2.5,
-            10,
-            0
+            10.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -20440,22 +20707,22 @@
             "value": 33
         },
         "sharpness": [
-            10,
-            20,
+            10.0,
+            20.0,
             27.5,
             17.5,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             2.5,
-            10,
-            0
+            10.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -20469,7 +20736,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 342,
@@ -20618,22 +20888,22 @@
             "value": 39
         },
         "sharpness": [
-            10,
-            20,
+            10.0,
+            20.0,
             27.5,
-            15,
-            15,
-            0,
-            0
+            15.0,
+            15.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -20808,21 +21078,21 @@
         },
         "sharpness": [
             12.5,
-            5,
-            25,
-            20,
-            0,
-            0,
-            0
+            5.0,
+            25.0,
+            20.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -20836,7 +21106,10 @@
         "crafting": [
             {
                 "method": "forge",
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 337,
@@ -20985,22 +21258,22 @@
             "value": 14
         },
         "sharpness": [
-            5,
-            10,
-            25,
+            5.0,
+            10.0,
+            25.0,
             22.5,
-            0,
-            0,
-            0
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            5,
+            0.0,
+            0.0,
+            0.0,
+            5.0,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -21015,7 +21288,10 @@
             {
                 "method": "upgrade",
                 "basic": 115,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 992,
@@ -21160,21 +21436,21 @@
         },
         "sharpness": [
             12.5,
-            15,
+            15.0,
             22.5,
-            25,
-            0,
-            0,
-            0
+            25.0,
+            0.0,
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -21349,17 +21625,17 @@
             17.5,
             7.5,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             12.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -21370,7 +21646,10 @@
             {
                 "method": "upgrade",
                 "basic": 29,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 604,
@@ -21515,17 +21794,17 @@
             12.5,
             12.5,
             7.5,
-            0,
-            0
+            0.0,
+            0.0
         ],
         "sharpness_half": [
-            0,
-            0,
-            0,
-            0,
-            10,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            10.0,
             2.5,
-            0
+            0.0
         ],
         "bottle": {
             "name": "power",
@@ -21536,7 +21815,10 @@
             {
                 "method": "upgrade",
                 "basic": 118,
-                "categorized_material": {},
+                "categorized_material": {
+                    "material": "none",
+                    "point": 0
+                },
                 "material": [
                     {
                         "id": 605,
