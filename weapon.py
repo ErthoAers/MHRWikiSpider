@@ -133,10 +133,11 @@ def fetch_ammo_list(ammo_list):
             if ammo.text.startswith("<"):
                 continue
             contents = ammo.contents
+            shot_type = [i.strip().lower().replace(" ", "_") for i in contents[2].text.split(",")]
             ammo_entry.append({
                 "ammo_type": contents[0].text.lower().replace(" ", "_"),
                 "capacity": int(contents[1].text),
-                "shot_type": [i.strip().lower().replace(" ", "_") for i in contents[2].text.split(",")]
+                "shot_type": shot_type if shot_type[0] != "" else []
             })
 
     return ammo_entry
@@ -158,6 +159,7 @@ def fetch_crafting(crafting):
             method = "as_layered"
         entry["method"] = method
         expr = r"^/weapon/[A-Za-z]+_(\d{3}).html$"
+        entry["basic"] = -1
         if method == "upgrade":
             basic = int(re.match(expr, contents[0].find(href=re.compile(expr))["href"]).group(1))
             entry["basic"] = basic

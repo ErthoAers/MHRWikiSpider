@@ -142,6 +142,7 @@
         "crafting": [
             {
                 "method": "forge",
+                "basic": -1,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
@@ -495,6 +496,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Ore+",
                     "point": 10
@@ -1011,6 +1013,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Ore+",
                     "point": 15
@@ -1173,6 +1176,7 @@
         "crafting": [
             {
                 "method": "forge",
+                "basic": -1,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
@@ -1566,6 +1570,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Monster+",
                     "point": 20
@@ -2097,6 +2102,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Monster+",
                     "point": 15
@@ -2259,6 +2265,7 @@
         "crafting": [
             {
                 "method": "forge",
+                "basic": -1,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
@@ -2657,6 +2664,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Ore+",
                     "point": 20
@@ -2819,6 +2827,7 @@
         "crafting": [
             {
                 "method": "forge",
+                "basic": -1,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
@@ -3212,6 +3221,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Monster+",
                     "point": 20
@@ -3374,6 +3384,7 @@
         "crafting": [
             {
                 "method": "forge",
+                "basic": -1,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
@@ -3563,6 +3574,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Bone+",
                     "point": 10
@@ -3920,6 +3932,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Bone+",
                     "point": 10
@@ -4276,6 +4289,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Bone+",
                     "point": 15
@@ -4440,6 +4454,7 @@
         "crafting": [
             {
                 "method": "forge",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Ore",
                     "point": 3
@@ -5092,6 +5107,7 @@
         "crafting": [
             {
                 "method": "forge",
+                "basic": -1,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
@@ -5320,6 +5336,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Ore+",
                     "point": 15
@@ -5474,6 +5491,7 @@
         "crafting": [
             {
                 "method": "forge",
+                "basic": -1,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
@@ -5996,6 +6014,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Ore+",
                     "point": 5
@@ -6506,6 +6525,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Small Monster+",
                     "point": 15
@@ -6668,6 +6688,7 @@
         "crafting": [
             {
                 "method": "forge",
+                "basic": -1,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
@@ -7033,6 +7054,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Bone+",
                     "point": 15
@@ -7195,6 +7217,7 @@
         "crafting": [
             {
                 "method": "forge",
+                "basic": -1,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
@@ -7737,6 +7760,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Neopteron+",
                     "point": 15
@@ -7899,6 +7923,7 @@
         "crafting": [
             {
                 "method": "forge",
+                "basic": -1,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
@@ -8263,6 +8288,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Neopteron+",
                     "point": 15
@@ -8425,6 +8451,7 @@
         "crafting": [
             {
                 "method": "forge",
+                "basic": -1,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
@@ -8822,6 +8849,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Izuchi+",
                     "point": 15
@@ -8984,6 +9012,7 @@
         "crafting": [
             {
                 "method": "forge",
+                "basic": -1,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
@@ -9546,6 +9575,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Aknosom+",
                     "point": 20
@@ -9708,6 +9738,7 @@
         "crafting": [
             {
                 "method": "forge",
+                "basic": -1,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
@@ -10109,6 +10140,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Tetranadon+",
                     "point": 15
@@ -10271,6 +10303,7 @@
         "crafting": [
             {
                 "method": "forge",
+                "basic": -1,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
@@ -10644,6 +10677,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Magnamalo+",
                     "point": 20
@@ -10806,6 +10840,7 @@
         "crafting": [
             {
                 "method": "forge",
+                "basic": -1,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
@@ -11207,6 +11242,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Goss Harag+",
                     "point": 20
@@ -11369,6 +11405,7 @@
         "crafting": [
             {
                 "method": "forge",
+                "basic": -1,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
@@ -11734,6 +11771,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Ibushi+",
                     "point": 20
@@ -11896,6 +11934,7 @@
         "crafting": [
             {
                 "method": "forge",
+                "basic": -1,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
@@ -12096,6 +12135,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Narwa+",
                     "point": 20
@@ -12258,6 +12298,7 @@
         "crafting": [
             {
                 "method": "forge",
+                "basic": -1,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
@@ -12454,6 +12495,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Crimson Glow Valstrax+",
                     "point": 20
@@ -13150,6 +13192,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Great Baggi+",
                     "point": 15
@@ -13674,6 +13717,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Herbivore+",
                     "point": 15
@@ -14198,6 +14242,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Kulu-Ya-Ku+",
                     "point": 15
@@ -14725,6 +14770,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Ludroth+",
                     "point": 15
@@ -15250,6 +15296,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Barroth+",
                     "point": 15
@@ -15773,6 +15820,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Small Monster+",
                     "point": 15
@@ -16304,6 +16352,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Volvidon+",
                     "point": 15
@@ -16832,6 +16881,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Pukei-Pukei+",
                     "point": 20
@@ -17359,6 +17409,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Basarios+",
                     "point": 20
@@ -17521,6 +17572,7 @@
         "crafting": [
             {
                 "method": "forge",
+                "basic": -1,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
@@ -17910,6 +17962,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Barioth+",
                     "point": 20
@@ -18433,6 +18486,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Tobi-Kadachi+",
                     "point": 20
@@ -18960,6 +19014,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Nargacuga+",
                     "point": 20
@@ -19487,6 +19542,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Mizutsune+",
                     "point": 20
@@ -20010,6 +20066,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Rathalos+",
                     "point": 20
@@ -20172,6 +20229,7 @@
         "crafting": [
             {
                 "method": "forge",
+                "basic": -1,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
@@ -20565,6 +20623,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Zinogre+",
                     "point": 20
@@ -20727,6 +20786,7 @@
         "crafting": [
             {
                 "method": "forge",
+                "basic": -1,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
@@ -21120,6 +21180,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Tigrex+",
                     "point": 20
@@ -21643,6 +21704,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Diablos+",
                     "point": 20
@@ -21805,6 +21867,7 @@
         "crafting": [
             {
                 "method": "forge",
+                "basic": -1,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
@@ -22005,6 +22068,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Kushala+",
                     "point": 20
@@ -22167,6 +22231,7 @@
         "crafting": [
             {
                 "method": "forge",
+                "basic": -1,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
@@ -22367,6 +22432,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Teostra+",
                     "point": 20
@@ -22529,6 +22595,7 @@
         "crafting": [
             {
                 "method": "forge",
+                "basic": -1,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
@@ -22898,6 +22965,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Rajang+",
                     "point": 20
@@ -23060,6 +23128,7 @@
         "crafting": [
             {
                 "method": "forge",
+                "basic": -1,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
@@ -23433,6 +23502,7 @@
             },
             {
                 "method": "as_layered",
+                "basic": -1,
                 "categorized_material": {
                     "material": "Bazelgeuse+",
                     "point": 20
