@@ -73,5 +73,5 @@ for lang in languages[1:]:
         skills[i]["name_entry"].append(nameEntry)
         skills[i]["description_entry"].append(descriptionEntry)
 
-with open("json/rampage-skill.json", "w", encoding="utf-8") as f:
+with open("json/rampage_skill.json", "w", encoding="utf-8") as f:
     json.dump(skills, f)

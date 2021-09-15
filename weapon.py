@@ -6,7 +6,7 @@ import json
 import multiprocessing.pool
 from utils import *
 
-with open("json/rampage-skill.json", encoding="utf-8") as f:
+with open("json/rampage_skill.json", encoding="utf-8") as f:
     rampage_skills_dict = json.load(f)
 rampage_skills_dict = {i["name"]: i["id"] for i in rampage_skills_dict}
 
