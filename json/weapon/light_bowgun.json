@@ -200,7 +200,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 2,
                 "shot_type": [
                     "moving_shot",
@@ -458,7 +458,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 2,
                 "shot_type": [
                     "moving_shot",
@@ -720,7 +720,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 2,
                 "shot_type": [
                     "moving_shot",
@@ -1002,7 +1002,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 2,
                 "shot_type": [
                     "moving_shot",
@@ -1304,7 +1304,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 3,
                 "shot_type": [
                     "moving_shot",
@@ -1602,7 +1602,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 3,
                 "shot_type": [
                     "moving_shot",
@@ -1885,7 +1885,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_shot",
@@ -2125,7 +2125,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_shot",
@@ -2387,7 +2387,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_shot",
@@ -2682,7 +2682,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_shot",
@@ -2959,7 +2959,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_shot",
@@ -3237,7 +3237,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_shot",
@@ -5919,7 +5919,7 @@
                 "shot_type": []
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 2,
                 "shot_type": []
             },
@@ -6234,7 +6234,7 @@
                 "shot_type": []
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 2,
                 "shot_type": []
             },
@@ -6563,7 +6563,7 @@
                 "shot_type": []
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 3,
                 "shot_type": []
             },
@@ -8730,7 +8730,7 @@
                 "shot_type": []
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_shot",
@@ -9068,7 +9068,7 @@
                 "shot_type": []
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_shot",
@@ -9373,7 +9373,7 @@
                 "shot_type": []
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_shot",
@@ -10557,7 +10557,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_shot",
@@ -10876,7 +10876,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_shot",
@@ -11154,7 +11154,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_shot",
@@ -11428,7 +11428,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_shot",
@@ -11740,7 +11740,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_shot",
@@ -12079,7 +12079,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_shot",
@@ -12388,7 +12388,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 2,
                 "shot_type": [
                     "moving_shot",
@@ -14567,7 +14567,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 2,
                 "shot_type": [
                     "moving_shot",
@@ -14890,7 +14890,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 3,
                 "shot_type": [
                     "moving_shot",
@@ -16433,7 +16433,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 3,
                 "shot_type": [
                     "moving_shot",
@@ -16679,7 +16679,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 3,
                 "shot_type": [
                     "moving_shot",
@@ -16926,7 +16926,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 3,
                 "shot_type": [
                     "moving_shot",
@@ -17223,7 +17223,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_shot",
@@ -17555,7 +17555,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_shot",
@@ -17842,7 +17842,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_shot",
@@ -18137,7 +18137,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_shot",
@@ -19460,7 +19460,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 2,
                 "shot_type": [
                     "moving_shot"
@@ -19717,7 +19717,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 2,
                 "shot_type": [
                     "moving_shot"
@@ -19988,7 +19988,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 2,
                 "shot_type": [
                     "moving_shot"
@@ -27180,7 +27180,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_shot",
@@ -27442,7 +27442,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_shot",
@@ -27709,7 +27709,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 2,
                 "shot_type": [
                     "moving_shot",
@@ -28867,7 +28867,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 3,
                 "shot_type": [
                     "moving_shot",
@@ -29192,7 +29192,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 3,
                 "shot_type": [
                     "moving_shot",
@@ -30172,7 +30172,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_shot",
@@ -30618,7 +30618,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_shot",
@@ -30983,7 +30983,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 1,
                 "shot_type": [
                     "moving_shot",
@@ -31287,7 +31287,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 2,
                 "shot_type": [
                     "moving_shot",
@@ -31587,7 +31587,7 @@
                 ]
             },
             {
-                "ammo_type": "ammor_ammo",
+                "ammo_type": "armor_ammo",
                 "capacity": 2,
                 "shot_type": [
                     "moving_shot",
