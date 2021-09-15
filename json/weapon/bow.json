@@ -141,10 +141,7 @@
             17,
             222
         ],
-        "bottle": [
-            "close_range",
-            "power"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -318,10 +315,7 @@
             18,
             222
         ],
-        "bottle": [
-            "close_range",
-            "power"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -494,10 +488,7 @@
             18,
             222
         ],
-        "bottle": [
-            "close_range",
-            "power"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -686,10 +677,7 @@
             31,
             221
         ],
-        "bottle": [
-            "close_rangepower_up",
-            "power"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "forge",
@@ -906,10 +894,7 @@
             31,
             221
         ],
-        "bottle": [
-            "close_rangepower_up",
-            "power"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -1085,10 +1070,7 @@
             32,
             221
         ],
-        "bottle": [
-            "close_rangepower_up",
-            "power"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -1277,10 +1259,7 @@
             11,
             17
         ],
-        "bottle": [
-            "close_range",
-            "power"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "forge",
@@ -1449,10 +1428,7 @@
             11,
             17
         ],
-        "bottle": [
-            "close_range",
-            "power"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -1623,10 +1599,7 @@
             11,
             17
         ],
-        "bottle": [
-            "close_range",
-            "power"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -1805,10 +1778,7 @@
             12,
             229
         ],
-        "bottle": [
-            "close_range",
-            "power"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -1980,10 +1950,7 @@
             12,
             229
         ],
-        "bottle": [
-            "close_range",
-            "power"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -2155,10 +2122,7 @@
             13,
             229
         ],
-        "bottle": [
-            "close_range",
-            "power"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -2351,12 +2315,7 @@
             12,
             198
         ],
-        "bottle": [
-            "close_range",
-            "poison",
-            "blast",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -2525,12 +2484,7 @@
             12,
             198
         ],
-        "bottle": [
-            "close_range",
-            "poison",
-            "blast",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -2702,12 +2656,7 @@
             12,
             198
         ],
-        "bottle": [
-            "close_range",
-            "poison",
-            "blast",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -2896,12 +2845,7 @@
             11,
             16
         ],
-        "bottle": [
-            "close_range",
-            "poison",
-            "blast",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "forge",
@@ -3071,12 +3015,7 @@
             11,
             16
         ],
-        "bottle": [
-            "close_range",
-            "poison",
-            "blast",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -3249,12 +3188,7 @@
             12,
             16
         ],
-        "bottle": [
-            "close_range",
-            "poison",
-            "blast",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -3443,15 +3377,7 @@
             12,
             16
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poison",
-            "paralyze",
-            "sleep",
-            "blast",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "forge",
@@ -3610,15 +3536,7 @@
             12,
             16
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poison",
-            "paralyze",
-            "sleep",
-            "blast",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -3784,15 +3702,7 @@
             12,
             17
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poison",
-            "paralyze",
-            "sleep",
-            "blast",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -3964,15 +3874,7 @@
             12,
             17
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poison",
-            "paralyze",
-            "sleep",
-            "blast",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -4140,15 +4042,7 @@
             17,
             229
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poison",
-            "paralyze",
-            "sleep",
-            "blast",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "forge",
@@ -4358,15 +4252,7 @@
             17,
             229
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poison",
-            "paralyze",
-            "sleep",
-            "blast",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -4547,9 +4433,7 @@
         ],
         "curve_type": 1,
         "rampage_skills": [],
-        "bottle": [
-            "close_range"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "forge",
@@ -4722,9 +4606,7 @@
         ],
         "curve_type": 1,
         "rampage_skills": [],
-        "bottle": [
-            "close_range"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -4892,9 +4774,7 @@
         ],
         "curve_type": 1,
         "rampage_skills": [],
-        "bottle": [
-            "close_range"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -5062,9 +4942,7 @@
         ],
         "curve_type": 1,
         "rampage_skills": [],
-        "bottle": [
-            "close_range"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -5244,12 +5122,7 @@
             229,
             233
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "paralyzepower_up",
-            "sleeppower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "forge",
@@ -5425,12 +5298,7 @@
             229,
             233
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "paralyzepower_up",
-            "sleeppower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -5606,12 +5474,7 @@
             229,
             233
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "paralyzepower_up",
-            "sleeppower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -5804,11 +5667,7 @@
             220,
             245
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "paralyzepower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "forge",
@@ -5984,11 +5843,7 @@
             220,
             245
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "paralyzepower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -6164,11 +6019,7 @@
             220,
             245
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "paralyzepower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -6361,15 +6212,7 @@
             228,
             246
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poisonpower_up",
-            "paralyzepower_up",
-            "sleep",
-            "blast",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "forge",
@@ -6545,15 +6388,7 @@
             228,
             246
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poisonpower_up",
-            "paralyzepower_up",
-            "sleep",
-            "blast",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -6729,15 +6564,7 @@
             228,
             246
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poisonpower_up",
-            "paralyzepower_up",
-            "sleep",
-            "blast",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -6930,12 +6757,7 @@
             16,
             246
         ],
-        "bottle": [
-            "close_range",
-            "sleeppower_up",
-            "blast",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "forge",
@@ -7107,12 +6929,7 @@
             17,
             246
         ],
-        "bottle": [
-            "close_range",
-            "sleeppower_up",
-            "blast",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -7288,12 +7105,7 @@
             17,
             246
         ],
-        "bottle": [
-            "close_range",
-            "sleeppower_up",
-            "blast",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -7486,13 +7298,7 @@
             198,
             222
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poison",
-            "paralyze",
-            "sleeppower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "forge",
@@ -7669,13 +7475,7 @@
             198,
             222
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poison",
-            "paralyze",
-            "sleeppower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -7851,13 +7651,7 @@
             198,
             222
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poison",
-            "paralyze",
-            "sleeppower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -8046,12 +7840,7 @@
             228,
             222
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poisonpower_up",
-            "paralyzepower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "forge",
@@ -8261,12 +8050,7 @@
             228,
             222
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poisonpower_up",
-            "paralyzepower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -8442,12 +8226,7 @@
             228,
             222
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poisonpower_up",
-            "paralyzepower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -8636,12 +8415,7 @@
             48,
             238
         ],
-        "bottle": [
-            "close_rangepower_up",
-            "power",
-            "blast",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "forge",
@@ -8822,12 +8596,7 @@
             48,
             238
         ],
-        "bottle": [
-            "close_rangepower_up",
-            "power",
-            "blast",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -8999,12 +8768,7 @@
             49,
             238
         ],
-        "bottle": [
-            "close_rangepower_up",
-            "power",
-            "blast",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -9193,12 +8957,7 @@
             23,
             221
         ],
-        "bottle": [
-            "close_range",
-            "sleep",
-            "blast",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "forge",
@@ -9407,12 +9166,7 @@
             23,
             221
         ],
-        "bottle": [
-            "close_range",
-            "sleep",
-            "blast",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -9576,12 +9330,7 @@
             24,
             221
         ],
-        "bottle": [
-            "close_range",
-            "sleep",
-            "blast",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -9774,13 +9523,7 @@
             19,
             222
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poison",
-            "sleep",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "forge",
@@ -9993,13 +9736,7 @@
             20,
             222
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poison",
-            "sleep",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -10171,13 +9908,7 @@
             20,
             222
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poison",
-            "sleep",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -10362,12 +10093,7 @@
             232,
             16
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poison",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "forge",
@@ -10548,12 +10274,7 @@
             232,
             243
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poison",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -10721,12 +10442,7 @@
             232,
             243
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poison",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -10915,12 +10631,7 @@
             232,
             244
         ],
-        "bottle": [
-            "close_range",
-            "paralyze",
-            "sleep",
-            "blast"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "forge",
@@ -11101,12 +10812,7 @@
             232,
             244
         ],
-        "bottle": [
-            "close_range",
-            "paralyze",
-            "sleep",
-            "blast"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -11295,10 +11001,7 @@
             230,
             239
         ],
-        "bottle": [
-            "close_range",
-            "power"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "forge",
@@ -11479,10 +11182,7 @@
             230,
             239
         ],
-        "bottle": [
-            "close_range",
-            "power"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -11667,10 +11367,7 @@
             11,
             16
         ],
-        "bottle": [
-            "close_range",
-            "paralyzepower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "forge",
@@ -11849,10 +11546,7 @@
             11,
             16
         ],
-        "bottle": [
-            "close_range",
-            "paralyzepower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -12024,10 +11718,7 @@
             11,
             16
         ],
-        "bottle": [
-            "close_range",
-            "paralyzepower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -12215,10 +11906,7 @@
             19,
             234
         ],
-        "bottle": [
-            "close_range",
-            "paralyzepower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -12390,10 +12078,7 @@
             19,
             234
         ],
-        "bottle": [
-            "close_range",
-            "paralyzepower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -12561,10 +12246,7 @@
             20,
             234
         ],
-        "bottle": [
-            "close_range",
-            "paralyzepower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -12753,10 +12435,7 @@
             27,
             236
         ],
-        "bottle": [
-            "close_range",
-            "paralyzepower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -12928,10 +12607,7 @@
             28,
             236
         ],
-        "bottle": [
-            "close_range",
-            "paralyzepower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -13103,10 +12779,7 @@
             28,
             236
         ],
-        "bottle": [
-            "close_range",
-            "paralyzepower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -13291,10 +12964,7 @@
             31,
             237
         ],
-        "bottle": [
-            "close_range",
-            "paralyzepower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -13466,10 +13136,7 @@
             31,
             237
         ],
-        "bottle": [
-            "close_range",
-            "paralyzepower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -13637,10 +13304,7 @@
             32,
             237
         ],
-        "bottle": [
-            "close_range",
-            "paralyzepower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -13833,10 +13497,7 @@
             35,
             230
         ],
-        "bottle": [
-            "close_range",
-            "paralyzepower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "forge",
@@ -14041,10 +13702,7 @@
             36,
             230
         ],
-        "bottle": [
-            "close_range",
-            "paralyzepower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -14220,10 +13878,7 @@
             36,
             230
         ],
-        "bottle": [
-            "close_range",
-            "paralyzepower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -14408,14 +14063,7 @@
             228,
             199
         ],
-        "bottle": [
-            "close_rangepower_up",
-            "power",
-            "poison",
-            "paralyze",
-            "sleep",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "forge",
@@ -14592,14 +14240,7 @@
             228,
             199
         ],
-        "bottle": [
-            "close_rangepower_up",
-            "power",
-            "poison",
-            "paralyze",
-            "sleep",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -14775,14 +14416,7 @@
             228,
             199
         ],
-        "bottle": [
-            "close_rangepower_up",
-            "power",
-            "poison",
-            "paralyze",
-            "sleep",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -14971,11 +14605,7 @@
             16,
             231
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -15147,11 +14777,7 @@
             16,
             231
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -15319,11 +14945,7 @@
             17,
             228
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -15516,14 +15138,7 @@
             198,
             245
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poison",
-            "sleeppower_up",
-            "blast",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -15695,14 +15310,7 @@
             198,
             245
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poison",
-            "sleeppower_up",
-            "blast",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -15874,14 +15482,7 @@
             198,
             245
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poison",
-            "sleeppower_up",
-            "blast",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -16074,12 +15675,7 @@
             228,
             245
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poisonpower_up",
-            "sleeppower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "forge",
@@ -16278,12 +15874,7 @@
             228,
             245
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poisonpower_up",
-            "sleeppower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -16459,12 +16050,7 @@
             228,
             245
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poisonpower_up",
-            "sleeppower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -16657,12 +16243,7 @@
             200,
             246
         ],
-        "bottle": [
-            "close_range",
-            "paralyze",
-            "sleep",
-            "blast"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -16834,12 +16415,7 @@
             200,
             246
         ],
-        "bottle": [
-            "close_range",
-            "paralyze",
-            "sleep",
-            "blast"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -17011,12 +16587,7 @@
             200,
             246
         ],
-        "bottle": [
-            "close_range",
-            "paralyze",
-            "sleep",
-            "blast"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -17209,11 +16780,7 @@
             23,
             235
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "forge",
@@ -17422,11 +16989,7 @@
             23,
             235
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -17598,11 +17161,7 @@
             24,
             235
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -17778,11 +17337,7 @@
             24,
             235
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -17975,12 +17530,7 @@
             27,
             236
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "paralyzepower_up",
-            "sleep"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -18156,12 +17706,7 @@
             27,
             236
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "paralyzepower_up",
-            "sleep"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -18329,12 +17874,7 @@
             28,
             236
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "paralyzepower_up",
-            "sleep"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -18527,12 +18067,7 @@
             16,
             199
         ],
-        "bottle": [
-            "close_range",
-            "poisonpower_up",
-            "paralyze",
-            "blast"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -18709,12 +18244,7 @@
             16,
             199
         ],
-        "bottle": [
-            "close_range",
-            "poisonpower_up",
-            "paralyze",
-            "blast"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -18886,12 +18416,7 @@
             17,
             199
         ],
-        "bottle": [
-            "close_range",
-            "poisonpower_up",
-            "paralyze",
-            "blast"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -19084,11 +18609,7 @@
             19,
             231
         ],
-        "bottle": [
-            "close_range",
-            "poisonpower_up",
-            "paralyze"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -19260,11 +18781,7 @@
             19,
             231
         ],
-        "bottle": [
-            "close_range",
-            "poisonpower_up",
-            "paralyze"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -19432,11 +18949,7 @@
             19,
             231
         ],
-        "bottle": [
-            "close_range",
-            "poisonpower_up",
-            "paralyze"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -19631,12 +19144,7 @@
             12,
             237
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "sleep",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -19808,12 +19316,7 @@
             12,
             237
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "sleep",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -19981,12 +19484,7 @@
             12,
             237
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "sleep",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -20162,12 +19660,7 @@
             12,
             237
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "sleep",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -20352,11 +19845,7 @@
             11,
             28
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "paralyzepower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -20532,11 +20021,7 @@
             12,
             28
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "paralyzepower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -20704,11 +20189,7 @@
             12,
             28
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "paralyzepower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -20884,11 +20365,7 @@
             13,
             29
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "paralyzepower_up"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -21077,11 +20554,7 @@
             19,
             220
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "blast"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -21257,11 +20730,7 @@
             20,
             220
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "blast"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -21437,11 +20906,7 @@
             21,
             220
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "blast"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -21626,11 +21091,7 @@
             11,
             228
         ],
-        "bottle": [
-            "close_rangepower_up",
-            "poison",
-            "paralyze"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -21806,11 +21267,7 @@
             11,
             228
         ],
-        "bottle": [
-            "close_rangepower_up",
-            "poison",
-            "paralyze"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -21986,11 +21443,7 @@
             12,
             228
         ],
-        "bottle": [
-            "close_rangepower_up",
-            "poison",
-            "paralyze"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -22175,12 +21628,7 @@
             11,
             23
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "paralyze",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -22352,12 +21800,7 @@
             12,
             24
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "paralyze",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -22533,12 +21976,7 @@
             12,
             24
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "paralyze",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -22723,12 +22161,7 @@
             19,
             221
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poisonpower_up",
-            "paralyze"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "forge",
@@ -22937,12 +22370,7 @@
             19,
             221
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poisonpower_up",
-            "paralyze"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -23118,12 +22546,7 @@
             19,
             221
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poisonpower_up",
-            "paralyze"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -23308,13 +22731,7 @@
             27,
             233
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poison",
-            "paralyze",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "forge",
@@ -23523,13 +22940,7 @@
             27,
             233
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poison",
-            "paralyze",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -23705,13 +23116,7 @@
             28,
             233
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poison",
-            "paralyze",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -23896,14 +23301,7 @@
             11,
             220
         ],
-        "bottle": [
-            "close_range",
-            "poison",
-            "paralyze",
-            "sleep",
-            "blast",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -24076,14 +23474,7 @@
             12,
             220
         ],
-        "bottle": [
-            "close_range",
-            "poison",
-            "paralyze",
-            "sleep",
-            "blast",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -24259,14 +23650,7 @@
             12,
             220
         ],
-        "bottle": [
-            "close_range",
-            "poison",
-            "paralyze",
-            "sleep",
-            "blast",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -24455,10 +23839,7 @@
             16,
             228
         ],
-        "bottle": [
-            "close_range",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "forge",
@@ -24667,10 +24048,7 @@
             16,
             228
         ],
-        "bottle": [
-            "close_range",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -24842,10 +24220,7 @@
             17,
             228
         ],
-        "bottle": [
-            "close_range",
-            "exhaust"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -25030,12 +24405,7 @@
             12,
             241
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poison",
-            "paralyze"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "forge",
@@ -25216,12 +24586,7 @@
             13,
             241
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poison",
-            "paralyze"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -25410,11 +24775,7 @@
             234,
             242
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "sleep"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "forge",
@@ -25595,11 +24956,7 @@
             234,
             242
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "sleep"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -25788,12 +25145,7 @@
             18,
             240
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poisonpower_up",
-            "paralyze"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "forge",
@@ -25974,12 +25326,7 @@
             18,
             240
         ],
-        "bottle": [
-            "close_range",
-            "power",
-            "poisonpower_up",
-            "paralyze"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -26168,10 +25515,7 @@
             27,
             229
         ],
-        "bottle": [
-            "close_range",
-            "power"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "forge",
@@ -26352,10 +25696,7 @@
             28,
             229
         ],
-        "bottle": [
-            "close_range",
-            "power"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -26527,10 +25868,7 @@
             28,
             229
         ],
-        "bottle": [
-            "close_range",
-            "power"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -26711,9 +26049,7 @@
         ],
         "curve_type": 1,
         "rampage_skills": [],
-        "bottle": [
-            "close_range"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",
@@ -26881,9 +26217,7 @@
         ],
         "curve_type": 1,
         "rampage_skills": [],
-        "bottle": [
-            "close_range"
-        ],
+        "bottle": null,
         "crafting": [
             {
                 "method": "upgrade",

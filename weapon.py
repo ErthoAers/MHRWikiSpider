@@ -149,7 +149,10 @@ def fetch_ammo_list(ammo_list):
 
 def fetch_bottle(bottle):
     raw_bottle = bottle.find_all("li")
-    return [i.text.lower().replace(" ", "_") for i in raw_bottle]
+    bottles = [i.text.lower().replace(" ", "_") for i in raw_bottle]
+    for i, bottle in enumerate(bottles):
+        if bottle.endswith("power_up"):
+            bottles[i] = f"{bottle[:-8]}_power_up"
 
 def fetch_crafting(crafting):
     crafting = crafting.find("tbody").contents
