@@ -7,7 +7,8 @@ import json
 import multiprocessing.pool
 from utils import *
 
-armor_id = {}
+with open("json/item_id.json", encoding='utf-8') as f:
+    item_id = json.load(f)
 
 def fetch_stat(stat):
     raw_stat = stat.find("tbody").find_all("tr")
@@ -41,7 +42,7 @@ def fetch_stat(stat):
             level = int(s.text.split()[-1])
             id_ = int(re.match(skill_expr, s.find(href=re.compile(skill_expr))["href"]).group(1))
             skill.append({
-                "id": id_,
+                "id": id_ + 1,
                 "level": level
             })
         
@@ -90,10 +91,9 @@ def fetch_crafting(crafting):
 
         raw_material = armor_crafting[2].find_all("li")
         material = []
-        item_expr = r"/item/normal_(\d+).html"
         for m in raw_material:
             num = int(re.match(r"^(\d+)x$", m.text.split()[0]).group(1))
-            id_ = int(re.match(item_expr, m.find(href=re.compile(item_expr))["href"]).group(1))
+            id_ = item_id[m.find(class_=en_tag).text]
             material.append({
                 "id": id_,
                 "num": num
@@ -101,10 +101,9 @@ def fetch_crafting(crafting):
         
         raw_output = armor_crafting[3].find_all("li")
         output = []
-        item_expr = r"/item/normal_(\d+).html"
         for o in raw_output:
             num = int(re.match(r"^(\d+)x$", o.text.split()[0]).group(1))
-            id_ = int(re.match(item_expr, o.find(href=re.compile(item_expr))["href"]).group(1))
+            id_ = item_id[o.find(class_=en_tag).text]
             output.append({
                 "id": id_,
                 "num": num
@@ -137,10 +136,9 @@ def fetch_layered_crafting(layered_crafting):
         
         raw_material = armor_crafting[2].find_all("li")
         material = []
-        item_expr = r"/item/normal_(\d+).html"
         for m in raw_material:
             num = int(re.match(r"^(\d+)x$", m.text.split()[0]).group(1))
-            id_ = int(re.match(item_expr, m.find(href=re.compile(item_expr))["href"]).group(1))
+            id_ = item_id[m.find(class_=en_tag).text]
             material.append({
                 "id": id_,
                 "num": num
@@ -236,14 +234,15 @@ else:
         soup = BeautifulSoup(r.text, features="lxml")
         armor_id[name] = int(soup.find(class_="sm:grid-cols-4").find_all(class_="sm:col-span-1")[2].find("dd").text)
         print(f"{name} {armor_id[name]} saved.")
-
+    armor_id.update({"Shadow Shades": 3000001, "Black Leather": 3000002, "Cunning Specs": 3000003})
     with open("json/armor_id.json", "w") as f:
         json.dump(armor_id, f)
 
 pool = multiprocessing.pool.ThreadPool(16)
 pool.map(lambda x: armor.append(fetch(x)), links)
 armor = [i for i in armor if i != None]
-armor = sorted([i for i in armor if i != None], key=lambda x: x["id"])
+armor.sort(key=lambda x: x["id"])
+a = [armor[i] for i in range(len(armor)) if (i == len(armor) - 1) or (armor[i]["id"] != armor[i + 1]["id"])]
 
 with open("json/armor.json", "w", encoding="utf-8") as f:
-    json.dump(armor, f, indent=4, ensure_ascii=False)
+    json.dump(a, f, indent=4, ensure_ascii=False)

@@ -7,8 +7,6 @@ import json
 import multiprocessing.pool
 from utils import *
 
-item_id = {"Bishaten Talon": 646, "Massive Bone": 455}
-
 def fetch_icon(icon):
     icon_div = icon.find_all("div")
     color = int(icon_div[0]["class"][0].split("-")[-1])
@@ -83,7 +81,8 @@ def fetch(link):
         "buy_price": int(data[10].contents[1].text),
         "item_group": data[11].contents[1].text.lower(),
         "material_category": material,
-        "evaluation_value": int(data[13].contents[1].text)
+        "evaluation_value": int(data[13].contents[1].text),
+        "crafting": item_crafting.setdefault(id_, [])
     }
 
     entry["name_entry"] = [{
@@ -138,9 +137,27 @@ else:
         item_id[name] = int(soup.find(class_="sm:grid-cols-4").find_all(class_="sm:col-span-1")[4].find("dd").text)
         print(f"{name} {item_id[name]} saved.")
     
+    item_id.update({"Bishaten Talon": 646, "Massive Bone": 455})
     with open("json/item_id.json", "w") as f:
         json.dump(item_id, f)
 
+if os.path.exists("json/item_crafting.json"):
+    with open("json/item_crafting.json") as f:
+        item_crafting = json.load(f)
+else:
+    r = requests.get("https://mhrise.kiranico.com/data/item-mix-recipes")
+    soup = BeautifulSoup(r.text, features="lxml")
+    crafting_trs = soup.find("tbody").find_all("tr")
+    for crafring_tr in crafting_trs:
+        material = crafring_tr.find_all("td")
+        output = item_id[material[1].text]
+        item_crafting[output] = item_crafting.setdefault(output, [])
+        item_crafting[output].append([item_id[material[2].text]])
+        if material[3].text != "":
+            item_crafting[output][-1].append(item_id[material[3].text])
+
+    with open("json/item_crafting.json", "w") as f:
+        json.dump(item_crafting, f)
 
 os.makedirs("img/item", exist_ok=True)
 pool = multiprocessing.pool.ThreadPool(16)

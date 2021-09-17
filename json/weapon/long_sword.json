@@ -144,7 +144,7 @@
             }
         ],
         "upgrade": [
-            27
+            2
         ]
     },
     {
@@ -282,14 +282,14 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 26,
+                "basic": 1,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 131,
+                        "id": 419,
                         "num": 1
                     }
                 ],
@@ -297,10 +297,10 @@
             }
         ],
         "upgrade": [
-            28,
-            6,
-            46,
-            74
+            3,
+            16,
+            10,
+            13
         ]
     },
     {
@@ -438,18 +438,18 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 27,
+                "basic": 2,
                 "categorized_material": {
                     "material": "Neopteron",
                     "point": 5
                 },
                 "material": [
                     {
-                        "id": 133,
+                        "id": 421,
                         "num": 3
                     },
                     {
-                        "id": 610,
+                        "id": 531,
                         "num": 2
                     }
                 ],
@@ -457,8 +457,8 @@
             }
         ],
         "upgrade": [
-            29,
-            119
+            4,
+            7
         ]
     },
     {
@@ -596,18 +596,18 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 28,
+                "basic": 3,
                 "categorized_material": {
                     "material": "Monster",
                     "point": 10
                 },
                 "material": [
                     {
-                        "id": 180,
+                        "id": 800,
                         "num": 1
                     },
                     {
-                        "id": 695,
+                        "id": 427,
                         "num": 3
                     }
                 ],
@@ -615,7 +615,7 @@
             }
         ],
         "upgrade": [
-            30
+            5
         ]
     },
     {
@@ -760,60 +760,60 @@
                 },
                 "material": [
                     {
-                        "id": 697,
+                        "id": 429,
                         "num": 8
                     },
                     {
-                        "id": 415,
+                        "id": 518,
                         "num": 3
                     },
                     {
-                        "id": 693,
+                        "id": 425,
                         "num": 2
                     },
                     {
-                        "id": 1018,
+                        "id": 1008,
                         "num": 3
                     }
                 ],
                 "output": [
                     {
-                        "id": 814,
+                        "id": 2003,
                         "num": 2
                     }
                 ]
             },
             {
                 "method": "upgrade",
-                "basic": 29,
+                "basic": 4,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 697,
+                        "id": 429,
                         "num": 4
                     },
                     {
-                        "id": 134,
+                        "id": 422,
                         "num": 4
                     },
                     {
-                        "id": 1018,
+                        "id": 1008,
                         "num": 1
                     }
                 ],
                 "output": [
                     {
-                        "id": 814,
+                        "id": 2003,
                         "num": 2
                     }
                 ]
             }
         ],
         "upgrade": [
-            31
+            6
         ]
     },
     {
@@ -951,22 +951,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 30,
+                "basic": 5,
                 "categorized_material": {
                     "material": "Bone+",
                     "point": 15
                 },
                 "material": [
                     {
-                        "id": 696,
+                        "id": 428,
                         "num": 2
                     },
                     {
-                        "id": 276,
+                        "id": 602,
                         "num": 2
                     },
                     {
-                        "id": 427,
+                        "id": 471,
                         "num": 1
                     }
                 ],
@@ -981,7 +981,7 @@
                 },
                 "material": [
                     {
-                        "id": 1021,
+                        "id": 1012,
                         "num": 1
                     }
                 ],
@@ -1132,60 +1132,60 @@
                 },
                 "material": [
                     {
-                        "id": 459,
+                        "id": 808,
                         "num": 1
                     },
                     {
-                        "id": 103,
+                        "id": 804,
                         "num": 4
                     },
                     {
-                        "id": 105,
+                        "id": 810,
                         "num": 6
                     },
                     {
-                        "id": 104,
+                        "id": 806,
                         "num": 3
                     }
                 ],
                 "output": [
                     {
-                        "id": 664,
+                        "id": 2071,
                         "num": 2
                     }
                 ]
             },
             {
                 "method": "upgrade",
-                "basic": 28,
+                "basic": 3,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 459,
+                        "id": 808,
                         "num": 1
                     },
                     {
-                        "id": 106,
+                        "id": 813,
                         "num": 3
                     },
                     {
-                        "id": 461,
+                        "id": 815,
                         "num": 4
                     }
                 ],
                 "output": [
                     {
-                        "id": 664,
+                        "id": 2071,
                         "num": 2
                     }
                 ]
             }
         ],
         "upgrade": [
-            120
+            8
         ]
     },
     {
@@ -1323,26 +1323,26 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 119,
+                "basic": 7,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 300,
+                        "id": 809,
                         "num": 1
                     },
                     {
-                        "id": 302,
+                        "id": 814,
                         "num": 3
                     },
                     {
-                        "id": 301,
+                        "id": 811,
                         "num": 3
                     },
                     {
-                        "id": 107,
+                        "id": 816,
                         "num": 1
                     }
                 ],
@@ -1350,7 +1350,7 @@
             }
         ],
         "upgrade": [
-            121
+            9
         ]
     },
     {
@@ -1488,22 +1488,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 120,
+                "basic": 8,
                 "categorized_material": {
                     "material": "Zinogre+",
                     "point": 10
                 },
                 "material": [
                     {
-                        "id": 436,
+                        "id": 468,
                         "num": 2
                     },
                     {
-                        "id": 589,
+                        "id": 890,
                         "num": 2
                     },
                     {
-                        "id": 303,
+                        "id": 817,
                         "num": 1
                     }
                 ],
@@ -1518,11 +1518,11 @@
                 },
                 "material": [
                     {
-                        "id": 1025,
+                        "id": 1016,
                         "num": 1
                     },
                     {
-                        "id": 1024,
+                        "id": 1015,
                         "num": 1
                     }
                 ],
@@ -1673,60 +1673,60 @@
                 },
                 "material": [
                     {
-                        "id": 165,
+                        "id": 610,
                         "num": 1
                     },
                     {
-                        "id": 115,
+                        "id": 608,
                         "num": 1
                     },
                     {
-                        "id": 113,
+                        "id": 604,
                         "num": 6
                     },
                     {
-                        "id": 102,
+                        "id": 479,
                         "num": 3
                     }
                 ],
                 "output": [
                     {
-                        "id": 837,
+                        "id": 2032,
                         "num": 2
                     }
                 ]
             },
             {
                 "method": "upgrade",
-                "basic": 27,
+                "basic": 2,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 165,
+                        "id": 610,
                         "num": 1
                     },
                     {
-                        "id": 114,
+                        "id": 606,
                         "num": 4
                     },
                     {
-                        "id": 102,
+                        "id": 479,
                         "num": 2
                     }
                 ],
                 "output": [
                     {
-                        "id": 837,
+                        "id": 2032,
                         "num": 2
                     }
                 ]
             }
         ],
         "upgrade": [
-            47
+            11
         ]
     },
     {
@@ -1864,22 +1864,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 46,
+                "basic": 10,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 528,
+                        "id": 607,
                         "num": 3
                     },
                     {
-                        "id": 113,
+                        "id": 604,
                         "num": 5
                     },
                     {
-                        "id": 445,
+                        "id": 480,
                         "num": 2
                     }
                 ],
@@ -1887,7 +1887,7 @@
             }
         ],
         "upgrade": [
-            48
+            12
         ]
     },
     {
@@ -2025,18 +2025,18 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 47,
+                "basic": 11,
                 "categorized_material": {
                     "material": "Aknosom+",
                     "point": 10
                 },
                 "material": [
                     {
-                        "id": 1028,
+                        "id": 694,
                         "num": 2
                     },
                     {
-                        "id": 426,
+                        "id": 469,
                         "num": 1
                     }
                 ],
@@ -2051,11 +2051,11 @@
                 },
                 "material": [
                     {
-                        "id": 1023,
+                        "id": 1014,
                         "num": 1
                     },
                     {
-                        "id": 1022,
+                        "id": 1013,
                         "num": 1
                     }
                 ],
@@ -2199,22 +2199,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 27,
+                "basic": 2,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 231,
+                        "id": 595,
                         "num": 4
                     },
                     {
-                        "id": 233,
+                        "id": 597,
                         "num": 3
                     },
                     {
-                        "id": 408,
+                        "id": 521,
                         "num": 2
                     }
                 ],
@@ -2222,7 +2222,7 @@
             }
         ],
         "upgrade": [
-            75
+            14
         ]
     },
     {
@@ -2360,18 +2360,18 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 74,
+                "basic": 13,
                 "categorized_material": {
                     "material": "Lagombi",
                     "point": 10
                 },
                 "material": [
                     {
-                        "id": 693,
+                        "id": 425,
                         "num": 2
                     },
                     {
-                        "id": 227,
+                        "id": 591,
                         "num": 2
                     }
                 ],
@@ -2379,7 +2379,7 @@
             }
         ],
         "upgrade": [
-            76
+            15
         ]
     },
     {
@@ -2517,22 +2517,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 75,
+                "basic": 14,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 232,
+                        "id": 596,
                         "num": 3
                     },
                     {
-                        "id": 234,
+                        "id": 598,
                         "num": 3
                     },
                     {
-                        "id": 904,
+                        "id": 470,
                         "num": 1
                     }
                 ],
@@ -2547,11 +2547,11 @@
                 },
                 "material": [
                     {
-                        "id": 1023,
+                        "id": 1014,
                         "num": 1
                     },
                     {
-                        "id": 1022,
+                        "id": 1013,
                         "num": 1
                     }
                 ],
@@ -2695,18 +2695,18 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 27,
+                "basic": 2,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 691,
+                        "id": 423,
                         "num": 2
                     },
                     {
-                        "id": 132,
+                        "id": 420,
                         "num": 5
                     }
                 ],
@@ -2714,8 +2714,8 @@
             }
         ],
         "upgrade": [
-            7,
-            89
+            17,
+            19
         ]
     },
     {
@@ -2853,18 +2853,18 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 6,
+                "basic": 16,
                 "categorized_material": {
                     "material": "Ore",
                     "point": 10
                 },
                 "material": [
                     {
-                        "id": 134,
+                        "id": 422,
                         "num": 3
                     },
                     {
-                        "id": 280,
+                        "id": 671,
                         "num": 1
                     }
                 ],
@@ -2872,7 +2872,7 @@
             }
         ],
         "upgrade": [
-            8
+            18
         ]
     },
     {
@@ -3010,22 +3010,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 7,
+                "basic": 17,
                 "categorized_material": {
                     "material": "Ore",
                     "point": 20
                 },
                 "material": [
                     {
-                        "id": 697,
+                        "id": 429,
                         "num": 2
                     },
                     {
-                        "id": 692,
+                        "id": 424,
                         "num": 2
                     },
                     {
-                        "id": 533,
+                        "id": 643,
                         "num": 1
                     }
                 ],
@@ -3040,11 +3040,11 @@
                 },
                 "material": [
                     {
-                        "id": 1023,
+                        "id": 1014,
                         "num": 1
                     },
                     {
-                        "id": 1022,
+                        "id": 1013,
                         "num": 1
                     }
                 ],
@@ -3195,61 +3195,61 @@
                 },
                 "material": [
                     {
-                        "id": 240,
+                        "id": 620,
                         "num": 4
                     },
                     {
-                        "id": 247,
+                        "id": 627,
                         "num": 1
                     },
                     {
-                        "id": 246,
+                        "id": 626,
                         "num": 1
                     },
                     {
-                        "id": 133,
+                        "id": 421,
                         "num": 5
                     }
                 ],
                 "output": [
                     {
-                        "id": 672,
+                        "id": 2036,
                         "num": 2
                     }
                 ]
             },
             {
                 "method": "upgrade",
-                "basic": 6,
+                "basic": 16,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 240,
+                        "id": 620,
                         "num": 3
                     },
                     {
-                        "id": 246,
+                        "id": 626,
                         "num": 1
                     },
                     {
-                        "id": 131,
+                        "id": 419,
                         "num": 8
                     }
                 ],
                 "output": [
                     {
-                        "id": 672,
+                        "id": 2036,
                         "num": 2
                     }
                 ]
             }
         ],
         "upgrade": [
-            90,
-            95
+            20,
+            22
         ]
     },
     {
@@ -3387,22 +3387,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 89,
+                "basic": 19,
                 "categorized_material": {
                     "material": "Barroth",
                     "point": 10
                 },
                 "material": [
                     {
-                        "id": 420,
+                        "id": 450,
                         "num": 3
                     },
                     {
-                        "id": 242,
+                        "id": 622,
                         "num": 2
                     },
                     {
-                        "id": 397,
+                        "id": 510,
                         "num": 2
                     }
                 ],
@@ -3410,7 +3410,7 @@
             }
         ],
         "upgrade": [
-            91
+            21
         ]
     },
     {
@@ -3548,22 +3548,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 90,
+                "basic": 20,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 241,
+                        "id": 621,
                         "num": 4
                     },
                     {
-                        "id": 245,
+                        "id": 625,
                         "num": 4
                     },
                     {
-                        "id": 698,
+                        "id": 430,
                         "num": 5
                     }
                 ],
@@ -3578,11 +3578,11 @@
                 },
                 "material": [
                     {
-                        "id": 1023,
+                        "id": 1014,
                         "num": 1
                     },
                     {
-                        "id": 1022,
+                        "id": 1013,
                         "num": 1
                     }
                 ],
@@ -3726,22 +3726,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 89,
+                "basic": 19,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 278,
+                        "id": 667,
                         "num": 4
                     },
                     {
-                        "id": 1029,
+                        "id": 672,
                         "num": 1
                     },
                     {
-                        "id": 133,
+                        "id": 421,
                         "num": 8
                     }
                 ],
@@ -3749,8 +3749,8 @@
             }
         ],
         "upgrade": [
-            96,
-            55
+            23,
+            25
         ]
     },
     {
@@ -3888,22 +3888,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 95,
+                "basic": 22,
                 "categorized_material": {
                     "material": "Basarios",
                     "point": 8
                 },
                 "material": [
                     {
-                        "id": 991,
+                        "id": 1003,
                         "num": 1
                     },
                     {
-                        "id": 1030,
+                        "id": 669,
                         "num": 2
                     },
                     {
-                        "id": 144,
+                        "id": 737,
                         "num": 2
                     }
                 ],
@@ -3911,7 +3911,7 @@
             }
         ],
         "upgrade": [
-            97
+            24
         ]
     },
     {
@@ -4049,26 +4049,26 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 96,
+                "basic": 23,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 279,
+                        "id": 668,
                         "num": 4
                     },
                     {
-                        "id": 281,
+                        "id": 673,
                         "num": 1
                     },
                     {
-                        "id": 698,
+                        "id": 430,
                         "num": 6
                     },
                     {
-                        "id": 445,
+                        "id": 480,
                         "num": 3
                     }
                 ],
@@ -4083,11 +4083,11 @@
                 },
                 "material": [
                     {
-                        "id": 1023,
+                        "id": 1014,
                         "num": 1
                     },
                     {
-                        "id": 1022,
+                        "id": 1013,
                         "num": 1
                     }
                 ],
@@ -4238,60 +4238,60 @@
                 },
                 "material": [
                     {
-                        "id": 119,
+                        "id": 789,
                         "num": 4
                     },
                     {
-                        "id": 182,
+                        "id": 799,
                         "num": 1
                     },
                     {
-                        "id": 181,
+                        "id": 795,
                         "num": 4
                     },
                     {
-                        "id": 180,
+                        "id": 800,
                         "num": 3
                     }
                 ],
                 "output": [
                     {
-                        "id": 859,
+                        "id": 2069,
                         "num": 2
                     }
                 ]
             },
             {
                 "method": "upgrade",
-                "basic": 95,
+                "basic": 22,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 119,
+                        "id": 789,
                         "num": 3
                     },
                     {
-                        "id": 181,
+                        "id": 795,
                         "num": 1
                     },
                     {
-                        "id": 180,
+                        "id": 800,
                         "num": 2
                     }
                 ],
                 "output": [
                     {
-                        "id": 859,
+                        "id": 2069,
                         "num": 2
                     }
                 ]
             }
         ],
         "upgrade": [
-            56
+            26
         ]
     },
     {
@@ -4429,22 +4429,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 55,
+                "basic": 25,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 560,
+                        "id": 790,
                         "num": 3
                     },
                     {
-                        "id": 563,
+                        "id": 796,
                         "num": 2
                     },
                     {
-                        "id": 566,
+                        "id": 801,
                         "num": 2
                     }
                 ],
@@ -4452,7 +4452,7 @@
             }
         ],
         "upgrade": [
-            57
+            27
         ]
     },
     {
@@ -4590,18 +4590,18 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 56,
+                "basic": 26,
                 "categorized_material": {
                     "material": "Almudron+",
                     "point": 10
                 },
                 "material": [
                     {
-                        "id": 565,
+                        "id": 803,
                         "num": 1
                     },
                     {
-                        "id": 423,
+                        "id": 453,
                         "num": 3
                     }
                 ],
@@ -4616,11 +4616,11 @@
                 },
                 "material": [
                     {
-                        "id": 1025,
+                        "id": 1016,
                         "num": 1
                     },
                     {
-                        "id": 1024,
+                        "id": 1015,
                         "num": 1
                     }
                 ],
@@ -4771,20 +4771,20 @@
                 },
                 "material": [
                     {
-                        "id": 131,
+                        "id": 419,
                         "num": 3
                     }
                 ],
                 "output": [
                     {
-                        "id": 813,
+                        "id": 2002,
                         "num": 2
                     }
                 ]
             }
         ],
         "upgrade": [
-            1
+            29
         ]
     },
     {
@@ -4922,18 +4922,18 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 0,
+                "basic": 28,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 131,
+                        "id": 419,
                         "num": 4
                     },
                     {
-                        "id": 691,
+                        "id": 423,
                         "num": 2
                     }
                 ],
@@ -4941,9 +4941,9 @@
             }
         ],
         "upgrade": [
-            2,
-            3,
-            83
+            30,
+            43,
+            46
         ]
     },
     {
@@ -5081,14 +5081,14 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 1,
+                "basic": 29,
                 "categorized_material": {
                     "material": "Ore",
                     "point": 10
                 },
                 "material": [
                     {
-                        "id": 134,
+                        "id": 422,
                         "num": 4
                     }
                 ],
@@ -5103,7 +5103,7 @@
                 },
                 "material": [
                     {
-                        "id": 1021,
+                        "id": 1012,
                         "num": 1
                     }
                 ],
@@ -5111,9 +5111,9 @@
             }
         ],
         "upgrade": [
-            12,
-            110,
-            113
+            31,
+            40,
+            37
         ]
     },
     {
@@ -5251,22 +5251,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 2,
+                "basic": 30,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 174,
+                        "id": 720,
                         "num": 3
                     },
                     {
-                        "id": 693,
+                        "id": 425,
                         "num": 2
                     },
                     {
-                        "id": 452,
+                        "id": 466,
                         "num": 3
                     }
                 ],
@@ -5274,8 +5274,8 @@
             }
         ],
         "upgrade": [
-            13,
-            122
+            32,
+            34
         ]
     },
     {
@@ -5413,22 +5413,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 12,
+                "basic": 31,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 697,
+                        "id": 429,
                         "num": 4
                     },
                     {
-                        "id": 905,
+                        "id": 461,
                         "num": 3
                     },
                     {
-                        "id": 695,
+                        "id": 427,
                         "num": 3
                     }
                 ],
@@ -5436,7 +5436,7 @@
             }
         ],
         "upgrade": [
-            14
+            33
         ]
     },
     {
@@ -5574,18 +5574,18 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 13,
+                "basic": 32,
                 "categorized_material": {
                     "material": "Ore+",
                     "point": 14
                 },
                 "material": [
                     {
-                        "id": 698,
+                        "id": 430,
                         "num": 4
                     },
                     {
-                        "id": 694,
+                        "id": 426,
                         "num": 2
                     }
                 ],
@@ -5600,11 +5600,11 @@
                 },
                 "material": [
                     {
-                        "id": 1023,
+                        "id": 1014,
                         "num": 1
                     },
                     {
-                        "id": 1022,
+                        "id": 1013,
                         "num": 1
                     }
                 ],
@@ -5755,60 +5755,60 @@
                 },
                 "material": [
                     {
-                        "id": 331,
+                        "id": 824,
                         "num": 5
                     },
                     {
-                        "id": 329,
+                        "id": 822,
                         "num": 1
                     },
                     {
-                        "id": 326,
+                        "id": 820,
                         "num": 4
                     },
                     {
-                        "id": 333,
+                        "id": 827,
                         "num": 1
                     }
                 ],
                 "output": [
                     {
-                        "id": 857,
+                        "id": 2073,
                         "num": 2
                     }
                 ]
             },
             {
                 "method": "upgrade",
-                "basic": 12,
+                "basic": 31,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 331,
+                        "id": 824,
                         "num": 5
                     },
                     {
-                        "id": 329,
+                        "id": 822,
                         "num": 1
                     },
                     {
-                        "id": 324,
+                        "id": 818,
                         "num": 3
                     }
                 ],
                 "output": [
                     {
-                        "id": 857,
+                        "id": 2073,
                         "num": 2
                     }
                 ]
             }
         ],
         "upgrade": [
-            123
+            35
         ]
     },
     {
@@ -5946,22 +5946,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 122,
+                "basic": 34,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 332,
+                        "id": 825,
                         "num": 5
                     },
                     {
-                        "id": 330,
+                        "id": 823,
                         "num": 3
                     },
                     {
-                        "id": 698,
+                        "id": 430,
                         "num": 2
                     }
                 ],
@@ -5969,7 +5969,7 @@
             }
         ],
         "upgrade": [
-            124
+            36
         ]
     },
     {
@@ -6107,18 +6107,18 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 123,
+                "basic": 35,
                 "categorized_material": {
                     "material": "Tigrex+",
                     "point": 15
                 },
                 "material": [
                     {
-                        "id": 347,
+                        "id": 844,
                         "num": 3
                     },
                     {
-                        "id": 334,
+                        "id": 828,
                         "num": 1
                     }
                 ],
@@ -6133,11 +6133,11 @@
                 },
                 "material": [
                     {
-                        "id": 1025,
+                        "id": 1016,
                         "num": 1
                     },
                     {
-                        "id": 1024,
+                        "id": 1015,
                         "num": 1
                     }
                 ],
@@ -6281,22 +6281,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 2,
+                "basic": 30,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 110,
+                        "id": 758,
                         "num": 3
                     },
                     {
-                        "id": 108,
+                        "id": 754,
                         "num": 4
                     },
                     {
-                        "id": 111,
+                        "id": 763,
                         "num": 1
                     }
                 ],
@@ -6304,7 +6304,7 @@
             }
         ],
         "upgrade": [
-            114
+            38
         ]
     },
     {
@@ -6442,26 +6442,26 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 113,
+                "basic": 37,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 306,
+                        "id": 759,
                         "num": 4
                     },
                     {
-                        "id": 308,
+                        "id": 764,
                         "num": 3
                     },
                     {
-                        "id": 112,
+                        "id": 765,
                         "num": 1
                     },
                     {
-                        "id": 451,
+                        "id": 486,
                         "num": 3
                     }
                 ],
@@ -6469,7 +6469,7 @@
             }
         ],
         "upgrade": [
-            115
+            39
         ]
     },
     {
@@ -6607,18 +6607,18 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 114,
+                "basic": 38,
                 "categorized_material": {
                     "material": "Mizutsune+",
                     "point": 10
                 },
                 "material": [
                     {
-                        "id": 592,
+                        "id": 893,
                         "num": 3
                     },
                     {
-                        "id": 309,
+                        "id": 766,
                         "num": 1
                     }
                 ],
@@ -6633,11 +6633,11 @@
                 },
                 "material": [
                     {
-                        "id": 1025,
+                        "id": 1016,
                         "num": 1
                     },
                     {
-                        "id": 1024,
+                        "id": 1015,
                         "num": 1
                     }
                 ],
@@ -6781,26 +6781,26 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 2,
+                "basic": 30,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 288,
+                        "id": 748,
                         "num": 4
                     },
                     {
-                        "id": 284,
+                        "id": 744,
                         "num": 2
                     },
                     {
-                        "id": 287,
+                        "id": 747,
                         "num": 2
                     },
                     {
-                        "id": 133,
+                        "id": 421,
                         "num": 5
                     }
                 ],
@@ -6808,7 +6808,7 @@
             }
         ],
         "upgrade": [
-            111
+            41
         ]
     },
     {
@@ -6946,26 +6946,26 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 110,
+                "basic": 40,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 289,
+                        "id": 749,
                         "num": 4
                     },
                     {
-                        "id": 285,
+                        "id": 745,
                         "num": 5
                     },
                     {
-                        "id": 292,
+                        "id": 752,
                         "num": 1
                     },
                     {
-                        "id": 611,
+                        "id": 532,
                         "num": 1
                     }
                 ],
@@ -6973,7 +6973,7 @@
             }
         ],
         "upgrade": [
-            112
+            42
         ]
     },
     {
@@ -7111,22 +7111,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 111,
+                "basic": 41,
                 "categorized_material": {
                     "material": "Nargacuga+",
                     "point": 10
                 },
                 "material": [
                     {
-                        "id": 577,
+                        "id": 842,
                         "num": 2
                     },
                     {
-                        "id": 291,
+                        "id": 751,
                         "num": 3
                     },
                     {
-                        "id": 293,
+                        "id": 753,
                         "num": 1
                     }
                 ],
@@ -7141,11 +7141,11 @@
                 },
                 "material": [
                     {
-                        "id": 1025,
+                        "id": 1016,
                         "num": 1
                     },
                     {
-                        "id": 1024,
+                        "id": 1015,
                         "num": 1
                     }
                 ],
@@ -7289,22 +7289,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 1,
+                "basic": 29,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 693,
+                        "id": 425,
                         "num": 2
                     },
                     {
-                        "id": 132,
+                        "id": 420,
                         "num": 5
                     },
                     {
-                        "id": 446,
+                        "id": 481,
                         "num": 3
                     }
                 ],
@@ -7312,7 +7312,7 @@
             }
         ],
         "upgrade": [
-            4
+            44
         ]
     },
     {
@@ -7450,22 +7450,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 3,
+                "basic": 43,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 697,
+                        "id": 429,
                         "num": 5
                     },
                     {
-                        "id": 461,
+                        "id": 815,
                         "num": 5
                     },
                     {
-                        "id": 170,
+                        "id": 680,
                         "num": 2
                     }
                 ],
@@ -7473,7 +7473,7 @@
             }
         ],
         "upgrade": [
-            5
+            45
         ]
     },
     {
@@ -7611,22 +7611,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 4,
+                "basic": 44,
                 "categorized_material": {
                     "material": "Ore+",
                     "point": 10
                 },
                 "material": [
                     {
-                        "id": 694,
+                        "id": 426,
                         "num": 3
                     },
                     {
-                        "id": 698,
+                        "id": 430,
                         "num": 3
                     },
                     {
-                        "id": 447,
+                        "id": 482,
                         "num": 3
                     }
                 ],
@@ -7641,11 +7641,11 @@
                 },
                 "material": [
                     {
-                        "id": 1023,
+                        "id": 1014,
                         "num": 1
                     },
                     {
-                        "id": 1022,
+                        "id": 1013,
                         "num": 1
                     }
                 ],
@@ -7789,22 +7789,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 1,
+                "basic": 29,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 630,
+                        "id": 574,
                         "num": 2
                     },
                     {
-                        "id": 632,
+                        "id": 576,
                         "num": 1
                     },
                     {
-                        "id": 634,
+                        "id": 578,
                         "num": 2
                     }
                 ],
@@ -7812,8 +7812,8 @@
             }
         ],
         "upgrade": [
-            84,
-            98
+            47,
+            52
         ]
     },
     {
@@ -7951,22 +7951,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 83,
+                "basic": 46,
                 "categorized_material": {
                     "material": "Kulu-Ya-Ku",
                     "point": 8
                 },
                 "material": [
                     {
-                        "id": 420,
+                        "id": 450,
                         "num": 2
                     },
                     {
-                        "id": 634,
+                        "id": 578,
                         "num": 1
                     },
                     {
-                        "id": 134,
+                        "id": 422,
                         "num": 4
                     }
                 ],
@@ -7974,8 +7974,8 @@
             }
         ],
         "upgrade": [
-            85,
-            9
+            48,
+            49
         ]
     },
     {
@@ -8113,26 +8113,26 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 84,
+                "basic": 47,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 629,
+                        "id": 573,
                         "num": 4
                     },
                     {
-                        "id": 631,
+                        "id": 575,
                         "num": 2
                     },
                     {
-                        "id": 635,
+                        "id": 579,
                         "num": 1
                     },
                     {
-                        "id": 426,
+                        "id": 469,
                         "num": 1
                     }
                 ],
@@ -8147,11 +8147,11 @@
                 },
                 "material": [
                     {
-                        "id": 1023,
+                        "id": 1014,
                         "num": 1
                     },
                     {
-                        "id": 1022,
+                        "id": 1013,
                         "num": 1
                     }
                 ],
@@ -8302,56 +8302,56 @@
                 },
                 "material": [
                     {
-                        "id": 692,
+                        "id": 424,
                         "num": 3
                     },
                     {
-                        "id": 691,
+                        "id": 423,
                         "num": 5
                     },
                     {
-                        "id": 190,
+                        "id": 777,
                         "num": 3
                     }
                 ],
                 "output": [
                     {
-                        "id": 814,
+                        "id": 2003,
                         "num": 2
                     }
                 ]
             },
             {
                 "method": "upgrade",
-                "basic": 84,
+                "basic": 47,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 692,
+                        "id": 424,
                         "num": 2
                     },
                     {
-                        "id": 691,
+                        "id": 423,
                         "num": 3
                     },
                     {
-                        "id": 448,
+                        "id": 483,
                         "num": 2
                     }
                 ],
                 "output": [
                     {
-                        "id": 814,
+                        "id": 2003,
                         "num": 2
                     }
                 ]
             }
         ],
         "upgrade": [
-            10
+            50
         ]
     },
     {
@@ -8489,22 +8489,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 9,
+                "basic": 49,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 694,
+                        "id": 426,
                         "num": 2
                     },
                     {
-                        "id": 234,
+                        "id": 598,
                         "num": 2
                     },
                     {
-                        "id": 453,
+                        "id": 467,
                         "num": 2
                     }
                 ],
@@ -8512,7 +8512,7 @@
             }
         ],
         "upgrade": [
-            11
+            51
         ]
     },
     {
@@ -8650,18 +8650,18 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 10,
+                "basic": 50,
                 "categorized_material": {
                     "material": "Ore+",
                     "point": 10
                 },
                 "material": [
                     {
-                        "id": 572,
+                        "id": 778,
                         "num": 2
                     },
                     {
-                        "id": 449,
+                        "id": 484,
                         "num": 2
                     }
                 ],
@@ -8676,11 +8676,11 @@
                 },
                 "material": [
                     {
-                        "id": 1025,
+                        "id": 1016,
                         "num": 1
                     },
                     {
-                        "id": 1024,
+                        "id": 1015,
                         "num": 1
                     }
                 ],
@@ -8831,56 +8831,56 @@
                 },
                 "material": [
                     {
-                        "id": 92,
+                        "id": 684,
                         "num": 5
                     },
                     {
-                        "id": 94,
+                        "id": 688,
                         "num": 3
                     },
                     {
-                        "id": 95,
+                        "id": 689,
                         "num": 2
                     }
                 ],
                 "output": [
                     {
-                        "id": 660,
+                        "id": 2051,
                         "num": 2
                     }
                 ]
             },
             {
                 "method": "upgrade",
-                "basic": 83,
+                "basic": 46,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 92,
+                        "id": 684,
                         "num": 4
                     },
                     {
-                        "id": 93,
+                        "id": 686,
                         "num": 2
                     },
                     {
-                        "id": 438,
+                        "id": 473,
                         "num": 2
                     }
                 ],
                 "output": [
                     {
-                        "id": 660,
+                        "id": 2051,
                         "num": 2
                     }
                 ]
             }
         ],
         "upgrade": [
-            99
+            53
         ]
     },
     {
@@ -9018,26 +9018,26 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 98,
+                "basic": 52,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 294,
+                        "id": 685,
                         "num": 4
                     },
                     {
-                        "id": 296,
+                        "id": 690,
                         "num": 2
                     },
                     {
-                        "id": 96,
+                        "id": 691,
                         "num": 1
                     },
                     {
-                        "id": 439,
+                        "id": 474,
                         "num": 3
                     }
                 ],
@@ -9045,8 +9045,8 @@
             }
         ],
         "upgrade": [
-            100,
-            116
+            54,
+            55
         ]
     },
     {
@@ -9184,22 +9184,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 99,
+                "basic": 53,
                 "categorized_material": {
                     "material": "Rathian+",
                     "point": 10
                 },
                 "material": [
                     {
-                        "id": 312,
+                        "id": 785,
                         "num": 2
                     },
                     {
-                        "id": 297,
+                        "id": 692,
                         "num": 1
                     },
                     {
-                        "id": 643,
+                        "id": 661,
                         "num": 2
                     }
                 ],
@@ -9214,11 +9214,11 @@
                 },
                 "material": [
                     {
-                        "id": 1023,
+                        "id": 1014,
                         "num": 1
                     },
                     {
-                        "id": 1022,
+                        "id": 1013,
                         "num": 1
                     }
                 ],
@@ -9369,60 +9369,60 @@
                 },
                 "material": [
                     {
-                        "id": 310,
+                        "id": 781,
                         "num": 5
                     },
                     {
-                        "id": 1028,
+                        "id": 694,
                         "num": 3
                     },
                     {
-                        "id": 464,
+                        "id": 786,
                         "num": 1
                     },
                     {
-                        "id": 101,
+                        "id": 695,
                         "num": 1
                     }
                 ],
                 "output": [
                     {
-                        "id": 663,
+                        "id": 2068,
                         "num": 2
                     }
                 ]
             },
             {
                 "method": "upgrade",
-                "basic": 99,
+                "basic": 53,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 310,
+                        "id": 781,
                         "num": 4
                     },
                     {
-                        "id": 311,
+                        "id": 783,
                         "num": 2
                     },
                     {
-                        "id": 445,
+                        "id": 480,
                         "num": 2
                     }
                 ],
                 "output": [
                     {
-                        "id": 663,
+                        "id": 2068,
                         "num": 2
                     }
                 ]
             }
         ],
         "upgrade": [
-            117
+            56
         ]
     },
     {
@@ -9560,22 +9560,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 116,
+                "basic": 55,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 559,
+                        "id": 728,
                         "num": 3
                     },
                     {
-                        "id": 458,
+                        "id": 696,
                         "num": 1
                     },
                     {
-                        "id": 100,
+                        "id": 787,
                         "num": 1
                     }
                 ],
@@ -9583,7 +9583,7 @@
             }
         ],
         "upgrade": [
-            118
+            57
         ]
     },
     {
@@ -9721,18 +9721,18 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 117,
+                "basic": 56,
                 "categorized_material": {
                     "material": "Rathalos+",
                     "point": 15
                 },
                 "material": [
                     {
-                        "id": 358,
+                        "id": 861,
                         "num": 3
                     },
                     {
-                        "id": 313,
+                        "id": 788,
                         "num": 1
                     }
                 ],
@@ -9747,11 +9747,11 @@
                 },
                 "material": [
                     {
-                        "id": 1025,
+                        "id": 1016,
                         "num": 1
                     },
                     {
-                        "id": 1024,
+                        "id": 1015,
                         "num": 1
                     }
                 ],
@@ -9902,21 +9902,21 @@
                 },
                 "material": [
                     {
-                        "id": 417,
+                        "id": 447,
                         "num": 3
                     }
                 ],
                 "output": [
                     {
-                        "id": 817,
+                        "id": 2008,
                         "num": 2
                     }
                 ]
             }
         ],
         "upgrade": [
-            21,
-            71
+            59,
+            73
         ]
     },
     {
@@ -10054,22 +10054,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 20,
+                "basic": 58,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 720,
+                        "id": 445,
                         "num": 3
                     },
                     {
-                        "id": 719,
+                        "id": 439,
                         "num": 3
                     },
                     {
-                        "id": 432,
+                        "id": 460,
                         "num": 2
                     }
                 ],
@@ -10077,9 +10077,9 @@
             }
         ],
         "upgrade": [
-            22,
-            80,
-            101
+            60,
+            70,
+            67
         ]
     },
     {
@@ -10217,22 +10217,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 21,
+                "basic": 59,
                 "categorized_material": {
                     "material": "Small Monster",
                     "point": 10
                 },
                 "material": [
                     {
-                        "id": 718,
+                        "id": 443,
                         "num": 3
                     },
                     {
-                        "id": 418,
+                        "id": 448,
                         "num": 3
                     },
                     {
-                        "id": 376,
+                        "id": 537,
                         "num": 2
                     }
                 ],
@@ -10247,7 +10247,7 @@
                 },
                 "material": [
                     {
-                        "id": 1021,
+                        "id": 1012,
                         "num": 1
                     }
                 ],
@@ -10255,8 +10255,8 @@
             }
         ],
         "upgrade": [
-            77,
-            107
+            61,
+            64
         ]
     },
     {
@@ -10401,56 +10401,56 @@
                 },
                 "material": [
                     {
-                        "id": 905,
+                        "id": 461,
                         "num": 3
                     },
                     {
-                        "id": 722,
+                        "id": 444,
                         "num": 3
                     },
                     {
-                        "id": 386,
+                        "id": 557,
                         "num": 3
                     }
                 ],
                 "output": [
                     {
-                        "id": 818,
+                        "id": 2009,
                         "num": 2
                     }
                 ]
             },
             {
                 "method": "upgrade",
-                "basic": 22,
+                "basic": 60,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 905,
+                        "id": 461,
                         "num": 3
                     },
                     {
-                        "id": 724,
+                        "id": 440,
                         "num": 3
                     },
                     {
-                        "id": 388,
+                        "id": 559,
                         "num": 3
                     }
                 ],
                 "output": [
                     {
-                        "id": 818,
+                        "id": 2009,
                         "num": 2
                     }
                 ]
             }
         ],
         "upgrade": [
-            78
+            62
         ]
     },
     {
@@ -10588,22 +10588,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 77,
+                "basic": 61,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 725,
+                        "id": 442,
                         "num": 3
                     },
                     {
-                        "id": 623,
+                        "id": 665,
                         "num": 2
                     },
                     {
-                        "id": 1032,
+                        "id": 560,
                         "num": 4
                     }
                 ],
@@ -10611,7 +10611,7 @@
             }
         ],
         "upgrade": [
-            79
+            63
         ]
     },
     {
@@ -10749,18 +10749,18 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 78,
+                "basic": 62,
                 "categorized_material": {
                     "material": "Small Monster+",
                     "point": 10
                 },
                 "material": [
                     {
-                        "id": 332,
+                        "id": 825,
                         "num": 2
                     },
                     {
-                        "id": 658,
+                        "id": 457,
                         "num": 3
                     }
                 ],
@@ -10775,11 +10775,11 @@
                 },
                 "material": [
                     {
-                        "id": 1025,
+                        "id": 1016,
                         "num": 1
                     },
                     {
-                        "id": 1024,
+                        "id": 1015,
                         "num": 1
                     }
                 ],
@@ -10923,22 +10923,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 22,
+                "basic": 60,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 141,
+                        "id": 733,
                         "num": 2
                     },
                     {
-                        "id": 143,
+                        "id": 735,
                         "num": 2
                     },
                     {
-                        "id": 102,
+                        "id": 479,
                         "num": 2
                     }
                 ],
@@ -10946,7 +10946,7 @@
             }
         ],
         "upgrade": [
-            108
+            65
         ]
     },
     {
@@ -11084,26 +11084,26 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 107,
+                "basic": 64,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 646,
+                        "id": 734,
                         "num": 5
                     },
                     {
-                        "id": 647,
+                        "id": 736,
                         "num": 3
                     },
                     {
-                        "id": 146,
+                        "id": 740,
                         "num": 1
                     },
                     {
-                        "id": 445,
+                        "id": 480,
                         "num": 2
                     }
                 ],
@@ -11111,7 +11111,7 @@
             }
         ],
         "upgrade": [
-            109
+            66
         ]
     },
     {
@@ -11249,18 +11249,18 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 108,
+                "basic": 65,
                 "categorized_material": {
                     "material": "Anjanath+",
                     "point": 15
                 },
                 "material": [
                     {
-                        "id": 575,
+                        "id": 843,
                         "num": 2
                     },
                     {
-                        "id": 649,
+                        "id": 741,
                         "num": 1
                     }
                 ],
@@ -11275,11 +11275,11 @@
                 },
                 "material": [
                     {
-                        "id": 1025,
+                        "id": 1016,
                         "num": 1
                     },
                     {
-                        "id": 1024,
+                        "id": 1015,
                         "num": 1
                     }
                 ],
@@ -11430,64 +11430,64 @@
                 },
                 "material": [
                     {
-                        "id": 271,
+                        "id": 705,
                         "num": 2
                     },
                     {
-                        "id": 270,
+                        "id": 704,
                         "num": 1
                     },
                     {
-                        "id": 267,
+                        "id": 701,
                         "num": 4
                     },
                     {
-                        "id": 419,
+                        "id": 449,
                         "num": 4
                     }
                 ],
                 "output": [
                     {
-                        "id": 678,
+                        "id": 2053,
                         "num": 2
                     }
                 ]
             },
             {
                 "method": "upgrade",
-                "basic": 21,
+                "basic": 59,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 271,
+                        "id": 705,
                         "num": 1
                     },
                     {
-                        "id": 269,
+                        "id": 703,
                         "num": 3
                     },
                     {
-                        "id": 263,
+                        "id": 697,
                         "num": 6
                     },
                     {
-                        "id": 448,
+                        "id": 483,
                         "num": 3
                     }
                 ],
                 "output": [
                     {
-                        "id": 678,
+                        "id": 2053,
                         "num": 2
                     }
                 ]
             }
         ],
         "upgrade": [
-            102
+            68
         ]
     },
     {
@@ -11625,18 +11625,18 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 101,
+                "basic": 67,
                 "categorized_material": {
                     "material": "Barioth",
                     "point": 10
                 },
                 "material": [
                     {
-                        "id": 190,
+                        "id": 777,
                         "num": 1
                     },
                     {
-                        "id": 331,
+                        "id": 824,
                         "num": 2
                     }
                 ],
@@ -11644,7 +11644,7 @@
             }
         ],
         "upgrade": [
-            103
+            69
         ]
     },
     {
@@ -11782,26 +11782,26 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 102,
+                "basic": 68,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 272,
+                        "id": 706,
                         "num": 2
                     },
                     {
-                        "id": 264,
+                        "id": 698,
                         "num": 4
                     },
                     {
-                        "id": 234,
+                        "id": 598,
                         "num": 2
                     },
                     {
-                        "id": 449,
+                        "id": 484,
                         "num": 3
                     }
                 ],
@@ -11816,11 +11816,11 @@
                 },
                 "material": [
                     {
-                        "id": 1023,
+                        "id": 1014,
                         "num": 1
                     },
                     {
-                        "id": 1022,
+                        "id": 1013,
                         "num": 1
                     }
                 ],
@@ -11964,22 +11964,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 21,
+                "basic": 59,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 249,
+                        "id": 580,
                         "num": 3
                     },
                     {
-                        "id": 394,
+                        "id": 553,
                         "num": 3
                     },
                     {
-                        "id": 438,
+                        "id": 473,
                         "num": 2
                     }
                 ],
@@ -11987,7 +11987,7 @@
             }
         ],
         "upgrade": [
-            81
+            71
         ]
     },
     {
@@ -12125,22 +12125,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 80,
+                "basic": 70,
                 "categorized_material": {
                     "material": "Wroggi",
                     "point": 10
                 },
                 "material": [
                     {
-                        "id": 251,
+                        "id": 582,
                         "num": 3
                     },
                     {
-                        "id": 253,
+                        "id": 584,
                         "num": 1
                     },
                     {
-                        "id": 420,
+                        "id": 450,
                         "num": 4
                     }
                 ],
@@ -12148,7 +12148,7 @@
             }
         ],
         "upgrade": [
-            82
+            72
         ]
     },
     {
@@ -12286,26 +12286,26 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 81,
+                "basic": 71,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 250,
+                        "id": 581,
                         "num": 3
                     },
                     {
-                        "id": 252,
+                        "id": 583,
                         "num": 2
                     },
                     {
-                        "id": 426,
+                        "id": 469,
                         "num": 1
                     },
                     {
-                        "id": 439,
+                        "id": 474,
                         "num": 2
                     }
                 ],
@@ -12320,11 +12320,11 @@
                 },
                 "material": [
                     {
-                        "id": 1023,
+                        "id": 1014,
                         "num": 1
                     },
                     {
-                        "id": 1022,
+                        "id": 1013,
                         "num": 1
                     }
                 ],
@@ -12468,26 +12468,26 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 20,
+                "basic": 58,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 223,
+                        "id": 567,
                         "num": 4
                     },
                     {
-                        "id": 225,
+                        "id": 569,
                         "num": 3
                     },
                     {
-                        "id": 389,
+                        "id": 556,
                         "num": 3
                     },
                     {
-                        "id": 375,
+                        "id": 536,
                         "num": 1
                     }
                 ],
@@ -12495,7 +12495,7 @@
             }
         ],
         "upgrade": [
-            72
+            74
         ]
     },
     {
@@ -12633,22 +12633,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 71,
+                "basic": 73,
                 "categorized_material": {
                     "material": "Great Baggi",
                     "point": 8
                 },
                 "material": [
                     {
-                        "id": 626,
+                        "id": 632,
                         "num": 2
                     },
                     {
-                        "id": 1027,
+                        "id": 571,
                         "num": 1
                     },
                     {
-                        "id": 720,
+                        "id": 445,
                         "num": 3
                     }
                 ],
@@ -12656,7 +12656,7 @@
             }
         ],
         "upgrade": [
-            73
+            75
         ]
     },
     {
@@ -12794,26 +12794,26 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 72,
+                "basic": 74,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 224,
+                        "id": 568,
                         "num": 3
                     },
                     {
-                        "id": 226,
+                        "id": 570,
                         "num": 3
                     },
                     {
-                        "id": 426,
+                        "id": 469,
                         "num": 1
                     },
                     {
-                        "id": 440,
+                        "id": 475,
                         "num": 4
                     }
                 ],
@@ -12828,11 +12828,11 @@
                 },
                 "material": [
                     {
-                        "id": 1023,
+                        "id": 1014,
                         "num": 1
                     },
                     {
-                        "id": 1022,
+                        "id": 1013,
                         "num": 1
                     }
                 ],
@@ -12983,30 +12983,30 @@
                 },
                 "material": [
                     {
-                        "id": 719,
+                        "id": 439,
                         "num": 3
                     },
                     {
-                        "id": 417,
+                        "id": 447,
                         "num": 3
                     },
                     {
-                        "id": 431,
+                        "id": 458,
                         "num": 3
                     }
                 ],
                 "output": [
                     {
-                        "id": 817,
+                        "id": 2008,
                         "num": 2
                     }
                 ]
             }
         ],
         "upgrade": [
-            16,
-            43,
-            68
+            77,
+            97,
+            94
         ]
     },
     {
@@ -13144,18 +13144,18 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 15,
+                "basic": 76,
                 "categorized_material": {
                     "material": "Bone",
                     "point": 6
                 },
                 "material": [
                     {
-                        "id": 720,
+                        "id": 445,
                         "num": 4
                     },
                     {
-                        "id": 431,
+                        "id": 458,
                         "num": 2
                     }
                 ],
@@ -13163,8 +13163,8 @@
             }
         ],
         "upgrade": [
-            17,
-            86
+            78,
+            91
         ]
     },
     {
@@ -13302,18 +13302,18 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 16,
+                "basic": 77,
                 "categorized_material": {
                     "material": "Bone",
                     "point": 10
                 },
                 "material": [
                     {
-                        "id": 721,
+                        "id": 441,
                         "num": 4
                     },
                     {
-                        "id": 244,
+                        "id": 624,
                         "num": 3
                     }
                 ],
@@ -13328,7 +13328,7 @@
                 },
                 "material": [
                     {
-                        "id": 1021,
+                        "id": 1012,
                         "num": 1
                     }
                 ],
@@ -13336,8 +13336,8 @@
             }
         ],
         "upgrade": [
-            104,
-            49
+            79,
+            88
         ]
     },
     {
@@ -13475,26 +13475,26 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 17,
+                "basic": 78,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 614,
+                        "id": 709,
                         "num": 4
                     },
                     {
-                        "id": 617,
+                        "id": 712,
                         "num": 4
                     },
                     {
-                        "id": 619,
+                        "id": 714,
                         "num": 3
                     },
                     {
-                        "id": 539,
+                        "id": 646,
                         "num": 2
                     }
                 ],
@@ -13502,7 +13502,7 @@
             }
         ],
         "upgrade": [
-            105
+            80
         ]
     },
     {
@@ -13640,22 +13640,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 104,
+                "basic": 79,
                 "categorized_material": {
                     "material": "Tobi-Kadachi",
                     "point": 6
                 },
                 "material": [
                     {
-                        "id": 329,
+                        "id": 822,
                         "num": 4
                     },
                     {
-                        "id": 420,
+                        "id": 450,
                         "num": 2
                     },
                     {
-                        "id": 104,
+                        "id": 806,
                         "num": 3
                     }
                 ],
@@ -13663,9 +13663,9 @@
             }
         ],
         "upgrade": [
-            106,
-            65,
-            92
+            81,
+            85,
+            82
         ]
     },
     {
@@ -13803,26 +13803,26 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 105,
+                "basic": 80,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 615,
+                        "id": 710,
                         "num": 4
                     },
                     {
-                        "id": 618,
+                        "id": 713,
                         "num": 3
                     },
                     {
-                        "id": 620,
+                        "id": 715,
                         "num": 2
                     },
                     {
-                        "id": 422,
+                        "id": 452,
                         "num": 3
                     }
                 ],
@@ -13837,11 +13837,11 @@
                 },
                 "material": [
                     {
-                        "id": 1023,
+                        "id": 1014,
                         "num": 1
                     },
                     {
-                        "id": 1022,
+                        "id": 1013,
                         "num": 1
                     }
                 ],
@@ -13992,64 +13992,64 @@
                 },
                 "material": [
                     {
-                        "id": 624,
+                        "id": 666,
                         "num": 3
                     },
                     {
-                        "id": 621,
+                        "id": 663,
                         "num": 5
                     },
                     {
-                        "id": 427,
+                        "id": 471,
                         "num": 1
                     },
                     {
-                        "id": 383,
+                        "id": 542,
                         "num": 2
                     }
                 ],
                 "output": [
                     {
-                        "id": 861,
+                        "id": 2046,
                         "num": 2
                     }
                 ]
             },
             {
                 "method": "upgrade",
-                "basic": 105,
+                "basic": 80,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 624,
+                        "id": 666,
                         "num": 3
                     },
                     {
-                        "id": 725,
+                        "id": 442,
                         "num": 5
                     },
                     {
-                        "id": 451,
+                        "id": 486,
                         "num": 2
                     },
                     {
-                        "id": 384,
+                        "id": 541,
                         "num": 2
                     }
                 ],
                 "output": [
                     {
-                        "id": 861,
+                        "id": 2046,
                         "num": 2
                     }
                 ]
             }
         ],
         "upgrade": [
-            93
+            83
         ]
     },
     {
@@ -14187,26 +14187,26 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 92,
+                "basic": 82,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 307,
+                        "id": 761,
                         "num": 3
                     },
                     {
-                        "id": 623,
+                        "id": 665,
                         "num": 2
                     },
                     {
-                        "id": 622,
+                        "id": 664,
                         "num": 2
                     },
                     {
-                        "id": 659,
+                        "id": 629,
                         "num": 4
                     }
                 ],
@@ -14214,7 +14214,7 @@
             }
         ],
         "upgrade": [
-            94
+            84
         ]
     },
     {
@@ -14352,18 +14352,18 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 93,
+                "basic": 83,
                 "categorized_material": {
                     "material": "Jyuratodus+",
                     "point": 10
                 },
                 "material": [
                     {
-                        "id": 563,
+                        "id": 796,
                         "num": 3
                     },
                     {
-                        "id": 308,
+                        "id": 764,
                         "num": 3
                     }
                 ],
@@ -14378,11 +14378,11 @@
                 },
                 "material": [
                     {
-                        "id": 1025,
+                        "id": 1016,
                         "num": 1
                     },
                     {
-                        "id": 1024,
+                        "id": 1015,
                         "num": 1
                     }
                 ],
@@ -14526,22 +14526,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 105,
+                "basic": 80,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 425,
+                        "id": 456,
                         "num": 3
                     },
                     {
-                        "id": 435,
+                        "id": 463,
                         "num": 3
                     },
                     {
-                        "id": 365,
+                        "id": 505,
                         "num": 2
                     }
                 ],
@@ -14549,7 +14549,7 @@
             }
         ],
         "upgrade": [
-            66
+            86
         ]
     },
     {
@@ -14687,22 +14687,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 65,
+                "basic": 85,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 398,
+                        "id": 509,
                         "num": 3
                     },
                     {
-                        "id": 367,
+                        "id": 512,
                         "num": 3
                     },
                     {
-                        "id": 365,
+                        "id": 505,
                         "num": 4
                     }
                 ],
@@ -14710,7 +14710,7 @@
             }
         ],
         "upgrade": [
-            67
+            87
         ]
     },
     {
@@ -14848,18 +14848,18 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 66,
+                "basic": 86,
                 "categorized_material": {
                     "material": "Herbivore+",
                     "point": 10
                 },
                 "material": [
                     {
-                        "id": 315,
+                        "id": 836,
                         "num": 1
                     },
                     {
-                        "id": 904,
+                        "id": 470,
                         "num": 1
                     }
                 ],
@@ -14874,11 +14874,11 @@
                 },
                 "material": [
                     {
-                        "id": 1025,
+                        "id": 1016,
                         "num": 1
                     },
                     {
-                        "id": 1024,
+                        "id": 1015,
                         "num": 1
                     }
                 ],
@@ -15029,60 +15029,60 @@
                 },
                 "material": [
                     {
-                        "id": 169,
+                        "id": 678,
                         "num": 5
                     },
                     {
-                        "id": 168,
+                        "id": 676,
                         "num": 3
                     },
                     {
-                        "id": 170,
+                        "id": 680,
                         "num": 2
                     },
                     {
-                        "id": 171,
+                        "id": 682,
                         "num": 2
                     }
                 ],
                 "output": [
                     {
-                        "id": 839,
+                        "id": 2049,
                         "num": 2
                     }
                 ]
             },
             {
                 "method": "upgrade",
-                "basic": 17,
+                "basic": 78,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 169,
+                        "id": 678,
                         "num": 4
                     },
                     {
-                        "id": 170,
+                        "id": 680,
                         "num": 2
                     },
                     {
-                        "id": 442,
+                        "id": 477,
                         "num": 2
                     }
                 ],
                 "output": [
                     {
-                        "id": 839,
+                        "id": 2049,
                         "num": 2
                     }
                 ]
             }
         ],
         "upgrade": [
-            50
+            89
         ]
     },
     {
@@ -15220,18 +15220,18 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 49,
+                "basic": 88,
                 "categorized_material": {
                     "material": "Somnacanth",
                     "point": 10
                 },
                 "material": [
                     {
-                        "id": 110,
+                        "id": 758,
                         "num": 4
                     },
                     {
-                        "id": 171,
+                        "id": 682,
                         "num": 2
                     }
                 ],
@@ -15239,7 +15239,7 @@
             }
         ],
         "upgrade": [
-            51
+            90
         ]
     },
     {
@@ -15377,22 +15377,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 50,
+                "basic": 89,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 550,
+                        "id": 679,
                         "num": 5
                     },
                     {
-                        "id": 551,
+                        "id": 681,
                         "num": 2
                     },
                     {
-                        "id": 552,
+                        "id": 683,
                         "num": 2
                     }
                 ],
@@ -15407,11 +15407,11 @@
                 },
                 "material": [
                     {
-                        "id": 1023,
+                        "id": 1014,
                         "num": 1
                     },
                     {
-                        "id": 1022,
+                        "id": 1013,
                         "num": 1
                     }
                 ],
@@ -15555,26 +15555,26 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 16,
+                "basic": 77,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 260,
+                        "id": 617,
                         "num": 2
                     },
                     {
-                        "id": 262,
+                        "id": 619,
                         "num": 1
                     },
                     {
-                        "id": 401,
+                        "id": 528,
                         "num": 2
                     },
                     {
-                        "id": 418,
+                        "id": 448,
                         "num": 3
                     }
                 ],
@@ -15582,7 +15582,7 @@
             }
         ],
         "upgrade": [
-            87
+            92
         ]
     },
     {
@@ -15720,22 +15720,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 86,
+                "basic": 91,
                 "categorized_material": {
                     "material": "Ludroth",
                     "point": 8
                 },
                 "material": [
                     {
-                        "id": 167,
+                        "id": 674,
                         "num": 4
                     },
                     {
-                        "id": 254,
+                        "id": 611,
                         "num": 3
                     },
                     {
-                        "id": 258,
+                        "id": 615,
                         "num": 4
                     }
                 ],
@@ -15743,7 +15743,7 @@
             }
         ],
         "upgrade": [
-            88
+            93
         ]
     },
     {
@@ -15881,22 +15881,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 87,
+                "basic": 92,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 261,
+                        "id": 618,
                         "num": 2
                     },
                     {
-                        "id": 259,
+                        "id": 616,
                         "num": 4
                     },
                     {
-                        "id": 255,
+                        "id": 612,
                         "num": 4
                     }
                 ],
@@ -15911,11 +15911,11 @@
                 },
                 "material": [
                     {
-                        "id": 1023,
+                        "id": 1014,
                         "num": 1
                     },
                     {
-                        "id": 1022,
+                        "id": 1013,
                         "num": 1
                     }
                 ],
@@ -16059,22 +16059,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 15,
+                "basic": 76,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 217,
+                        "id": 585,
                         "num": 4
                     },
                     {
-                        "id": 219,
+                        "id": 587,
                         "num": 3
                     },
                     {
-                        "id": 424,
+                        "id": 454,
                         "num": 3
                     }
                 ],
@@ -16082,7 +16082,7 @@
             }
         ],
         "upgrade": [
-            69
+            95
         ]
     },
     {
@@ -16220,22 +16220,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 68,
+                "basic": 94,
                 "categorized_material": {
                     "material": "Arzuros",
                     "point": 10
                 },
                 "material": [
                     {
-                        "id": 118,
+                        "id": 640,
                         "num": 1
                     },
                     {
-                        "id": 221,
+                        "id": 589,
                         "num": 3
                     },
                     {
-                        "id": 721,
+                        "id": 441,
                         "num": 3
                     }
                 ],
@@ -16243,7 +16243,7 @@
             }
         ],
         "upgrade": [
-            70
+            96
         ]
     },
     {
@@ -16381,26 +16381,26 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 69,
+                "basic": 95,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 218,
+                        "id": 586,
                         "num": 3
                     },
                     {
-                        "id": 222,
+                        "id": 590,
                         "num": 2
                     },
                     {
-                        "id": 904,
+                        "id": 470,
                         "num": 1
                     },
                     {
-                        "id": 724,
+                        "id": 440,
                         "num": 2
                     }
                 ],
@@ -16415,11 +16415,11 @@
                 },
                 "material": [
                     {
-                        "id": 1023,
+                        "id": 1014,
                         "num": 1
                     },
                     {
-                        "id": 1022,
+                        "id": 1013,
                         "num": 1
                     }
                 ],
@@ -16570,56 +16570,56 @@
                 },
                 "material": [
                     {
-                        "id": 520,
+                        "id": 565,
                         "num": 1
                     },
                     {
-                        "id": 519,
+                        "id": 563,
                         "num": 3
                     },
                     {
-                        "id": 525,
+                        "id": 550,
                         "num": 1
                     }
                 ],
                 "output": [
                     {
-                        "id": 829,
+                        "id": 2018,
                         "num": 2
                     }
                 ]
             },
             {
                 "method": "upgrade",
-                "basic": 15,
+                "basic": 76,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 520,
+                        "id": 565,
                         "num": 1
                     },
                     {
-                        "id": 524,
+                        "id": 548,
                         "num": 3
                     },
                     {
-                        "id": 525,
+                        "id": 550,
                         "num": 1
                     }
                 ],
                 "output": [
                     {
-                        "id": 829,
+                        "id": 2018,
                         "num": 2
                     }
                 ]
             }
         ],
         "upgrade": [
-            44
+            98
         ]
     },
     {
@@ -16757,22 +16757,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 43,
+                "basic": 97,
                 "categorized_material": {
                     "material": "Izuchi",
                     "point": 6
                 },
                 "material": [
                     {
-                        "id": 537,
+                        "id": 648,
                         "num": 2
                     },
                     {
-                        "id": 518,
+                        "id": 561,
                         "num": 3
                     },
                     {
-                        "id": 718,
+                        "id": 443,
                         "num": 3
                     }
                 ],
@@ -16780,8 +16780,8 @@
             }
         ],
         "upgrade": [
-            45,
-            18
+            99,
+            100
         ]
     },
     {
@@ -16919,26 +16919,26 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 44,
+                "basic": 98,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 523,
+                        "id": 566,
                         "num": 1
                     },
                     {
-                        "id": 522,
+                        "id": 564,
                         "num": 2
                     },
                     {
-                        "id": 521,
+                        "id": 562,
                         "num": 3
                     },
                     {
-                        "id": 426,
+                        "id": 469,
                         "num": 1
                     }
                 ],
@@ -16953,11 +16953,11 @@
                 },
                 "material": [
                     {
-                        "id": 1023,
+                        "id": 1014,
                         "num": 1
                     },
                     {
-                        "id": 1022,
+                        "id": 1013,
                         "num": 1
                     }
                 ],
@@ -17108,61 +17108,61 @@
                 },
                 "material": [
                     {
-                        "id": 421,
+                        "id": 451,
                         "num": 3
                     },
                     {
-                        "id": 724,
+                        "id": 440,
                         "num": 3
                     },
                     {
-                        "id": 226,
+                        "id": 570,
                         "num": 2
                     },
                     {
-                        "id": 452,
+                        "id": 466,
                         "num": 2
                     }
                 ],
                 "output": [
                     {
-                        "id": 818,
+                        "id": 2009,
                         "num": 2
                     }
                 ]
             },
             {
                 "method": "upgrade",
-                "basic": 44,
+                "basic": 98,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 421,
+                        "id": 451,
                         "num": 3
                     },
                     {
-                        "id": 720,
+                        "id": 445,
                         "num": 3
                     },
                     {
-                        "id": 433,
+                        "id": 459,
                         "num": 3
                     }
                 ],
                 "output": [
                     {
-                        "id": 818,
+                        "id": 2009,
                         "num": 2
                     }
                 ]
             }
         ],
         "upgrade": [
-            19,
-            23
+            101,
+            102
         ]
     },
     {
@@ -17300,18 +17300,18 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 18,
+                "basic": 100,
                 "categorized_material": {
                     "material": "Monster+",
                     "point": 20
                 },
                 "material": [
                     {
-                        "id": 422,
+                        "id": 452,
                         "num": 3
                     },
                     {
-                        "id": 547,
+                        "id": 647,
                         "num": 2
                     }
                 ],
@@ -17326,11 +17326,11 @@
                 },
                 "material": [
                     {
-                        "id": 1023,
+                        "id": 1014,
                         "num": 1
                     },
                     {
-                        "id": 1022,
+                        "id": 1013,
                         "num": 1
                     }
                 ],
@@ -17474,18 +17474,18 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 18,
+                "basic": 100,
                 "categorized_material": {
                     "material": "Monster+",
                     "point": 10
                 },
                 "material": [
                     {
-                        "id": 295,
+                        "id": 687,
                         "num": 3
                     },
                     {
-                        "id": 439,
+                        "id": 474,
                         "num": 4
                     }
                 ],
@@ -17493,7 +17493,7 @@
             }
         ],
         "upgrade": [
-            24
+            103
         ]
     },
     {
@@ -17631,22 +17631,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 23,
+                "basic": 102,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 289,
+                        "id": 749,
                         "num": 2
                     },
                     {
-                        "id": 643,
+                        "id": 661,
                         "num": 2
                     },
                     {
-                        "id": 296,
+                        "id": 690,
                         "num": 3
                     }
                 ],
@@ -17654,7 +17654,7 @@
             }
         ],
         "upgrade": [
-            25
+            104
         ]
     },
     {
@@ -17792,22 +17792,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 24,
+                "basic": 103,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 343,
+                        "id": 853,
                         "num": 4
                     },
                     {
-                        "id": 423,
+                        "id": 453,
                         "num": 3
                     },
                     {
-                        "id": 427,
+                        "id": 471,
                         "num": 1
                     }
                 ],
@@ -17822,11 +17822,11 @@
                 },
                 "material": [
                     {
-                        "id": 1025,
+                        "id": 1016,
                         "num": 1
                     },
                     {
-                        "id": 1024,
+                        "id": 1015,
                         "num": 1
                     }
                 ],
@@ -17977,32 +17977,32 @@
                 },
                 "material": [
                     {
-                        "id": 173,
+                        "id": 718,
                         "num": 4
                     },
                     {
-                        "id": 174,
+                        "id": 720,
                         "num": 3
                     },
                     {
-                        "id": 177,
+                        "id": 722,
                         "num": 2
                     },
                     {
-                        "id": 178,
+                        "id": 727,
                         "num": 3
                     }
                 ],
                 "output": [
                     {
-                        "id": 851,
+                        "id": 2057,
                         "num": 2
                     }
                 ]
             }
         ],
         "upgrade": [
-            53
+            106
         ]
     },
     {
@@ -18140,22 +18140,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 52,
+                "basic": 105,
                 "categorized_material": {
                     "material": "Magnamalo",
                     "point": 10
                 },
                 "material": [
                     {
-                        "id": 991,
+                        "id": 1003,
                         "num": 1
                     },
                     {
-                        "id": 172,
+                        "id": 716,
                         "num": 5
                     },
                     {
-                        "id": 179,
+                        "id": 729,
                         "num": 1
                     }
                 ],
@@ -18163,7 +18163,7 @@
             }
         ],
         "upgrade": [
-            54
+            107
         ]
     },
     {
@@ -18301,26 +18301,26 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 53,
+                "basic": 106,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 555,
+                        "id": 721,
                         "num": 3
                     },
                     {
-                        "id": 557,
+                        "id": 723,
                         "num": 2
                     },
                     {
-                        "id": 559,
+                        "id": 728,
                         "num": 2
                     },
                     {
-                        "id": 558,
+                        "id": 730,
                         "num": 1
                     }
                 ],
@@ -18335,11 +18335,11 @@
                 },
                 "material": [
                     {
-                        "id": 1025,
+                        "id": 1016,
                         "num": 1
                     },
                     {
-                        "id": 1024,
+                        "id": 1015,
                         "num": 1
                     }
                 ],
@@ -18490,28 +18490,28 @@
                 },
                 "material": [
                     {
-                        "id": 336,
+                        "id": 867,
                         "num": 3
                     },
                     {
-                        "id": 337,
+                        "id": 868,
                         "num": 5
                     },
                     {
-                        "id": 338,
+                        "id": 869,
                         "num": 2
                     }
                 ],
                 "output": [
                     {
-                        "id": 863,
+                        "id": 2081,
                         "num": 2
                     }
                 ]
             }
         ],
         "upgrade": [
-            132
+            109
         ]
     },
     {
@@ -18649,26 +18649,26 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 131,
+                "basic": 108,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 992,
+                        "id": 1004,
                         "num": 1
                     },
                     {
-                        "id": 339,
+                        "id": 870,
                         "num": 2
                     },
                     {
-                        "id": 340,
+                        "id": 871,
                         "num": 2
                     },
                     {
-                        "id": 299,
+                        "id": 807,
                         "num": 2
                     }
                 ],
@@ -18676,7 +18676,7 @@
             }
         ],
         "upgrade": [
-            133
+            110
         ]
     },
     {
@@ -18814,18 +18814,18 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 132,
+                "basic": 109,
                 "categorized_material": {
                     "material": "Rajang+",
                     "point": 15
                 },
                 "material": [
                     {
-                        "id": 593,
+                        "id": 894,
                         "num": 1
                     },
                     {
-                        "id": 335,
+                        "id": 866,
                         "num": 2
                     }
                 ],
@@ -18840,11 +18840,11 @@
                 },
                 "material": [
                     {
-                        "id": 1075,
+                        "id": 1018,
                         "num": 1
                     },
                     {
-                        "id": 1026,
+                        "id": 1017,
                         "num": 1
                     }
                 ],
@@ -18995,32 +18995,32 @@
                 },
                 "material": [
                     {
-                        "id": 583,
+                        "id": 884,
                         "num": 3
                     },
                     {
-                        "id": 578,
+                        "id": 880,
                         "num": 4
                     },
                     {
-                        "id": 581,
+                        "id": 881,
                         "num": 2
                     },
                     {
-                        "id": 582,
+                        "id": 883,
                         "num": 2
                     }
                 ],
                 "output": [
                     {
-                        "id": 862,
+                        "id": 2083,
                         "num": 2
                     }
                 ]
             }
         ],
         "upgrade": [
-            59
+            112
         ]
     },
     {
@@ -19158,18 +19158,18 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 58,
+                "basic": 111,
                 "categorized_material": {
                     "material": "Ibushi+",
                     "point": 10
                 },
                 "material": [
                     {
-                        "id": 423,
+                        "id": 453,
                         "num": 3
                     },
                     {
-                        "id": 584,
+                        "id": 885,
                         "num": 1
                     }
                 ],
@@ -19177,7 +19177,7 @@
             }
         ],
         "upgrade": [
-            60
+            113
         ]
     },
     {
@@ -19315,22 +19315,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 59,
+                "basic": 112,
                 "categorized_material": {
                     "material": "Allmother+",
                     "point": 10
                 },
                 "material": [
                     {
-                        "id": 594,
+                        "id": 895,
                         "num": 1
                     },
                     {
-                        "id": 590,
+                        "id": 891,
                         "num": 1
                     },
                     {
-                        "id": 583,
+                        "id": 884,
                         "num": 1
                     }
                 ],
@@ -19345,11 +19345,11 @@
                 },
                 "material": [
                     {
-                        "id": 1075,
+                        "id": 1018,
                         "num": 1
                     },
                     {
-                        "id": 1026,
+                        "id": 1017,
                         "num": 1
                     }
                 ],
@@ -19500,28 +19500,28 @@
                 },
                 "material": [
                     {
-                        "id": 585,
+                        "id": 887,
                         "num": 4
                     },
                     {
-                        "id": 588,
+                        "id": 888,
                         "num": 6
                     },
                     {
-                        "id": 590,
+                        "id": 891,
                         "num": 2
                     }
                 ],
                 "output": [
                     {
-                        "id": 865,
+                        "id": 2084,
                         "num": 2
                     }
                 ]
             }
         ],
         "upgrade": [
-            62
+            115
         ]
     },
     {
@@ -19659,22 +19659,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 61,
+                "basic": 114,
                 "categorized_material": {
                     "material": "Narwa+",
                     "point": 15
                 },
                 "material": [
                     {
-                        "id": 594,
+                        "id": 895,
                         "num": 1
                     },
                     {
-                        "id": 591,
+                        "id": 892,
                         "num": 1
                     },
                     {
-                        "id": 581,
+                        "id": 881,
                         "num": 3
                     }
                 ],
@@ -19689,11 +19689,11 @@
                 },
                 "material": [
                     {
-                        "id": 1075,
+                        "id": 1018,
                         "num": 1
                     },
                     {
-                        "id": 1026,
+                        "id": 1017,
                         "num": 1
                     }
                 ],
@@ -19844,32 +19844,32 @@
                 },
                 "material": [
                     {
-                        "id": 654,
+                        "id": 876,
                         "num": 3
                     },
                     {
-                        "id": 650,
+                        "id": 872,
                         "num": 5
                     },
                     {
-                        "id": 653,
+                        "id": 875,
                         "num": 4
                     },
                     {
-                        "id": 696,
+                        "id": 428,
                         "num": 1
                     }
                 ],
                 "output": [
                     {
-                        "id": 866,
+                        "id": 2082,
                         "num": 2
                     }
                 ]
             }
         ],
         "upgrade": [
-            135
+            117
         ]
     },
     {
@@ -20007,26 +20007,26 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 134,
+                "basic": 116,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 436,
+                        "id": 468,
                         "num": 3
                     },
                     {
-                        "id": 652,
+                        "id": 874,
                         "num": 2
                     },
                     {
-                        "id": 651,
+                        "id": 873,
                         "num": 3
                     },
                     {
-                        "id": 559,
+                        "id": 728,
                         "num": 3
                     }
                 ],
@@ -20034,7 +20034,7 @@
             }
         ],
         "upgrade": [
-            136
+            118
         ]
     },
     {
@@ -20172,22 +20172,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 135,
+                "basic": 117,
                 "categorized_material": {
                     "material": "Bazelgeuse+",
                     "point": 10
                 },
                 "material": [
                     {
-                        "id": 361,
+                        "id": 864,
                         "num": 4
                     },
                     {
-                        "id": 655,
+                        "id": 877,
                         "num": 2
                     },
                     {
-                        "id": 656,
+                        "id": 878,
                         "num": 1
                     }
                 ],
@@ -20202,11 +20202,11 @@
                 },
                 "material": [
                     {
-                        "id": 1075,
+                        "id": 1018,
                         "num": 1
                     },
                     {
-                        "id": 1026,
+                        "id": 1017,
                         "num": 1
                     }
                 ],
@@ -20357,32 +20357,32 @@
                 },
                 "material": [
                     {
-                        "id": 352,
+                        "id": 849,
                         "num": 2
                     },
                     {
-                        "id": 351,
+                        "id": 848,
                         "num": 1
                     },
                     {
-                        "id": 347,
+                        "id": 844,
                         "num": 5
                     },
                     {
-                        "id": 348,
+                        "id": 845,
                         "num": 4
                     }
                 ],
                 "output": [
                     {
-                        "id": 868,
+                        "id": 2078,
                         "num": 2
                     }
                 ]
             }
         ],
         "upgrade": [
-            126
+            120
         ]
     },
     {
@@ -20520,22 +20520,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 125,
+                "basic": 119,
                 "categorized_material": {
                     "material": "Kushala+",
                     "point": 12
                 },
                 "material": [
                     {
-                        "id": 602,
+                        "id": 903,
                         "num": 1
                     },
                     {
-                        "id": 350,
+                        "id": 847,
                         "num": 1
                     },
                     {
-                        "id": 353,
+                        "id": 850,
                         "num": 1
                     }
                 ],
@@ -20550,11 +20550,11 @@
                 },
                 "material": [
                     {
-                        "id": 1075,
+                        "id": 1018,
                         "num": 1
                     },
                     {
-                        "id": 1026,
+                        "id": 1017,
                         "num": 1
                     }
                 ],
@@ -20705,32 +20705,32 @@
                 },
                 "material": [
                     {
-                        "id": 359,
+                        "id": 862,
                         "num": 2
                     },
                     {
-                        "id": 355,
+                        "id": 858,
                         "num": 2
                     },
                     {
-                        "id": 354,
+                        "id": 857,
                         "num": 5
                     },
                     {
-                        "id": 361,
+                        "id": 864,
                         "num": 4
                     }
                 ],
                 "output": [
                     {
-                        "id": 869,
+                        "id": 2080,
                         "num": 2
                     }
                 ]
             }
         ],
         "upgrade": [
-            128
+            122
         ]
     },
     {
@@ -20868,22 +20868,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 127,
+                "basic": 121,
                 "categorized_material": {
                     "material": "Teostra+",
                     "point": 12
                 },
                 "material": [
                     {
-                        "id": 602,
+                        "id": 903,
                         "num": 1
                     },
                     {
-                        "id": 356,
+                        "id": 859,
                         "num": 1
                     },
                     {
-                        "id": 362,
+                        "id": 865,
                         "num": 1
                     }
                 ],
@@ -20898,11 +20898,11 @@
                 },
                 "material": [
                     {
-                        "id": 1075,
+                        "id": 1018,
                         "num": 1
                     },
                     {
-                        "id": 1026,
+                        "id": 1017,
                         "num": 1
                     }
                 ],
@@ -21053,32 +21053,32 @@
                 },
                 "material": [
                     {
-                        "id": 341,
+                        "id": 851,
                         "num": 3
                     },
                     {
-                        "id": 345,
+                        "id": 854,
                         "num": 1
                     },
                     {
-                        "id": 625,
+                        "id": 855,
                         "num": 3
                     },
                     {
-                        "id": 342,
+                        "id": 852,
                         "num": 1
                     }
                 ],
                 "output": [
                     {
-                        "id": 867,
+                        "id": 2079,
                         "num": 2
                     }
                 ]
             }
         ],
         "upgrade": [
-            130
+            124
         ]
     },
     {
@@ -21216,22 +21216,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 129,
+                "basic": 123,
                 "categorized_material": {
                     "material": "Chameleos+",
                     "point": 12
                 },
                 "material": [
                     {
-                        "id": 602,
+                        "id": 903,
                         "num": 1
                     },
                     {
-                        "id": 343,
+                        "id": 853,
                         "num": 3
                     },
                     {
-                        "id": 346,
+                        "id": 856,
                         "num": 1
                     }
                 ],
@@ -21246,11 +21246,11 @@
                 },
                 "material": [
                     {
-                        "id": 1075,
+                        "id": 1018,
                         "num": 1
                     },
                     {
-                        "id": 1026,
+                        "id": 1017,
                         "num": 1
                     }
                 ],
@@ -21401,32 +21401,32 @@
                 },
                 "material": [
                     {
-                        "id": 595,
+                        "id": 896,
                         "num": 4
                     },
                     {
-                        "id": 597,
+                        "id": 898,
                         "num": 4
                     },
                     {
-                        "id": 600,
+                        "id": 901,
                         "num": 2
                     },
                     {
-                        "id": 696,
+                        "id": 428,
                         "num": 5
                     }
                 ],
                 "output": [
                     {
-                        "id": 870,
+                        "id": 2085,
                         "num": 2
                     }
                 ]
             }
         ],
         "upgrade": [
-            64
+            126
         ]
     },
     {
@@ -21564,18 +21564,18 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 63,
+                "basic": 125,
                 "categorized_material": {
                     "material": "Crimson Glow Valstrax+",
                     "point": 15
                 },
                 "material": [
                     {
-                        "id": 602,
+                        "id": 903,
                         "num": 2
                     },
                     {
-                        "id": 601,
+                        "id": 902,
                         "num": 1
                     }
                 ],
@@ -21590,11 +21590,11 @@
                 },
                 "material": [
                     {
-                        "id": 1075,
+                        "id": 1018,
                         "num": 1
                     },
                     {
-                        "id": 1026,
+                        "id": 1017,
                         "num": 1
                     }
                 ],
@@ -21745,36 +21745,36 @@
                 },
                 "material": [
                     {
-                        "id": 891,
+                        "id": 404,
                         "num": 1
                     },
                     {
-                        "id": 165,
+                        "id": 610,
                         "num": 1
                     },
                     {
-                        "id": 419,
+                        "id": 449,
                         "num": 3
                     },
                     {
-                        "id": 695,
+                        "id": 427,
                         "num": 2
                     }
                 ],
                 "output": [
                     {
-                        "id": 817,
+                        "id": 2008,
                         "num": 1
                     },
                     {
-                        "id": 813,
+                        "id": 2002,
                         "num": 1
                     }
                 ]
             }
         ],
         "upgrade": [
-            40
+            128
         ]
     },
     {
@@ -21912,22 +21912,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 39,
+                "basic": 127,
                 "categorized_material": {
                     "material": "Bone",
                     "point": 15
                 },
                 "material": [
                     {
-                        "id": 991,
+                        "id": 1003,
                         "num": 1
                     },
                     {
-                        "id": 891,
+                        "id": 404,
                         "num": 3
                     },
                     {
-                        "id": 118,
+                        "id": 640,
                         "num": 1
                     }
                 ],
@@ -21935,7 +21935,7 @@
             }
         ],
         "upgrade": [
-            41
+            129
         ]
     },
     {
@@ -22073,26 +22073,26 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 40,
+                "basic": 128,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 544,
+                        "id": 651,
                         "num": 1
                     },
                     {
-                        "id": 633,
+                        "id": 577,
                         "num": 1
                     },
                     {
-                        "id": 723,
+                        "id": 446,
                         "num": 2
                     },
                     {
-                        "id": 891,
+                        "id": 404,
                         "num": 2
                     }
                 ],
@@ -22100,7 +22100,7 @@
             }
         ],
         "upgrade": [
-            42
+            130
         ]
     },
     {
@@ -22238,22 +22238,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 41,
+                "basic": 129,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 892,
+                        "id": 405,
                         "num": 3
                     },
                     {
-                        "id": 422,
+                        "id": 452,
                         "num": 2
                     },
                     {
-                        "id": 313,
+                        "id": 788,
                         "num": 1
                     }
                 ],
@@ -22268,11 +22268,11 @@
                 },
                 "material": [
                     {
-                        "id": 1025,
+                        "id": 1016,
                         "num": 1
                     },
                     {
-                        "id": 1024,
+                        "id": 1015,
                         "num": 1
                     }
                 ],
@@ -22415,7 +22415,7 @@
         ],
         "crafting": [],
         "upgrade": [
-            37
+            132
         ]
     },
     {
@@ -22553,22 +22553,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 36,
+                "basic": 131,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 645,
+                        "id": 732,
                         "num": 3
                     },
                     {
-                        "id": 1024,
+                        "id": 1015,
                         "num": 1
                     },
                     {
-                        "id": 696,
+                        "id": 428,
                         "num": 4
                     }
                 ],
@@ -22576,7 +22576,7 @@
             }
         ],
         "upgrade": [
-            38
+            133
         ]
     },
     {
@@ -22714,22 +22714,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 37,
+                "basic": 132,
                 "categorized_material": {
                     "material": "Narwa+",
                     "point": 5
                 },
                 "material": [
                     {
-                        "id": 349,
+                        "id": 846,
                         "num": 2
                     },
                     {
-                        "id": 358,
+                        "id": 861,
                         "num": 3
                     },
                     {
-                        "id": 458,
+                        "id": 696,
                         "num": 2
                     }
                 ],
@@ -22744,11 +22744,11 @@
                 },
                 "material": [
                     {
-                        "id": 1075,
+                        "id": 1018,
                         "num": 1
                     },
                     {
-                        "id": 1026,
+                        "id": 1017,
                         "num": 1
                     }
                 ],
@@ -22895,28 +22895,28 @@
                 },
                 "material": [
                     {
-                        "id": 603,
+                        "id": 904,
                         "num": 1
                     },
                     {
-                        "id": 531,
+                        "id": 637,
                         "num": 2
                     },
                     {
-                        "id": 1018,
+                        "id": 1008,
                         "num": 1
                     }
                 ],
                 "output": [
                     {
-                        "id": 667,
+                        "id": 2027,
                         "num": 2
                     }
                 ]
             }
         ],
         "upgrade": [
-            33
+            135
         ]
     },
     {
@@ -23050,22 +23050,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 32,
+                "basic": 134,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 608,
+                        "id": 905,
                         "num": 1
                     },
                     {
-                        "id": 637,
+                        "id": 655,
                         "num": 3
                     },
                     {
-                        "id": 1023,
+                        "id": 1014,
                         "num": 1
                     }
                 ],
@@ -23073,7 +23073,7 @@
             }
         ],
         "upgrade": [
-            34
+            136
         ]
     },
     {
@@ -23207,22 +23207,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 33,
+                "basic": 135,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 578,
+                        "id": 880,
                         "num": 1
                     },
                     {
-                        "id": 302,
+                        "id": 814,
                         "num": 3
                     },
                     {
-                        "id": 1024,
+                        "id": 1015,
                         "num": 1
                     }
                 ],
@@ -23364,22 +23364,22 @@
         "crafting": [
             {
                 "method": "upgrade",
-                "basic": 34,
+                "basic": 136,
                 "categorized_material": {
                     "material": "none",
                     "point": 0
                 },
                 "material": [
                     {
-                        "id": 604,
+                        "id": 906,
                         "num": 1
                     },
                     {
-                        "id": 317,
+                        "id": 830,
                         "num": 2
                     },
                     {
-                        "id": 1025,
+                        "id": 1016,
                         "num": 1
                     }
                 ],
@@ -23528,15 +23528,15 @@
                 },
                 "material": [
                     {
-                        "id": 605,
+                        "id": 907,
                         "num": 1
                     },
                     {
-                        "id": 606,
+                        "id": 908,
                         "num": 1
                     },
                     {
-                        "id": 1026,
+                        "id": 1017,
                         "num": 3
                     }
                 ],
@@ -23544,7 +23544,7 @@
             }
         ],
         "upgrade": [
-            35
+            139
         ]
     },
     {
@@ -23685,15 +23685,15 @@
                 },
                 "material": [
                     {
-                        "id": 607,
+                        "id": 909,
                         "num": 2
                     },
                     {
-                        "id": 606,
+                        "id": 908,
                         "num": 1
                     },
                     {
-                        "id": 1075,
+                        "id": 1018,
                         "num": 3
                     }
                 ],

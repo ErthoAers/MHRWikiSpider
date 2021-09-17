@@ -7,24 +7,8 @@ import json
 import multiprocessing.pool
 from utils import *
 
-weapon_list = {
-    "great_sword": 0,
-    "long_sword": 3,
-    "short_sword": 1,
-    "dual_blades": 2,
-    "hammer": 4,
-    "horn": 5,
-    "lance": 6,
-    "gun_lance": 7,
-    "slash_axe": 8,
-    "charge_axe": 9,
-    "insect_glaive": 10,
-    "light_bowgun": 13,
-    "heavy_bowgun": 12,
-    "bow": 11
-}
-
-weapon_id = {}
+with open("json/item_id.json", encoding='utf-8') as f:
+    item_id = json.load(f)
 
 with open("json/rampage_skill.json", encoding="utf-8") as f:
     rampage_skills_dict = json.load(f)
@@ -175,7 +159,7 @@ def fetch_bottle(bottle):
             bottles[i] = f"{bottle[:-8]}_power_up"
     return bottles
 
-def fetch_crafting(crafting):
+def fetch_crafting(crafting, w):
     crafting = crafting.find("tbody").contents
     crafting_entry = []
 
@@ -187,10 +171,9 @@ def fetch_crafting(crafting):
         if method == "as":
             method = "as_layered"
         entry["method"] = method
-        expr = r"^/weapon/[A-Za-z]+_(\d{3}).html$"
         entry["basic"] = -1
         if method == "upgrade":
-            basic = int(re.match(expr, contents[0].find(href=re.compile(expr))["href"]).group(1))
+            basic = weapon_id[w][contents[0].find(class_=en_tag).text]
             entry["basic"] = basic
 
         categorized_material = {"material": "none", "point": 0}
@@ -203,9 +186,8 @@ def fetch_crafting(crafting):
         raw_material = contents[2].find_all("li")
         material = []
         for m in raw_material:
-            item_expr = r"/item/normal_(\d+).html"
             num = int(re.match(r"^(\d+)x$", m.text.split()[0]).group(1))
-            id_ = int(re.match(item_expr, m.find(href=re.compile(item_expr))["href"]).group(1))
+            id_ = item_id[m.find(class_=en_tag).text]
             material.append({
                 "id": id_,
                 "num": num
@@ -215,9 +197,8 @@ def fetch_crafting(crafting):
         raw_output = contents[3].find_all("li")
         output = []
         for o in raw_output:
-            item_expr = r"/item/normal_(\d+).html"
             num = int(re.match(r"^(\d+)x$", o.text.split()[0]).group(1))
-            id_ = int(re.match(item_expr, o.find(href=re.compile(item_expr))["href"]).group(1))
+            id_ = item_id[o.find(class_=en_tag).text]
             output.append({
                 "id": id_,
                 "num": num
@@ -228,12 +209,11 @@ def fetch_crafting(crafting):
 
     return crafting_entry
 
-def fetch_upgrade(upgrade):
+def fetch_upgrade(upgrade, w):
     raw_upgrade = upgrade.find_all("li")
     upgrade_entry = []
-    expr = r"^/weapon/[A-Za-z]+_(\d{3}).html$"
     for u in raw_upgrade:
-        upgrade_entry.append(int(re.match(expr, u.find(href=re.compile(expr))["href"]).group(1)))
+        upgrade_entry.append(weapon_id[w][u.find(class_=en_tag).text])
     return upgrade_entry
 
 def fetch(link):
@@ -254,6 +234,8 @@ def fetch(link):
     match = re.match(expr, link)
     w = match.group(1)
     id_ = weapon_id[camel_to_snake(w)][title.find(class_=en_tag).text]
+    if name == "flammenschild" and rarity == 3:
+        id_ -= 1
     print(w, id_)
 
     section = soup.find_all("section")
@@ -269,8 +251,8 @@ def fetch(link):
 
     stat_entry = fetch_stat(stat, w)
     rampage_skills_entry = fetch_rampage_skills(rampage_skills)
-    crafting_entry = fetch_crafting(crafting)
-    upgrade_entry = fetch_upgrade(upgrade)
+    crafting_entry = fetch_crafting(crafting, camel_to_snake(w))
+    upgrade_entry = fetch_upgrade(upgrade, camel_to_snake(w))
 
     entry = {
         "id": id_,
@@ -338,20 +320,27 @@ for w in weapon_list:
     r.encoding = "utf-8"
     soup = BeautifulSoup(r.text, features="lxml")
     weapon_items = soup.find("tbody").find_all(class_="bg-white")
-    weapon_id[w] = {}
-    for weapon_item in weapon_items:
-        weapon_info = weapon_item.find("a")
-        name = weapon_info.text
-        img_id = re.match(r"https://mhrise.kiranico.com/data/weapons/(\d+)", weapon_info["href"]).group(1)
-        
-        r_w = requests.get(weapon_info["href"])
-        s_w = BeautifulSoup(r_w.text, features="lxml")
+    if os.path.exists("json/weapon_id.json"):
+        with open("json/weapon_id.json", encoding="utf-8") as f:
+            weapon_id = json.load(f)
+    else:
+        weapon_id[w] = {}
+        for weapon_item in weapon_items:
+            weapon_info = weapon_item.find("a")
+            name = weapon_info.text
+            img_id = re.match(r"https://mhrise.kiranico.com/data/weapons/(\d+)", weapon_info["href"]).group(1)
+            
+            r_w = requests.get(weapon_info["href"])
+            s_w = BeautifulSoup(r_w.text, features="lxml")
 
-        weapon_id[w][name] = int(s_w.find(class_="sm:grid-cols-4").find(class_="sm:col-span-1").find("dd").text.strip())
-        img = requests.get(f"https://cdn.kiranico.net/file/kiranico/mhrise-web/images/rotate/{img_id}.png")
-        with open(f"img/weapon/{w}/{w}_{weapon_id[w][name]}.png", "wb") as f:
-            f.write(img.content)
-        print(f"{w} {weapon_id[w][name]} saved.")
+            weapon_id[w][name] = int(s_w.find(class_="sm:grid-cols-4").find(class_="sm:col-span-1").find("dd").text.strip())
+            img = requests.get(f"https://cdn.kiranico.net/file/kiranico/mhrise-web/images/rotate/{img_id}.png")
+            with open(f"img/weapon/{w}/{w}_{weapon_id[w][name]}.png", "wb") as f:
+                f.write(img.content)
+            print(f"{w} {weapon_id[w][name]} saved.")
+
+with open("json/weapon_id.json", "w", encoding="utf-8") as f:
+    json.dump(weapon_id, f)
 
 for w in weapon_list:
     weapon[w] = []

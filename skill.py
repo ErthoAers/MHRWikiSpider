@@ -6,6 +6,9 @@ import json
 import multiprocessing.pool
 from utils import *
 
+with open("json/item_id.json") as f:
+    item_id = json.load(f)
+
 def fetch_level(level):
     raw_level = level.find_all("li")
     level_entry = []
@@ -45,9 +48,8 @@ def fetch_decoration(decoration):
     raw_material = raw_decoration[1].find_all("li")
     material = []
     for m in raw_material:
-        item_expr = r"/item/normal_(\d+).html"
         num = int(re.match(r"^(\d+)x$", m.text.split()[0]).group(1))
-        id_ = int(re.match(item_expr, m.find(href=re.compile(item_expr))["href"]).group(1))
+        id_ = item_id[m.find(class_=en_tag).text]
         material.append({
             "id": id_,
             "num": num
