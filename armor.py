@@ -1,10 +1,13 @@
 import requests
 import re
+import os
 from bs4 import BeautifulSoup
 import urllib.parse
 import json
 import multiprocessing.pool
 from utils import *
+
+armor_id = {}
 
 def fetch_stat(stat):
     raw_stat = stat.find("tbody").find_all("tr")
@@ -62,7 +65,7 @@ def fetch_stat(stat):
             "skill": skill
         }
         
-        for lang, lang_tag in languages:
+        for lang, lang_tag in languages[1:]:
             lang_tag = f"mh-lang-{lang_tag}"
             
             armor_stat_entry["name_entry"].append({
@@ -126,7 +129,7 @@ def fetch_layered_crafting(layered_crafting):
 
         armor_crafting = c.find_all("td")
 
-        categorized_material = {}
+        categorized_material = {"material": "none", "point": 0}
         if armor_crafting[1].text != "-":
             material, point = armor_crafting[1].contents
             categorized_material["material"] = material.find(class_=en_tag).text
@@ -152,7 +155,7 @@ def fetch_layered_crafting(layered_crafting):
 
 def fetch(link):
     expr = r"^/armor/(\d{3}).html$"
-    armor_id = int(re.match(expr, link).group(1))
+    id_ = int(re.match(expr, link).group(1))
     armorURL = urllib.parse.urljoin(baseURL, link)
 
     r = requests.get(armorURL)
@@ -163,12 +166,11 @@ def fetch(link):
     if title.text == "":
         return None
     
-    print(armor_id)
     str_expr = re.compile(r"[\(\)\-]")
     name = "".join(str_expr.sub(" ", title.find(class_=en_tag).text).split())
     name = camel_to_snake(name)
 
-    if armor_id not in [64, 65]:
+    if id_ not in [64, 65]:
         stat, crafting, layered_crafting = soup.find_all("section")
     else:
         stat, ex_stat, crafting, layered_crafting = soup.find_all("section")
@@ -178,13 +180,21 @@ def fetch(link):
     crafting_list = fetch_crafting(crafting)
     layered_crafting_list = fetch_layered_crafting(layered_crafting)
     for i in range(len(crafting_list)):
-        if armor_id in [64, 65]:
+        if id_ in [64, 65]:
             armor_list[i]["ex_skill"] = ex_stat_list[i]["skill"]
         armor_list[i]["crafting"] = crafting_list[i]
         armor_list[i]["layered_crafting"] = layered_crafting_list[i]
 
+    for i in range(5):
+        if "name_entry" in armor_list[i]:
+            if armor_list[i]["name_entry"][0]["text"] not in armor_id:
+                return
+            id_ = armor_id[armor_list[i]["name_entry"][0]["text"]]
+            break
+    print(id_)
+
     entry = {
-        "id": armor_id,
+        "id": id_,
         "name": name,
         "name_entry": [{
             "title": title.find(class_=en_tag).text,
@@ -193,7 +203,7 @@ def fetch(link):
         "armor_list": armor_list
     }
 
-    for lang, lang_tag in languages:
+    for lang, lang_tag in languages[1:]:
         lang_tag = f"mh-lang-{lang_tag}"
 
         entry["name_entry"].append({
@@ -213,9 +223,27 @@ soup = BeautifulSoup(r.text, features="lxml")
 links = [i["href"] for i in soup.find_all(href=re.compile(expr))]
 armor = []
 
+if os.path.exists("json/armor_id.json"):
+    with open("json/armor_id.json") as f:
+        armor_id = json.load(f)
+else:
+    r = requests.get("https://mhrise.kiranico.com/data/armors")
+    soup = BeautifulSoup(r.text, features="lxml")
+    armor_trs = soup.find("tbody").find_all("tr")
+    for armor_tr in armor_trs:
+        name = armor_tr.find("a").text
+        r = requests.get(armor_tr.find("a")["href"])
+        soup = BeautifulSoup(r.text, features="lxml")
+        armor_id[name] = int(soup.find(class_="sm:grid-cols-4").find_all(class_="sm:col-span-1")[2].find("dd").text)
+        print(f"{name} {armor_id[name]} saved.")
+
+    with open("json/armor_id.json", "w") as f:
+        json.dump(armor_id, f)
+
 pool = multiprocessing.pool.ThreadPool(16)
 pool.map(lambda x: armor.append(fetch(x)), links)
+armor = [i for i in armor if i != None]
 armor = sorted([i for i in armor if i != None], key=lambda x: x["id"])
 
 with open("json/armor.json", "w", encoding="utf-8") as f:
-    json.dump(armor, f)
+    json.dump(armor, f, indent=4, ensure_ascii=False)

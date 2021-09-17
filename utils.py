@@ -17,22 +17,6 @@ languages = [
     ("zh", 13)
 ]
 
-weapon_list = [
-    "great_sword",
-    "long_sword",
-    "short_sword",
-    "dual_blades",
-    "hammer",
-    "horn",
-    "lance",
-    "gun_lance",
-    "slash_axe",
-    "charge_axe",
-    "insect_glaive",
-    "light_bowgun",
-    "heavy_bowgun",
-    "bow"
-]
 
 def camel_to_snake(text):
     text = re.sub('(.)([A-Z][a-z]+)', r'\1_\2', text)

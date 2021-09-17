@@ -1,10 +1,30 @@
 import requests
 import re
+import os
 from bs4 import BeautifulSoup
 import urllib.parse
 import json
 import multiprocessing.pool
 from utils import *
+
+weapon_list = {
+    "great_sword": 0,
+    "long_sword": 3,
+    "short_sword": 1,
+    "dual_blades": 2,
+    "hammer": 4,
+    "horn": 5,
+    "lance": 6,
+    "gun_lance": 7,
+    "slash_axe": 8,
+    "charge_axe": 9,
+    "insect_glaive": 10,
+    "light_bowgun": 13,
+    "heavy_bowgun": 12,
+    "bow": 11
+}
+
+weapon_id = {}
 
 with open("json/rampage_skill.json", encoding="utf-8") as f:
     rampage_skills_dict = json.load(f)
@@ -220,11 +240,6 @@ def fetch(link):
     rarity = int(link.find("div").find("div")["class"][0].split("-")[-1])
     link = link["href"]
     
-    expr = r"^/weapon/([A-Za-z]+)_(\d{3}).html$"
-    match = re.match(expr, link)
-    w = match.group(1)
-    weapon_id = int(match.group(2))
-    print(w, weapon_id)
     weaponURL = urllib.parse.urljoin(baseURL, link)
 
     r = requests.get(weaponURL)
@@ -234,6 +249,12 @@ def fetch(link):
     title = soup.find(class_="title")
     name = "".join(title.find(class_=en_tag).text.split())
     name = camel_to_snake(name).replace("'", "_")
+
+    expr = r"^/weapon/([A-Za-z]+)_(\d{3}).html$"
+    match = re.match(expr, link)
+    w = match.group(1)
+    id_ = weapon_id[camel_to_snake(w)][title.find(class_=en_tag).text]
+    print(w, id_)
 
     section = soup.find_all("section")
     description = section[0]
@@ -252,7 +273,7 @@ def fetch(link):
     upgrade_entry = fetch_upgrade(upgrade)
 
     entry = {
-        "id": weapon_id,
+        "id": id_,
         "rarity": rarity,
         "genre": camel_to_snake(w),
         "name": name,
@@ -283,7 +304,7 @@ def fetch(link):
     entry["crafting"] = crafting_entry
     entry["upgrade"] = upgrade_entry
 
-    for lang, lang_tag in languages:
+    for lang, lang_tag in languages[1:]:
         lang_tag = f"mh-lang-{lang_tag}"
 
         entry["name_entry"].append({
@@ -298,10 +319,12 @@ def fetch(link):
     
     return entry
 
-links = dict()
-weapon = dict()
+links = {}
+weapon = {}
+os.makedirs("json/weapon", exist_ok=True)
 for w in weapon_list:
     # print(w)
+    os.makedirs(f"img/weapon/{w}", exist_ok=True)
     weaponListURL = urllib.parse.urljoin(baseURL, f"weapon/{w}.html")
     r = requests.get(weaponListURL)
     r.encoding = "utf-8"
@@ -310,12 +333,30 @@ for w in weapon_list:
     soup = BeautifulSoup(r.text, features="lxml")
     links[w] = [i for i in soup.find_all(href=re.compile(expr))]
 
+    weapon_id_URL = f"https://mhrise.kiranico.com/data/weapons?scope=wp&value={weapon_list[w]}"
+    r = requests.get(weapon_id_URL)
+    r.encoding = "utf-8"
+    soup = BeautifulSoup(r.text, features="lxml")
+    weapon_items = soup.find("tbody").find_all(class_="bg-white")
+    weapon_id[w] = {}
+    for weapon_item in weapon_items:
+        weapon_info = weapon_item.find("a")
+        name = weapon_info.text
+        img_id = re.match(r"https://mhrise.kiranico.com/data/weapons/(\d+)", weapon_info["href"]).group(1)
+        
+        r_w = requests.get(weapon_info["href"])
+        s_w = BeautifulSoup(r_w.text, features="lxml")
+
+        weapon_id[w][name] = int(s_w.find(class_="sm:grid-cols-4").find(class_="sm:col-span-1").find("dd").text.strip())
+        img = requests.get(f"https://cdn.kiranico.net/file/kiranico/mhrise-web/images/rotate/{img_id}.png")
+        with open(f"img/weapon/{w}/{w}_{weapon_id[w][name]}.png", "wb") as f:
+            f.write(img.content)
+        print(f"{w} {weapon_id[w][name]} saved.")
+
 for w in weapon_list:
     weapon[w] = []
     pool = multiprocessing.pool.ThreadPool(16)
     pool.map(lambda x: weapon[w].append(fetch(x)), links[w])
-    # for link in links[w]:
-    #     weapon[w].append(fetch(link))
     weapon[w].sort(key=lambda x: x["id"])
 
     with open(f"json/weapon/{w}.json", "w", encoding="utf-8") as f:

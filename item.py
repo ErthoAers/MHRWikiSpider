@@ -1,30 +1,40 @@
 import requests
 import re
+import os
 from bs4 import BeautifulSoup
 import urllib.parse
 import json
 import multiprocessing.pool
 from utils import *
 
-baseURL = "http://mhrise.mhrice.info"
+item_id = {"Bishaten Talon": 646, "Massive Bone": 455}
 
-languages = [
-    ("en", 1),
-    ("ja", 0),
-    ("fr", 2),
-    ("it", 3),
-    ("de", 4),
-    ("es", 5),
-    ("ru", 6),
-    ("pl", 7),
-    ("ko", 11),
-    ("zh-Hant", 12),
-    ("zh", 13)
-]
+def fetch_icon(icon):
+    icon_div = icon.find_all("div")
+    color = int(icon_div[0]["class"][0].split("-")[-1])
+    icon_expr = r"mask-image: url\('/resources/item/(\d+).r.png'\)"
+    icon_id = int(re.match(icon_expr, icon_div[0]["style"]).group(1))
+
+    addon = "none"
+
+    r = requests.get(urllib.parse.urljoin(baseURL, f"/resources/item/{icon_id:03}.r.png"))
+    a = requests.get(urllib.parse.urljoin(baseURL, f"/resources/item/{icon_id:03}.a.png"))
+    with open(f"img/item/item_{icon_id:03}.r.png", "wb") as f:
+        f.write(r.content)
+    with open(f"img/item/item_{icon_id:03}.a.png", "wb") as f:
+        f.write(a.content)
+
+    if icon_div[2].find("div") != None:
+        addon = icon_div[-1]["class"][0].split("-")[-1]
+    
+    return {
+        "id": icon_id,
+        "color": color,
+        "addon": addon
+    }
 
 def fetch(link):
     expr = r"/item/normal_(\d+).html"
-    item_id = int(re.match(expr, link).group(1))
     itemURL = urllib.parse.urljoin(baseURL, link)
     
     r = requests.get(itemURL)
@@ -33,27 +43,35 @@ def fetch(link):
 
     title = soup.find(class_="title")
     description, basic_data = soup.find_all("section")
+    icon = soup.find(class_="mh-colored-icon")
     data = basic_data.find_all(class_="mh-kv")
-    name = "_".join(i.lower() for i in title.find(class_=en_tag).text.split())
+    name = "_".join(i.lower() for i in title.find(class_=en_tag).text.strip().split())
 
-    if name.startswith("#Reject"):
+    if name.startswith("#reject") or name == "":
         return
-    
+
+    id_ = item_id[title.find(class_=en_tag).text.strip()]
+    icon_entry = fetch_icon(icon)
+
+    if id_ == 10000:
+        return
+
     material = {}
-    print(item_id)
+    print(id_)
     c = data[12].contents[1].contents
     if len(c) == 1:
         material["material"] = ""
         material["point"] = 0
     else:
-        material["material"] = " ".join(i.find(class_=en_tag).text for i in c[:-1])
+        material["material"] = " ".join(i.find(class_=en_tag).text.strip() for i in c[:-1])
         material["point"] = int(c[-1].split()[0])
 
     entry = {
-        "id": item_id,
+        "id": id_,
         "name": name,
+        "icon": icon_entry,
         "carriable_filter": data[0].contents[1].text.lower(),
-        "type": camel_to_snake(data[1].contents[1].text),
+        "type": camel_to_snake(data[1].contents[1].text.strip()),
         "rarity": int(data[2].contents[1].text),
         "maximum_carry": int(data[3].contents[1].text),
         "maximum_carry_by_buddy": int(data[4].contents[1].text),
@@ -69,12 +87,12 @@ def fetch(link):
     }
 
     entry["name_entry"] = [{
-        "text": title.find(class_=en_tag).text,
+        "text": title.find(class_=en_tag).text.strip(),
         "language": "en"
     }]
 
     entry["description_entry"] = [{
-        "text": description.find(class_=en_tag).text,
+        "text": description.find(class_=en_tag).text.strip(),
         "language": "en"
     }]
     
@@ -82,12 +100,12 @@ def fetch(link):
         lang_tag = f"mh-lang-{lang_tag}"
 
         entry["name_entry"].append({
-            "text": title.find(class_=lang_tag).text,
+            "text": title.find(class_=lang_tag).text.strip(),
             "language": lang
         })
 
         entry["description_entry"].append({
-            "text": description.find(class_=lang_tag).text,
+            "text": description.find(class_=lang_tag).text.strip(),
             "language": lang
         })
     
@@ -102,10 +120,34 @@ soup = BeautifulSoup(r.text, features="lxml")
 links = [i["href"] for i in soup.find_all(href=re.compile(expr))]
 item = []
 
+if os.path.exists("json/item_id.json"):
+    with open("json/item_id.json") as f:
+        item_id = json.load(f)
+else:
+    r = requests.get("https://mhrise.kiranico.com/data/items")
+    soup = BeautifulSoup(r.text, features="lxml")
+    tab = [0, 1, 2, 3, 4, 5, 7, 8, 11]
+    item_trs = []
+    for i in tab:
+        item_trs += soup.find(attrs={"x-show": f"tab === 'type{i}'"}).find("tbody").find_all("tr")
+
+    for item_tr in item_trs:
+        name = item_tr.find("a").text
+        r = requests.get(item_tr.find("a")["href"])
+        soup = BeautifulSoup(r.text, features="lxml")
+        item_id[name] = int(soup.find(class_="sm:grid-cols-4").find_all(class_="sm:col-span-1")[4].find("dd").text)
+        print(f"{name} {item_id[name]} saved.")
+    
+    with open("json/item_id.json", "w") as f:
+        json.dump(item_id, f)
+
+
+os.makedirs("img/item", exist_ok=True)
 pool = multiprocessing.pool.ThreadPool(16)
 pool.map(lambda x: item.append(fetch(x)), links)
 
+item = [i for i in item if i != None]
 item.sort(key=lambda x: x["id"])
 
 with open("json/item.json", "w", encoding="utf-8") as f:
-    json.dump(item, f)
+    json.dump(item, f, indent=4, ensure_ascii=False)

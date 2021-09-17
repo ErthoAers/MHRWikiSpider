@@ -75,10 +75,14 @@ def fetch(link):
     level = soup.find("ul")
     decoration = soup.find("section")
 
+    icon = soup.find(class_="mh-colored-icon")
+    icon_div = icon.find_all("div")
+    color = int(icon_div[0]["class"][0].split("-")[-1])
+
     level_entry = fetch_level(level)
 
     entry = {
-        "id": skill_id,
+        "id": skill_id + 1,
         "name": name,
         "name_entry": [{
             "text": title.find(class_=en_tag).text,
@@ -88,6 +92,7 @@ def fetch(link):
             "text": description.find(class_=en_tag).text,
             "language": "en"
         }],
+        "color": color,
         "max_level": len(level_entry),
         "level": level_entry
     }
@@ -124,4 +129,4 @@ pool.map(lambda x: skill.append(fetch(x)), links)
 skill.sort(key=lambda x: x["id"])
 
 with open("json/skill.json", "w", encoding="utf-8") as f:
-    json.dump(skill, f)
+    json.dump(skill, f, indent=4, ensure_ascii=False)

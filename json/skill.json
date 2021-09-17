@@ -1,6 +1,6 @@
 [
     {
-        "id": 0,
+        "id": 1,
         "name": "attack_boost",
         "name_entry": [
             {
@@ -94,6 +94,7 @@
                 "language": "zh"
             }
         ],
+        "color": 7,
         "max_level": 7,
         "level": [
             [
@@ -489,7 +490,7 @@
         }
     },
     {
-        "id": 1,
+        "id": 2,
         "name": "agitator",
         "name_entry": [
             {
@@ -583,6 +584,7 @@
                 "language": "zh"
             }
         ],
+        "color": 7,
         "max_level": 5,
         "level": [
             [
@@ -886,7 +888,7 @@
         }
     },
     {
-        "id": 2,
+        "id": 3,
         "name": "peak_performance",
         "name_entry": [
             {
@@ -980,6 +982,7 @@
                 "language": "zh"
             }
         ],
+        "color": 7,
         "max_level": 3,
         "level": [
             [
@@ -1191,7 +1194,7 @@
         }
     },
     {
-        "id": 3,
+        "id": 4,
         "name": "resentment",
         "name_entry": [
             {
@@ -1285,6 +1288,7 @@
                 "language": "zh"
             }
         ],
+        "color": 6,
         "max_level": 5,
         "level": [
             [
@@ -1588,7 +1592,7 @@
         }
     },
     {
-        "id": 4,
+        "id": 5,
         "name": "resuscitate",
         "name_entry": [
             {
@@ -1682,6 +1686,7 @@
                 "language": "zh"
             }
         ],
+        "color": 6,
         "max_level": 3,
         "level": [
             [
@@ -1893,7 +1898,7 @@
         }
     },
     {
-        "id": 5,
+        "id": 6,
         "name": "critical_eye",
         "name_entry": [
             {
@@ -1987,6 +1992,7 @@
                 "language": "zh"
             }
         ],
+        "color": 3,
         "max_level": 7,
         "level": [
             [
@@ -2382,7 +2388,7 @@
         }
     },
     {
-        "id": 6,
+        "id": 7,
         "name": "critical_boost",
         "name_entry": [
             {
@@ -2476,6 +2482,7 @@
                 "language": "zh"
             }
         ],
+        "color": 3,
         "max_level": 3,
         "level": [
             [
@@ -2687,7 +2694,7 @@
         }
     },
     {
-        "id": 7,
+        "id": 8,
         "name": "weakness_exploit",
         "name_entry": [
             {
@@ -2781,6 +2788,7 @@
                 "language": "zh"
             }
         ],
+        "color": 3,
         "max_level": 3,
         "level": [
             [
@@ -2992,7 +3000,7 @@
         }
     },
     {
-        "id": 8,
+        "id": 9,
         "name": "latent_power",
         "name_entry": [
             {
@@ -3086,6 +3094,7 @@
                 "language": "zh"
             }
         ],
+        "color": 3,
         "max_level": 5,
         "level": [
             [
@@ -3389,7 +3398,7 @@
         }
     },
     {
-        "id": 9,
+        "id": 10,
         "name": "maximum_might",
         "name_entry": [
             {
@@ -3483,6 +3492,7 @@
                 "language": "zh"
             }
         ],
+        "color": 3,
         "max_level": 3,
         "level": [
             [
@@ -3694,7 +3704,7 @@
         }
     },
     {
-        "id": 10,
+        "id": 11,
         "name": "critical_element",
         "name_entry": [
             {
@@ -3788,6 +3798,7 @@
                 "language": "zh"
             }
         ],
+        "color": 10,
         "max_level": 3,
         "level": [
             [
@@ -3999,7 +4010,7 @@
         }
     },
     {
-        "id": 11,
+        "id": 12,
         "name": "master_s_touch",
         "name_entry": [
             {
@@ -4093,6 +4104,7 @@
                 "language": "zh"
             }
         ],
+        "color": 1,
         "max_level": 3,
         "level": [
             [
@@ -4304,7 +4316,7 @@
         }
     },
     {
-        "id": 12,
+        "id": 13,
         "name": "fire_attack",
         "name_entry": [
             {
@@ -4398,6 +4410,7 @@
                 "language": "zh"
             }
         ],
+        "color": 7,
         "max_level": 5,
         "level": [
             [
@@ -4697,7 +4710,7 @@
         }
     },
     {
-        "id": 13,
+        "id": 14,
         "name": "water_attack",
         "name_entry": [
             {
@@ -4791,6 +4804,7 @@
                 "language": "zh"
             }
         ],
+        "color": 11,
         "max_level": 5,
         "level": [
             [
@@ -5090,7 +5104,7 @@
         }
     },
     {
-        "id": 14,
+        "id": 15,
         "name": "ice_attack",
         "name_entry": [
             {
@@ -5184,6 +5198,7 @@
                 "language": "zh"
             }
         ],
+        "color": 12,
         "max_level": 5,
         "level": [
             [
@@ -5483,7 +5498,7 @@
         }
     },
     {
-        "id": 15,
+        "id": 16,
         "name": "thunder_attack",
         "name_entry": [
             {
@@ -5577,6 +5592,7 @@
                 "language": "zh"
             }
         ],
+        "color": 4,
         "max_level": 5,
         "level": [
             [
@@ -5876,7 +5892,7 @@
         }
     },
     {
-        "id": 16,
+        "id": 17,
         "name": "dragon_attack",
         "name_entry": [
             {
@@ -5970,6 +5986,7 @@
                 "language": "zh"
             }
         ],
+        "color": 6,
         "max_level": 5,
         "level": [
             [
@@ -6269,7 +6286,7 @@
         }
     },
     {
-        "id": 17,
+        "id": 18,
         "name": "poison_attack",
         "name_entry": [
             {
@@ -6363,6 +6380,7 @@
                 "language": "zh"
             }
         ],
+        "color": 9,
         "max_level": 3,
         "level": [
             [
@@ -6570,7 +6588,7 @@
         }
     },
     {
-        "id": 18,
+        "id": 19,
         "name": "paralysis_attack",
         "name_entry": [
             {
@@ -6664,6 +6682,7 @@
                 "language": "zh"
             }
         ],
+        "color": 5,
         "max_level": 3,
         "level": [
             [
@@ -6875,7 +6894,7 @@
         }
     },
     {
-        "id": 19,
+        "id": 20,
         "name": "sleep_attack",
         "name_entry": [
             {
@@ -6969,6 +6988,7 @@
                 "language": "zh"
             }
         ],
+        "color": 12,
         "max_level": 3,
         "level": [
             [
@@ -7180,7 +7200,7 @@
         }
     },
     {
-        "id": 20,
+        "id": 21,
         "name": "blast_attack",
         "name_entry": [
             {
@@ -7274,6 +7294,7 @@
                 "language": "zh"
             }
         ],
+        "color": 6,
         "max_level": 3,
         "level": [
             [
@@ -7485,7 +7506,7 @@
         }
     },
     {
-        "id": 21,
+        "id": 22,
         "name": "handicraft",
         "name_entry": [
             {
@@ -7579,6 +7600,7 @@
                 "language": "zh"
             }
         ],
+        "color": 10,
         "max_level": 5,
         "level": [
             [
@@ -7882,7 +7904,7 @@
         }
     },
     {
-        "id": 22,
+        "id": 23,
         "name": "razor_sharp",
         "name_entry": [
             {
@@ -7976,6 +7998,7 @@
                 "language": "zh"
             }
         ],
+        "color": 4,
         "max_level": 3,
         "level": [
             [
@@ -8187,7 +8210,7 @@
         }
     },
     {
-        "id": 23,
+        "id": 24,
         "name": "spare_shot",
         "name_entry": [
             {
@@ -8281,6 +8304,7 @@
                 "language": "zh"
             }
         ],
+        "color": 4,
         "max_level": 3,
         "level": [
             [
@@ -8492,7 +8516,7 @@
         }
     },
     {
-        "id": 24,
+        "id": 25,
         "name": "protective_polish",
         "name_entry": [
             {
@@ -8586,6 +8610,7 @@
                 "language": "zh"
             }
         ],
+        "color": 4,
         "max_level": 3,
         "level": [
             [
@@ -8797,7 +8822,7 @@
         }
     },
     {
-        "id": 25,
+        "id": 26,
         "name": "mind_s_eye",
         "name_entry": [
             {
@@ -8891,6 +8916,7 @@
                 "language": "zh"
             }
         ],
+        "color": 1,
         "max_level": 3,
         "level": [
             [
@@ -9102,7 +9128,7 @@
         }
     },
     {
-        "id": 26,
+        "id": 27,
         "name": "ballistics",
         "name_entry": [
             {
@@ -9196,6 +9222,7 @@
                 "language": "zh"
             }
         ],
+        "color": 1,
         "max_level": 3,
         "level": [
             [
@@ -9407,7 +9434,7 @@
         }
     },
     {
-        "id": 27,
+        "id": 28,
         "name": "bludgeoner",
         "name_entry": [
             {
@@ -9501,6 +9528,7 @@
                 "language": "zh"
             }
         ],
+        "color": 2,
         "max_level": 3,
         "level": [
             [
@@ -9712,7 +9740,7 @@
         }
     },
     {
-        "id": 28,
+        "id": 29,
         "name": "bow_charge_plus",
         "name_entry": [
             {
@@ -9806,6 +9834,7 @@
                 "language": "zh"
             }
         ],
+        "color": 8,
         "max_level": 1,
         "level": [
             [
@@ -9857,7 +9886,7 @@
         ]
     },
     {
-        "id": 29,
+        "id": 30,
         "name": "focus",
         "name_entry": [
             {
@@ -9951,6 +9980,7 @@
                 "language": "zh"
             }
         ],
+        "color": 1,
         "max_level": 3,
         "level": [
             [
@@ -10162,7 +10192,7 @@
         }
     },
     {
-        "id": 30,
+        "id": 31,
         "name": "power_prolonger",
         "name_entry": [
             {
@@ -10256,6 +10286,7 @@
                 "language": "zh"
             }
         ],
+        "color": 13,
         "max_level": 3,
         "level": [
             [
@@ -10467,7 +10498,7 @@
         }
     },
     {
-        "id": 31,
+        "id": 32,
         "name": "marathon_runner",
         "name_entry": [
             {
@@ -10561,6 +10592,7 @@
                 "language": "zh"
             }
         ],
+        "color": 5,
         "max_level": 3,
         "level": [
             [
@@ -10772,7 +10804,7 @@
         }
     },
     {
-        "id": 32,
+        "id": 33,
         "name": "constitution",
         "name_entry": [
             {
@@ -10866,6 +10898,7 @@
                 "language": "zh"
             }
         ],
+        "color": 5,
         "max_level": 5,
         "level": [
             [
@@ -11165,7 +11198,7 @@
         }
     },
     {
-        "id": 33,
+        "id": 34,
         "name": "stamina_surge",
         "name_entry": [
             {
@@ -11259,6 +11292,7 @@
                 "language": "zh"
             }
         ],
+        "color": 5,
         "max_level": 3,
         "level": [
             [
@@ -11470,7 +11504,7 @@
         }
     },
     {
-        "id": 34,
+        "id": 35,
         "name": "guard",
         "name_entry": [
             {
@@ -11564,6 +11598,7 @@
                 "language": "zh"
             }
         ],
+        "color": 2,
         "max_level": 5,
         "level": [
             [
@@ -11867,7 +11902,7 @@
         }
     },
     {
-        "id": 35,
+        "id": 36,
         "name": "guard_up",
         "name_entry": [
             {
@@ -11961,6 +11996,7 @@
                 "language": "zh"
             }
         ],
+        "color": 1,
         "max_level": 3,
         "level": [
             [
@@ -12172,7 +12208,7 @@
         }
     },
     {
-        "id": 36,
+        "id": 37,
         "name": "offensive_guard",
         "name_entry": [
             {
@@ -12266,6 +12302,7 @@
                 "language": "zh"
             }
         ],
+        "color": 9,
         "max_level": 3,
         "level": [
             [
@@ -12477,7 +12514,7 @@
         }
     },
     {
-        "id": 37,
+        "id": 38,
         "name": "critical_draw",
         "name_entry": [
             {
@@ -12571,6 +12608,7 @@
                 "language": "zh"
             }
         ],
+        "color": 3,
         "max_level": 3,
         "level": [
             [
@@ -12782,7 +12820,7 @@
         }
     },
     {
-        "id": 38,
+        "id": 39,
         "name": "punishing_draw",
         "name_entry": [
             {
@@ -12876,6 +12914,7 @@
                 "language": "zh"
             }
         ],
+        "color": 4,
         "max_level": 3,
         "level": [
             [
@@ -13087,7 +13126,7 @@
         }
     },
     {
-        "id": 39,
+        "id": 40,
         "name": "quick_sheath",
         "name_entry": [
             {
@@ -13181,6 +13220,7 @@
                 "language": "zh"
             }
         ],
+        "color": 13,
         "max_level": 3,
         "level": [
             [
@@ -13392,7 +13432,7 @@
         }
     },
     {
-        "id": 40,
+        "id": 41,
         "name": "slugger",
         "name_entry": [
             {
@@ -13486,6 +13526,7 @@
                 "language": "zh"
             }
         ],
+        "color": 4,
         "max_level": 3,
         "level": [
             [
@@ -13693,7 +13734,7 @@
         }
     },
     {
-        "id": 41,
+        "id": 42,
         "name": "stamina_thief",
         "name_entry": [
             {
@@ -13787,6 +13828,7 @@
                 "language": "zh"
             }
         ],
+        "color": 10,
         "max_level": 3,
         "level": [
             [
@@ -13990,7 +14032,7 @@
         }
     },
     {
-        "id": 42,
+        "id": 43,
         "name": "affinity_sliding",
         "name_entry": [
             {
@@ -14084,6 +14126,7 @@
                 "language": "zh"
             }
         ],
+        "color": 3,
         "max_level": 1,
         "level": [
             [
@@ -14199,7 +14242,7 @@
         }
     },
     {
-        "id": 43,
+        "id": 44,
         "name": "horn_maestro",
         "name_entry": [
             {
@@ -14293,6 +14336,7 @@
                 "language": "zh"
             }
         ],
+        "color": 8,
         "max_level": 1,
         "level": [
             [
@@ -14404,7 +14448,7 @@
         }
     },
     {
-        "id": 44,
+        "id": 45,
         "name": "artillery",
         "name_entry": [
             {
@@ -14498,6 +14542,7 @@
                 "language": "zh"
             }
         ],
+        "color": 2,
         "max_level": 3,
         "level": [
             [
@@ -14709,7 +14754,7 @@
         }
     },
     {
-        "id": 45,
+        "id": 46,
         "name": "load_shells",
         "name_entry": [
             {
@@ -14803,6 +14848,7 @@
                 "language": "zh"
             }
         ],
+        "color": 2,
         "max_level": 2,
         "level": [
             [
@@ -14968,7 +15014,7 @@
         }
     },
     {
-        "id": 46,
+        "id": 47,
         "name": "special_ammo_boost",
         "name_entry": [
             {
@@ -15062,6 +15108,7 @@
                 "language": "zh"
             }
         ],
+        "color": 2,
         "max_level": 2,
         "level": [
             [
@@ -15227,7 +15274,7 @@
         }
     },
     {
-        "id": 47,
+        "id": 48,
         "name": "normal/_rapid_up",
         "name_entry": [
             {
@@ -15321,6 +15368,7 @@
                 "language": "zh"
             }
         ],
+        "color": 1,
         "max_level": 3,
         "level": [
             [
@@ -15532,7 +15580,7 @@
         }
     },
     {
-        "id": 48,
+        "id": 49,
         "name": "pierce_up",
         "name_entry": [
             {
@@ -15626,6 +15674,7 @@
                 "language": "zh"
             }
         ],
+        "color": 11,
         "max_level": 3,
         "level": [
             [
@@ -15837,7 +15886,7 @@
         }
     },
     {
-        "id": 49,
+        "id": 50,
         "name": "spread_up",
         "name_entry": [
             {
@@ -15931,6 +15980,7 @@
                 "language": "zh"
             }
         ],
+        "color": 2,
         "max_level": 3,
         "level": [
             [
@@ -16142,7 +16192,7 @@
         }
     },
     {
-        "id": 50,
+        "id": 51,
         "name": "ammo_up",
         "name_entry": [
             {
@@ -16236,6 +16286,7 @@
                 "language": "zh"
             }
         ],
+        "color": 8,
         "max_level": 3,
         "level": [
             [
@@ -16447,7 +16498,7 @@
         }
     },
     {
-        "id": 51,
+        "id": 52,
         "name": "reload_speed",
         "name_entry": [
             {
@@ -16541,6 +16592,7 @@
                 "language": "zh"
             }
         ],
+        "color": 1,
         "max_level": 3,
         "level": [
             [
@@ -16752,7 +16804,7 @@
         }
     },
     {
-        "id": 52,
+        "id": 53,
         "name": "recoil_down",
         "name_entry": [
             {
@@ -16846,6 +16898,7 @@
                 "language": "zh"
             }
         ],
+        "color": 13,
         "max_level": 3,
         "level": [
             [
@@ -17053,7 +17106,7 @@
         }
     },
     {
-        "id": 53,
+        "id": 54,
         "name": "steadiness",
         "name_entry": [
             {
@@ -17147,6 +17200,7 @@
                 "language": "zh"
             }
         ],
+        "color": 2,
         "max_level": 2,
         "level": [
             [
@@ -17308,7 +17362,7 @@
         }
     },
     {
-        "id": 54,
+        "id": 55,
         "name": "rapid_fire_up",
         "name_entry": [
             {
@@ -17402,6 +17456,7 @@
                 "language": "zh"
             }
         ],
+        "color": 1,
         "max_level": 3,
         "level": [
             [
@@ -17613,7 +17668,7 @@
         }
     },
     {
-        "id": 55,
+        "id": 56,
         "name": "defense_boost",
         "name_entry": [
             {
@@ -17707,6 +17762,7 @@
                 "language": "zh"
             }
         ],
+        "color": 5,
         "max_level": 7,
         "level": [
             [
@@ -18098,7 +18154,7 @@
         }
     },
     {
-        "id": 56,
+        "id": 57,
         "name": "divine_blessing",
         "name_entry": [
             {
@@ -18192,6 +18248,7 @@
                 "language": "zh"
             }
         ],
+        "color": 1,
         "max_level": 3,
         "level": [
             [
@@ -18403,7 +18460,7 @@
         }
     },
     {
-        "id": 57,
+        "id": 58,
         "name": "recovery_up",
         "name_entry": [
             {
@@ -18497,6 +18554,7 @@
                 "language": "zh"
             }
         ],
+        "color": 8,
         "max_level": 3,
         "level": [
             [
@@ -18704,7 +18762,7 @@
         }
     },
     {
-        "id": 58,
+        "id": 59,
         "name": "recovery_speed",
         "name_entry": [
             {
@@ -18798,6 +18856,7 @@
                 "language": "zh"
             }
         ],
+        "color": 8,
         "max_level": 3,
         "level": [
             [
@@ -19001,7 +19060,7 @@
         }
     },
     {
-        "id": 59,
+        "id": 60,
         "name": "speed_eating",
         "name_entry": [
             {
@@ -19095,6 +19154,7 @@
                 "language": "zh"
             }
         ],
+        "color": 5,
         "max_level": 3,
         "level": [
             [
@@ -19302,7 +19362,7 @@
         }
     },
     {
-        "id": 60,
+        "id": 61,
         "name": "earplugs",
         "name_entry": [
             {
@@ -19396,6 +19456,7 @@
                 "language": "zh"
             }
         ],
+        "color": 1,
         "max_level": 5,
         "level": [
             [
@@ -19699,7 +19760,7 @@
         }
     },
     {
-        "id": 61,
+        "id": 62,
         "name": "windproof",
         "name_entry": [
             {
@@ -19793,6 +19854,7 @@
                 "language": "zh"
             }
         ],
+        "color": 1,
         "max_level": 3,
         "level": [
             [
@@ -20000,7 +20062,7 @@
         }
     },
     {
-        "id": 62,
+        "id": 63,
         "name": "tremor_resistance",
         "name_entry": [
             {
@@ -20094,6 +20156,7 @@
                 "language": "zh"
             }
         ],
+        "color": 2,
         "max_level": 3,
         "level": [
             [
@@ -20305,7 +20368,7 @@
         }
     },
     {
-        "id": 63,
+        "id": 64,
         "name": "bubbly_dance",
         "name_entry": [
             {
@@ -20399,6 +20462,7 @@
                 "language": "zh"
             }
         ],
+        "color": 1,
         "max_level": 3,
         "level": [
             [
@@ -20606,7 +20670,7 @@
         }
     },
     {
-        "id": 64,
+        "id": 65,
         "name": "evade_window",
         "name_entry": [
             {
@@ -20700,6 +20764,7 @@
                 "language": "zh"
             }
         ],
+        "color": 12,
         "max_level": 5,
         "level": [
             [
@@ -21003,7 +21068,7 @@
         }
     },
     {
-        "id": 65,
+        "id": 66,
         "name": "evade_extender",
         "name_entry": [
             {
@@ -21097,6 +21162,7 @@
                 "language": "zh"
             }
         ],
+        "color": 12,
         "max_level": 3,
         "level": [
             [
@@ -21304,7 +21370,7 @@
         }
     },
     {
-        "id": 66,
+        "id": 67,
         "name": "fire_resistance",
         "name_entry": [
             {
@@ -21398,6 +21464,7 @@
                 "language": "zh"
             }
         ],
+        "color": 7,
         "max_level": 3,
         "level": [
             [
@@ -21601,7 +21668,7 @@
         }
     },
     {
-        "id": 67,
+        "id": 68,
         "name": "water_resistance",
         "name_entry": [
             {
@@ -21695,6 +21762,7 @@
                 "language": "zh"
             }
         ],
+        "color": 11,
         "max_level": 3,
         "level": [
             [
@@ -21898,7 +21966,7 @@
         }
     },
     {
-        "id": 68,
+        "id": 69,
         "name": "ice_resistance",
         "name_entry": [
             {
@@ -21992,6 +22060,7 @@
                 "language": "zh"
             }
         ],
+        "color": 12,
         "max_level": 3,
         "level": [
             [
@@ -22195,7 +22264,7 @@
         }
     },
     {
-        "id": 69,
+        "id": 70,
         "name": "thunder_resistance",
         "name_entry": [
             {
@@ -22289,6 +22358,7 @@
                 "language": "zh"
             }
         ],
+        "color": 4,
         "max_level": 3,
         "level": [
             [
@@ -22492,7 +22562,7 @@
         }
     },
     {
-        "id": 70,
+        "id": 71,
         "name": "dragon_resistance",
         "name_entry": [
             {
@@ -22586,6 +22656,7 @@
                 "language": "zh"
             }
         ],
+        "color": 6,
         "max_level": 3,
         "level": [
             [
@@ -22793,7 +22864,7 @@
         }
     },
     {
-        "id": 71,
+        "id": 72,
         "name": "blight_resistance",
         "name_entry": [
             {
@@ -22887,6 +22958,7 @@
                 "language": "zh"
             }
         ],
+        "color": 10,
         "max_level": 3,
         "level": [
             [
@@ -23098,7 +23170,7 @@
         }
     },
     {
-        "id": 72,
+        "id": 73,
         "name": "poison_resistance",
         "name_entry": [
             {
@@ -23192,6 +23264,7 @@
                 "language": "zh"
             }
         ],
+        "color": 9,
         "max_level": 3,
         "level": [
             [
@@ -23399,7 +23472,7 @@
         }
     },
     {
-        "id": 73,
+        "id": 74,
         "name": "paralysis_resistance",
         "name_entry": [
             {
@@ -23493,6 +23566,7 @@
                 "language": "zh"
             }
         ],
+        "color": 5,
         "max_level": 3,
         "level": [
             [
@@ -23700,7 +23774,7 @@
         }
     },
     {
-        "id": 74,
+        "id": 75,
         "name": "sleep_resistance",
         "name_entry": [
             {
@@ -23794,6 +23868,7 @@
                 "language": "zh"
             }
         ],
+        "color": 12,
         "max_level": 3,
         "level": [
             [
@@ -24001,7 +24076,7 @@
         }
     },
     {
-        "id": 75,
+        "id": 76,
         "name": "stun_resistance",
         "name_entry": [
             {
@@ -24095,6 +24170,7 @@
                 "language": "zh"
             }
         ],
+        "color": 4,
         "max_level": 3,
         "level": [
             [
@@ -24302,7 +24378,7 @@
         }
     },
     {
-        "id": 76,
+        "id": 77,
         "name": "muck_resistance",
         "name_entry": [
             {
@@ -24396,6 +24472,7 @@
                 "language": "zh"
             }
         ],
+        "color": 2,
         "max_level": 2,
         "level": [
             [
@@ -24557,7 +24634,7 @@
         }
     },
     {
-        "id": 77,
+        "id": 78,
         "name": "blast_resistance",
         "name_entry": [
             {
@@ -24651,6 +24728,7 @@
                 "language": "zh"
             }
         ],
+        "color": 6,
         "max_level": 3,
         "level": [
             [
@@ -24858,7 +24936,7 @@
         }
     },
     {
-        "id": 78,
+        "id": 79,
         "name": "botanist",
         "name_entry": [
             {
@@ -24952,6 +25030,7 @@
                 "language": "zh"
             }
         ],
+        "color": 8,
         "max_level": 4,
         "level": [
             [
@@ -25201,7 +25280,7 @@
         }
     },
     {
-        "id": 79,
+        "id": 80,
         "name": "geologist",
         "name_entry": [
             {
@@ -25295,6 +25374,7 @@
                 "language": "zh"
             }
         ],
+        "color": 13,
         "max_level": 3,
         "level": [
             [
@@ -25498,7 +25578,7 @@
         }
     },
     {
-        "id": 80,
+        "id": 81,
         "name": "partbreaker",
         "name_entry": [
             {
@@ -25592,6 +25672,7 @@
                 "language": "zh"
             }
         ],
+        "color": 2,
         "max_level": 3,
         "level": [
             [
@@ -25803,7 +25884,7 @@
         }
     },
     {
-        "id": 81,
+        "id": 82,
         "name": "capture_master",
         "name_entry": [
             {
@@ -25897,6 +25978,7 @@
                 "language": "zh"
             }
         ],
+        "color": 3,
         "max_level": 1,
         "level": [
             [
@@ -25948,7 +26030,7 @@
         ]
     },
     {
-        "id": 82,
+        "id": 83,
         "name": "carving_master",
         "name_entry": [
             {
@@ -26042,6 +26124,7 @@
                 "language": "zh"
             }
         ],
+        "color": 8,
         "max_level": 1,
         "level": [
             [
@@ -26093,7 +26176,7 @@
         ]
     },
     {
-        "id": 83,
+        "id": 84,
         "name": "good_luck",
         "name_entry": [
             {
@@ -26187,6 +26270,7 @@
                 "language": "zh"
             }
         ],
+        "color": 4,
         "max_level": 3,
         "level": [
             [
@@ -26398,7 +26482,7 @@
         }
     },
     {
-        "id": 84,
+        "id": 85,
         "name": "speed_sharpening",
         "name_entry": [
             {
@@ -26492,6 +26576,7 @@
                 "language": "zh"
             }
         ],
+        "color": 4,
         "max_level": 3,
         "level": [
             [
@@ -26699,7 +26784,7 @@
         }
     },
     {
-        "id": 85,
+        "id": 86,
         "name": "bombardier",
         "name_entry": [
             {
@@ -26793,6 +26878,7 @@
                 "language": "zh"
             }
         ],
+        "color": 6,
         "max_level": 3,
         "level": [
             [
@@ -27000,7 +27086,7 @@
         }
     },
     {
-        "id": 86,
+        "id": 87,
         "name": "mushroomancer",
         "name_entry": [
             {
@@ -27094,6 +27180,7 @@
                 "language": "zh"
             }
         ],
+        "color": 9,
         "max_level": 3,
         "level": [
             [
@@ -27305,7 +27392,7 @@
         }
     },
     {
-        "id": 87,
+        "id": 88,
         "name": "item_prolonger",
         "name_entry": [
             {
@@ -27399,6 +27486,7 @@
                 "language": "zh"
             }
         ],
+        "color": 13,
         "max_level": 3,
         "level": [
             [
@@ -27602,7 +27690,7 @@
         }
     },
     {
-        "id": 88,
+        "id": 89,
         "name": "wide-_range",
         "name_entry": [
             {
@@ -27696,6 +27784,7 @@
                 "language": "zh"
             }
         ],
+        "color": 1,
         "max_level": 5,
         "level": [
             [
@@ -27999,7 +28088,7 @@
         }
     },
     {
-        "id": 89,
+        "id": 90,
         "name": "free_meal",
         "name_entry": [
             {
@@ -28093,6 +28182,7 @@
                 "language": "zh"
             }
         ],
+        "color": 13,
         "max_level": 3,
         "level": [
             [
@@ -28300,7 +28390,7 @@
         }
     },
     {
-        "id": 90,
+        "id": 91,
         "name": "heroics",
         "name_entry": [
             {
@@ -28394,6 +28484,7 @@
                 "language": "zh"
             }
         ],
+        "color": 7,
         "max_level": 5,
         "level": [
             [
@@ -28697,7 +28788,7 @@
         }
     },
     {
-        "id": 91,
+        "id": 92,
         "name": "fortify",
         "name_entry": [
             {
@@ -28791,6 +28882,7 @@
                 "language": "zh"
             }
         ],
+        "color": 6,
         "max_level": 1,
         "level": [
             [
@@ -28902,7 +28994,7 @@
         }
     },
     {
-        "id": 92,
+        "id": 93,
         "name": "flinch_free",
         "name_entry": [
             {
@@ -28996,6 +29088,7 @@
                 "language": "zh"
             }
         ],
+        "color": 2,
         "max_level": 3,
         "level": [
             [
@@ -29203,7 +29296,7 @@
         }
     },
     {
-        "id": 93,
+        "id": 94,
         "name": "jump_master",
         "name_entry": [
             {
@@ -29297,6 +29390,7 @@
                 "language": "zh"
             }
         ],
+        "color": 11,
         "max_level": 1,
         "level": [
             [
@@ -29416,7 +29510,7 @@
         }
     },
     {
-        "id": 94,
+        "id": 95,
         "name": "carving_pro",
         "name_entry": [
             {
@@ -29510,6 +29604,7 @@
                 "language": "zh"
             }
         ],
+        "color": 2,
         "max_level": 1,
         "level": [
             [
@@ -29621,7 +29716,7 @@
         }
     },
     {
-        "id": 95,
+        "id": 96,
         "name": "hunger_resistance",
         "name_entry": [
             {
@@ -29715,6 +29810,7 @@
                 "language": "zh"
             }
         ],
+        "color": 5,
         "max_level": 3,
         "level": [
             [
@@ -29918,7 +30014,7 @@
         }
     },
     {
-        "id": 96,
+        "id": 97,
         "name": "leapof_faith",
         "name_entry": [
             {
@@ -30012,6 +30108,7 @@
                 "language": "zh"
             }
         ],
+        "color": 12,
         "max_level": 1,
         "level": [
             [
@@ -30127,7 +30224,7 @@
         }
     },
     {
-        "id": 97,
+        "id": 98,
         "name": "diversion",
         "name_entry": [
             {
@@ -30221,6 +30318,7 @@
                 "language": "zh"
             }
         ],
+        "color": 9,
         "max_level": 1,
         "level": [
             [
@@ -30332,7 +30430,7 @@
         }
     },
     {
-        "id": 98,
+        "id": 99,
         "name": "master_mounter",
         "name_entry": [
             {
@@ -30426,6 +30524,7 @@
                 "language": "zh"
             }
         ],
+        "color": 11,
         "max_level": 1,
         "level": [
             [
@@ -30537,7 +30636,7 @@
         }
     },
     {
-        "id": 99,
+        "id": 100,
         "name": "chameleos_blessing",
         "name_entry": [
             {
@@ -30631,6 +30730,7 @@
                 "language": "zh"
             }
         ],
+        "color": 9,
         "max_level": 4,
         "level": [
             [
@@ -30820,7 +30920,7 @@
         ]
     },
     {
-        "id": 100,
+        "id": 101,
         "name": "kushala_blessing",
         "name_entry": [
             {
@@ -30914,6 +31014,7 @@
                 "language": "zh"
             }
         ],
+        "color": 2,
         "max_level": 4,
         "level": [
             [
@@ -31103,7 +31204,7 @@
         ]
     },
     {
-        "id": 101,
+        "id": 102,
         "name": "teostra_blessing",
         "name_entry": [
             {
@@ -31197,6 +31298,7 @@
                 "language": "zh"
             }
         ],
+        "color": 7,
         "max_level": 4,
         "level": [
             [
@@ -31386,7 +31488,7 @@
         ]
     },
     {
-        "id": 102,
+        "id": 103,
         "name": "dragonheart",
         "name_entry": [
             {
@@ -31480,6 +31582,7 @@
                 "language": "zh"
             }
         ],
+        "color": 6,
         "max_level": 5,
         "level": [
             [
@@ -31715,7 +31818,7 @@
         ]
     },
     {
-        "id": 103,
+        "id": 104,
         "name": "wirebug_whisperer",
         "name_entry": [
             {
@@ -31809,6 +31912,7 @@
                 "language": "zh"
             }
         ],
+        "color": 12,
         "max_level": 3,
         "level": [
             [
@@ -32016,7 +32120,7 @@
         }
     },
     {
-        "id": 104,
+        "id": 105,
         "name": "wall_runner",
         "name_entry": [
             {
@@ -32110,6 +32214,7 @@
                 "language": "zh"
             }
         ],
+        "color": 8,
         "max_level": 3,
         "level": [
             [
@@ -32317,7 +32422,7 @@
         }
     },
     {
-        "id": 105,
+        "id": 106,
         "name": "counterstrike",
         "name_entry": [
             {
@@ -32411,6 +32516,7 @@
                 "language": "zh"
             }
         ],
+        "color": 7,
         "max_level": 3,
         "level": [
             [
@@ -32618,7 +32724,7 @@
         }
     },
     {
-        "id": 106,
+        "id": 107,
         "name": "rapid_morph",
         "name_entry": [
             {
@@ -32712,6 +32818,7 @@
                 "language": "zh"
             }
         ],
+        "color": 11,
         "max_level": 3,
         "level": [
             [
@@ -32923,7 +33030,7 @@
         }
     },
     {
-        "id": 107,
+        "id": 108,
         "name": "hellfire_cloak",
         "name_entry": [
             {
@@ -33017,6 +33124,7 @@
                 "language": "zh"
             }
         ],
+        "color": 9,
         "max_level": 4,
         "level": [
             [
@@ -33274,7 +33382,7 @@
         }
     },
     {
-        "id": 108,
+        "id": 109,
         "name": "wind_alignment",
         "name_entry": [
             {
@@ -33368,6 +33476,7 @@
                 "language": "zh"
             }
         ],
+        "color": 12,
         "max_level": 5,
         "level": [
             [
@@ -33603,7 +33712,7 @@
         ]
     },
     {
-        "id": 109,
+        "id": 110,
         "name": "thunder_alignment",
         "name_entry": [
             {
@@ -33697,6 +33806,7 @@
                 "language": "zh"
             }
         ],
+        "color": 4,
         "max_level": 5,
         "level": [
             [
@@ -33932,7 +34042,7 @@
         ]
     },
     {
-        "id": 110,
+        "id": 111,
         "name": "stormsoul",
         "name_entry": [
             {
@@ -34026,6 +34136,7 @@
                 "language": "zh"
             }
         ],
+        "color": 6,
         "max_level": 5,
         "level": [
             [
