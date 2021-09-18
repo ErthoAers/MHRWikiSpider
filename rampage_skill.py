@@ -44,7 +44,7 @@ for i in range(len(paired_skills)):
             "language": "en"
         }],
         "description_entry": [{
-            "text": skill[1],
+            "text": skill[1].replace("\r\n", " ").replace("- ", ""),
             "language": "en"
         }],
     }
@@ -67,11 +67,11 @@ for lang in languages[1:]:
             "language": lang
         }
         descriptionEntry = {
-            "text": skill[1],
+            "text": skill[1].replace("\r\n", "" if lang in ["ja", "zh", "zh-Hant"] else " ").replace("- ", ""),
             "language": lang
         }
         skills[i]["name_entry"].append(nameEntry)
         skills[i]["description_entry"].append(descriptionEntry)
 
 with open("json/rampage_skill.json", "w", encoding="utf-8") as f:
-    json.dump(skills, f)
+    json.dump(skills, f, indent=4, ensure_ascii=False)

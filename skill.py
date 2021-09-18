@@ -17,7 +17,11 @@ def fetch_level(level):
         for lang, lang_tag in languages:
             lang_tag = f"mh-lang-{lang_tag}"
             description_entry.append({
-                "text": l.find(class_=lang_tag).text,
+                "text": l.find(class_=lang_tag)
+                    .text
+                    .replace("\r\n", "" if lang in ["ja", "zh", "zh-Hant"] else " ")
+                    .replace("- ", "")
+                    .replace(" %", "%"),
                 "language": lang
             })
         level_entry.append(description_entry)
@@ -91,7 +95,7 @@ def fetch(link):
             "language": "en"
         }],
         "description_entry": [{
-            "text": description.find(class_=en_tag).text,
+            "text": description.find(class_=en_tag).text.replace("\r\n", " ").replace("- ", ""),
             "language": "en"
         }],
         "color": color,
@@ -110,7 +114,7 @@ def fetch(link):
         })
 
         entry["description_entry"].append({
-            "text": description.find(class_=lang_tag).text,
+            "text": description.find(class_=lang_tag).text.replace("\r\n", "" if lang in ["ja", "zh", "zh-Hant"] else " ").replace("- ", ""),
             "language": lang
         })
 

@@ -91,7 +91,7 @@ def fetch(link):
     }]
 
     entry["description_entry"] = [{
-        "text": description.find(class_=en_tag).text.strip(),
+        "text": description.find(class_=en_tag).text.strip().replace("\r\n", " ").replace("- ", ""),
         "language": "en"
     }]
     
@@ -104,7 +104,7 @@ def fetch(link):
         })
 
         entry["description_entry"].append({
-            "text": description.find(class_=lang_tag).text.strip(),
+            "text": description.find(class_=lang_tag).text.strip().replace("\r\n", "" if lang in ["ja", "zh", "zh-Hant"] else " ").replace("- ", ""),
             "language": lang
         })
     
