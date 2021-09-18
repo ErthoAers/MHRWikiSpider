@@ -24,7 +24,28 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 1,
+                "material": [
+                    65
+                ]
+            },
+            {
+                "output": 2,
+                "material": [
+                    1,
+                    64
+                ]
+            },
+            {
+                "output": 238,
+                "material": [
+                    200,
+                    1
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Potion",
@@ -143,7 +164,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 2,
+                "material": [
+                    1,
+                    64
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Mega Potion",
@@ -262,7 +291,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 3,
+                "material": [
+                    63,
+                    75
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Max Potion",
@@ -381,7 +418,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 4,
+                "material": [
+                    15,
+                    502
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Ancient Potion",
@@ -500,7 +545,21 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 5,
+                "material": [
+                    66
+                ]
+            },
+            {
+                "output": 6,
+                "material": [
+                    5,
+                    74
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Antidote",
@@ -619,7 +678,22 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 6,
+                "material": [
+                    5,
+                    74
+                ]
+            },
+            {
+                "output": 25,
+                "material": [
+                    81,
+                    6
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Herbal Medicine",
@@ -857,7 +931,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 8,
+                "material": [
+                    67,
+                    85
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Cleanser",
@@ -976,7 +1058,14 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 9,
+                "material": [
+                    71
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Deodorant",
@@ -1095,7 +1184,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 10,
+                "material": [
+                    76,
+                    64
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Energy Drink",
@@ -1690,7 +1787,22 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 15,
+                "material": [
+                    80,
+                    75
+                ]
+            },
+            {
+                "output": 4,
+                "material": [
+                    15,
+                    502
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Immunizer",
@@ -1809,7 +1921,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 16,
+                "material": [
+                    63,
+                    465
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Dash Juice",
@@ -1928,7 +2048,29 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 18,
+                "material": [
+                    63,
+                    17
+                ]
+            },
+            {
+                "output": 26,
+                "material": [
+                    81,
+                    17
+                ]
+            },
+            {
+                "output": 240,
+                "material": [
+                    200,
+                    17
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Might Seed",
@@ -2047,7 +2189,22 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 18,
+                "material": [
+                    63,
+                    17
+                ]
+            },
+            {
+                "output": 19,
+                "material": [
+                    464,
+                    18
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Demondrug",
@@ -2166,7 +2323,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 19,
+                "material": [
+                    464,
+                    18
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Mega Demondrug",
@@ -2285,7 +2450,29 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 21,
+                "material": [
+                    63,
+                    20
+                ]
+            },
+            {
+                "output": 27,
+                "material": [
+                    81,
+                    20
+                ]
+            },
+            {
+                "output": 241,
+                "material": [
+                    200,
+                    20
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Adamant Seed",
@@ -2404,7 +2591,22 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 21,
+                "material": [
+                    63,
+                    20
+                ]
+            },
+            {
+                "output": 22,
+                "material": [
+                    464,
+                    21
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Armorskin",
@@ -2523,7 +2725,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 22,
+                "material": [
+                    464,
+                    21
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Mega Armorskin",
@@ -2642,7 +2852,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 23,
+                "material": [
+                    81,
+                    74
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Lifepowder",
@@ -2761,7 +2979,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 24,
+                "material": [
+                    81,
+                    72
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Dust of Life",
@@ -2880,7 +3106,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 25,
+                "material": [
+                    81,
+                    6
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Herbal Powder",
@@ -2999,7 +3233,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 26,
+                "material": [
+                    81,
+                    17
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Demon Powder",
@@ -3118,7 +3360,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 27,
+                "material": [
+                    81,
+                    20
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Hardshell Powder",
@@ -3237,7 +3487,14 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 28,
+                "material": [
+                    83
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Flash Bomb",
@@ -3356,7 +3613,14 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 29,
+                "material": [
+                    472
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Sonic Bomb",
@@ -3475,7 +3739,14 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 30,
+                "material": [
+                    86
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Dung Bomb",
@@ -3594,7 +3865,22 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 31,
+                "material": [
+                    70,
+                    78
+                ]
+            },
+            {
+                "output": 242,
+                "material": [
+                    31,
+                    200
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Tranq Bomb",
@@ -3713,7 +3999,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 32,
+                "material": [
+                    87,
+                    77
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Poison Smoke Bomb",
@@ -3832,7 +4126,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 33,
+                "material": [
+                    87,
+                    79
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Farcaster",
@@ -4308,7 +4610,29 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 38,
+                "material": [
+                    37,
+                    77
+                ]
+            },
+            {
+                "output": 39,
+                "material": [
+                    37,
+                    78
+                ]
+            },
+            {
+                "output": 40,
+                "material": [
+                    37,
+                    70
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Raw Meat",
@@ -4427,7 +4751,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 38,
+                "material": [
+                    37,
+                    77
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Poisoned Meat",
@@ -4546,7 +4878,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 39,
+                "material": [
+                    37,
+                    78
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Tinged Meat",
@@ -4665,7 +5005,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 40,
+                "material": [
+                    37,
+                    70
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Drugged Meat",
@@ -4784,7 +5132,22 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 41,
+                "material": [
+                    67,
+                    76
+                ]
+            },
+            {
+                "output": 45,
+                "material": [
+                    41,
+                    44
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Gunpowder",
@@ -4903,7 +5266,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 43,
+                "material": [
+                    67,
+                    42
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Small Barrel",
@@ -5022,7 +5393,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 43,
+                "material": [
+                    67,
+                    42
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Barrel Bomb",
@@ -5141,7 +5520,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 45,
+                "material": [
+                    41,
+                    44
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Large Barrel",
@@ -5260,7 +5647,22 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 45,
+                "material": [
+                    41,
+                    44
+                ]
+            },
+            {
+                "output": 46,
+                "material": [
+                    84,
+                    45
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Large Barrel Bomb",
@@ -5379,7 +5781,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 46,
+                "material": [
+                    84,
+                    45
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Mega Barrel Bomb",
@@ -5498,7 +5908,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 49,
+                "material": [
+                    47,
+                    48
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Ivy",
@@ -5617,7 +6035,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 49,
+                "material": [
+                    47,
+                    48
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Spider Web",
@@ -5736,7 +6162,22 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 49,
+                "material": [
+                    47,
+                    48
+                ]
+            },
+            {
+                "output": 51,
+                "material": [
+                    50,
+                    49
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Net",
@@ -5855,7 +6296,22 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 51,
+                "material": [
+                    50,
+                    49
+                ]
+            },
+            {
+                "output": 52,
+                "material": [
+                    50,
+                    82
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Trap Tool",
@@ -5974,7 +6430,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 51,
+                "material": [
+                    50,
+                    49
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Pitfall Trap",
@@ -6093,7 +6557,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 52,
+                "material": [
+                    50,
+                    82
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Shock Trap",
@@ -6926,7 +7398,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 60,
+                "material": [
+                    59,
+                    881
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Powercharm",
@@ -7045,7 +7525,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 60,
+                "material": [
+                    59,
+                    881
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Powertalon",
@@ -7164,7 +7652,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 62,
+                "material": [
+                    61,
+                    881
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Armorcharm",
@@ -7283,7 +7779,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 62,
+                "material": [
+                    61,
+                    881
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Armortalon",
@@ -7402,7 +7906,78 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 63,
+                "material": [
+                    80,
+                    64
+                ]
+            },
+            {
+                "output": 3,
+                "material": [
+                    63,
+                    75
+                ]
+            },
+            {
+                "output": 16,
+                "material": [
+                    63,
+                    465
+                ]
+            },
+            {
+                "output": 18,
+                "material": [
+                    63,
+                    17
+                ]
+            },
+            {
+                "output": 21,
+                "material": [
+                    63,
+                    20
+                ]
+            },
+            {
+                "output": 231,
+                "material": [
+                    230,
+                    63
+                ]
+            },
+            {
+                "output": 233,
+                "material": [
+                    232,
+                    63
+                ]
+            },
+            {
+                "output": 235,
+                "material": [
+                    234,
+                    63
+                ]
+            },
+            {
+                "output": 237,
+                "material": [
+                    236,
+                    63
+                ]
+            },
+            {
+                "output": 239,
+                "material": [
+                    238,
+                    63
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Catalyst",
@@ -7521,7 +8096,36 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 2,
+                "material": [
+                    1,
+                    64
+                ]
+            },
+            {
+                "output": 301,
+                "material": [
+                    300,
+                    64
+                ]
+            },
+            {
+                "output": 63,
+                "material": [
+                    80,
+                    64
+                ]
+            },
+            {
+                "output": 10,
+                "material": [
+                    76,
+                    64
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Honey",
@@ -7640,7 +8244,14 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 1,
+                "material": [
+                    65
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Herb",
@@ -7759,7 +8370,14 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 5,
+                "material": [
+                    66
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Antidote Herb",
@@ -7878,7 +8496,78 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 8,
+                "material": [
+                    67,
+                    85
+                ]
+            },
+            {
+                "output": 41,
+                "material": [
+                    67,
+                    76
+                ]
+            },
+            {
+                "output": 43,
+                "material": [
+                    67,
+                    42
+                ]
+            },
+            {
+                "output": 248,
+                "material": [
+                    243,
+                    67
+                ]
+            },
+            {
+                "output": 218,
+                "material": [
+                    200,
+                    67
+                ]
+            },
+            {
+                "output": 219,
+                "material": [
+                    203,
+                    67
+                ]
+            },
+            {
+                "output": 96,
+                "material": [
+                    98,
+                    67
+                ]
+            },
+            {
+                "output": 96,
+                "material": [
+                    99,
+                    67
+                ]
+            },
+            {
+                "output": 100,
+                "material": [
+                    102,
+                    67
+                ]
+            },
+            {
+                "output": 100,
+                "material": [
+                    103,
+                    67
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Fire Herb",
@@ -7997,7 +8686,22 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 220,
+                "material": [
+                    200,
+                    68
+                ]
+            },
+            {
+                "output": 221,
+                "material": [
+                    203,
+                    68
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Flowfern",
@@ -8116,7 +8820,22 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 224,
+                "material": [
+                    200,
+                    69
+                ]
+            },
+            {
+                "output": 225,
+                "material": [
+                    203,
+                    69
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Snow Herb",
@@ -8235,7 +8954,36 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 40,
+                "material": [
+                    37,
+                    70
+                ]
+            },
+            {
+                "output": 31,
+                "material": [
+                    70,
+                    78
+                ]
+            },
+            {
+                "output": 247,
+                "material": [
+                    243,
+                    70
+                ]
+            },
+            {
+                "output": 234,
+                "material": [
+                    200,
+                    70
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Sleep Herb",
@@ -8354,7 +9102,14 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 9,
+                "material": [
+                    71
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Sunscorned Grass",
@@ -8473,7 +9228,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 24,
+                "material": [
+                    81,
+                    72
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Gloamgrass Bud",
@@ -8711,7 +9474,22 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 6,
+                "material": [
+                    5,
+                    74
+                ]
+            },
+            {
+                "output": 23,
+                "material": [
+                    81,
+                    74
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Blue Mushroom",
@@ -8830,7 +9608,22 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 15,
+                "material": [
+                    80,
+                    75
+                ]
+            },
+            {
+                "output": 3,
+                "material": [
+                    63,
+                    75
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Mandragora",
@@ -8949,7 +9742,29 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 10,
+                "material": [
+                    76,
+                    64
+                ]
+            },
+            {
+                "output": 41,
+                "material": [
+                    67,
+                    76
+                ]
+            },
+            {
+                "output": 244,
+                "material": [
+                    243,
+                    76
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Nitroshroom",
@@ -9068,7 +9883,36 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 32,
+                "material": [
+                    87,
+                    77
+                ]
+            },
+            {
+                "output": 38,
+                "material": [
+                    37,
+                    77
+                ]
+            },
+            {
+                "output": 245,
+                "material": [
+                    243,
+                    77
+                ]
+            },
+            {
+                "output": 230,
+                "material": [
+                    200,
+                    77
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Toadstool",
@@ -9187,7 +10031,36 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 39,
+                "material": [
+                    37,
+                    78
+                ]
+            },
+            {
+                "output": 31,
+                "material": [
+                    70,
+                    78
+                ]
+            },
+            {
+                "output": 246,
+                "material": [
+                    243,
+                    78
+                ]
+            },
+            {
+                "output": 232,
+                "material": [
+                    200,
+                    78
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Parashroom",
@@ -9306,7 +10179,29 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 33,
+                "material": [
+                    87,
+                    79
+                ]
+            },
+            {
+                "output": 250,
+                "material": [
+                    243,
+                    79
+                ]
+            },
+            {
+                "output": 236,
+                "material": [
+                    200,
+                    79
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Exciteshroom",
@@ -9425,7 +10320,22 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 63,
+                "material": [
+                    80,
+                    64
+                ]
+            },
+            {
+                "output": 15,
+                "material": [
+                    80,
+                    75
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Bitterbug",
@@ -9544,7 +10454,43 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 23,
+                "material": [
+                    81,
+                    74
+                ]
+            },
+            {
+                "output": 24,
+                "material": [
+                    81,
+                    72
+                ]
+            },
+            {
+                "output": 25,
+                "material": [
+                    81,
+                    6
+                ]
+            },
+            {
+                "output": 26,
+                "material": [
+                    81,
+                    17
+                ]
+            },
+            {
+                "output": 27,
+                "material": [
+                    81,
+                    20
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Godbug",
@@ -9663,7 +10609,29 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 52,
+                "material": [
+                    50,
+                    82
+                ]
+            },
+            {
+                "output": 222,
+                "material": [
+                    200,
+                    82
+                ]
+            },
+            {
+                "output": 223,
+                "material": [
+                    203,
+                    82
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Thunderbug",
@@ -9782,7 +10750,14 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 28,
+                "material": [
+                    83
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Flashbug",
@@ -9901,7 +10876,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 46,
+                "material": [
+                    84,
+                    45
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Scatterfish",
@@ -10020,7 +11003,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 8,
+                "material": [
+                    67,
+                    85
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Popfish",
@@ -10139,7 +11130,14 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 30,
+                "material": [
+                    86
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Dung",
@@ -10258,7 +11256,22 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 33,
+                "material": [
+                    87,
+                    79
+                ]
+            },
+            {
+                "output": 32,
+                "material": [
+                    87,
+                    77
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Smokenut",
@@ -10377,7 +11390,14 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 203,
+                "material": [
+                    88
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Latchberry",
@@ -10496,7 +11516,14 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 206,
+                "material": [
+                    89
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Needleberry",
@@ -10615,7 +11642,14 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 209,
+                "material": [
+                    90
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Huskberry",
@@ -10734,7 +11768,14 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 212,
+                "material": [
+                    91
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Blastnut",
@@ -10853,7 +11894,14 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 215,
+                "material": [
+                    92
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Bomberry",
@@ -10972,7 +12020,22 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 226,
+                "material": [
+                    200,
+                    93
+                ]
+            },
+            {
+                "output": 227,
+                "material": [
+                    203,
+                    93
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Dragonfell Berry",
@@ -11091,7 +12154,14 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 228,
+                "material": [
+                    94
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Slashberry",
@@ -11210,7 +12280,14 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 229,
+                "material": [
+                    95
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Dragonstrike Nut",
@@ -11329,7 +12406,70 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 201,
+                "material": [
+                    200,
+                    96
+                ]
+            },
+            {
+                "output": 204,
+                "material": [
+                    203,
+                    96
+                ]
+            },
+            {
+                "output": 207,
+                "material": [
+                    206,
+                    96
+                ]
+            },
+            {
+                "output": 210,
+                "material": [
+                    209,
+                    96
+                ]
+            },
+            {
+                "output": 213,
+                "material": [
+                    212,
+                    96
+                ]
+            },
+            {
+                "output": 216,
+                "material": [
+                    215,
+                    96
+                ]
+            },
+            {
+                "output": 96,
+                "material": [
+                    97
+                ]
+            },
+            {
+                "output": 96,
+                "material": [
+                    98,
+                    67
+                ]
+            },
+            {
+                "output": 96,
+                "material": [
+                    99,
+                    67
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Gunpowder Lv2",
@@ -11448,7 +12588,14 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 96,
+                "material": [
+                    97
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Flamenut",
@@ -11567,7 +12714,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 96,
+                "material": [
+                    98,
+                    67
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Combustuna",
@@ -11686,7 +12841,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 96,
+                "material": [
+                    99,
+                    67
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Big Combustuna",
@@ -11805,7 +12968,70 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 202,
+                "material": [
+                    200,
+                    100
+                ]
+            },
+            {
+                "output": 205,
+                "material": [
+                    203,
+                    100
+                ]
+            },
+            {
+                "output": 208,
+                "material": [
+                    206,
+                    100
+                ]
+            },
+            {
+                "output": 211,
+                "material": [
+                    209,
+                    100
+                ]
+            },
+            {
+                "output": 214,
+                "material": [
+                    212,
+                    100
+                ]
+            },
+            {
+                "output": 217,
+                "material": [
+                    215,
+                    100
+                ]
+            },
+            {
+                "output": 100,
+                "material": [
+                    101
+                ]
+            },
+            {
+                "output": 100,
+                "material": [
+                    102,
+                    67
+                ]
+            },
+            {
+                "output": 100,
+                "material": [
+                    103,
+                    67
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Gunpowder Lv3",
@@ -11924,7 +13150,14 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 100,
+                "material": [
+                    101
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Blazenut",
@@ -12043,7 +13276,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 100,
+                "material": [
+                    102,
+                    67
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Flamefin",
@@ -12162,7 +13403,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 100,
+                "material": [
+                    103,
+                    67
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Great Flamefin",
@@ -12281,7 +13530,113 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 242,
+                "material": [
+                    31,
+                    200
+                ]
+            },
+            {
+                "output": 201,
+                "material": [
+                    200,
+                    96
+                ]
+            },
+            {
+                "output": 202,
+                "material": [
+                    200,
+                    100
+                ]
+            },
+            {
+                "output": 230,
+                "material": [
+                    200,
+                    77
+                ]
+            },
+            {
+                "output": 232,
+                "material": [
+                    200,
+                    78
+                ]
+            },
+            {
+                "output": 234,
+                "material": [
+                    200,
+                    70
+                ]
+            },
+            {
+                "output": 236,
+                "material": [
+                    200,
+                    79
+                ]
+            },
+            {
+                "output": 238,
+                "material": [
+                    200,
+                    1
+                ]
+            },
+            {
+                "output": 240,
+                "material": [
+                    200,
+                    17
+                ]
+            },
+            {
+                "output": 241,
+                "material": [
+                    200,
+                    20
+                ]
+            },
+            {
+                "output": 218,
+                "material": [
+                    200,
+                    67
+                ]
+            },
+            {
+                "output": 220,
+                "material": [
+                    200,
+                    68
+                ]
+            },
+            {
+                "output": 224,
+                "material": [
+                    200,
+                    69
+                ]
+            },
+            {
+                "output": 222,
+                "material": [
+                    200,
+                    82
+                ]
+            },
+            {
+                "output": 226,
+                "material": [
+                    200,
+                    93
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Normal Ammo 1",
@@ -12400,7 +13755,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 201,
+                "material": [
+                    200,
+                    96
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Normal Ammo 2",
@@ -12519,7 +13882,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 202,
+                "material": [
+                    200,
+                    100
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Normal Ammo 3",
@@ -12638,7 +14009,63 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 203,
+                "material": [
+                    88
+                ]
+            },
+            {
+                "output": 204,
+                "material": [
+                    203,
+                    96
+                ]
+            },
+            {
+                "output": 205,
+                "material": [
+                    203,
+                    100
+                ]
+            },
+            {
+                "output": 219,
+                "material": [
+                    203,
+                    67
+                ]
+            },
+            {
+                "output": 221,
+                "material": [
+                    203,
+                    68
+                ]
+            },
+            {
+                "output": 225,
+                "material": [
+                    203,
+                    69
+                ]
+            },
+            {
+                "output": 223,
+                "material": [
+                    203,
+                    82
+                ]
+            },
+            {
+                "output": 227,
+                "material": [
+                    203,
+                    93
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Pierce Ammo 1",
@@ -12757,7 +14184,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 204,
+                "material": [
+                    203,
+                    96
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Pierce Ammo 2",
@@ -12876,7 +14311,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 205,
+                "material": [
+                    203,
+                    100
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Pierce Ammo 3",
@@ -12995,7 +14438,28 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 206,
+                "material": [
+                    89
+                ]
+            },
+            {
+                "output": 207,
+                "material": [
+                    206,
+                    96
+                ]
+            },
+            {
+                "output": 208,
+                "material": [
+                    206,
+                    100
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Spread Ammo 1",
@@ -13114,7 +14578,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 207,
+                "material": [
+                    206,
+                    96
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Spread Ammo 2",
@@ -13233,7 +14705,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 208,
+                "material": [
+                    206,
+                    100
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Spread Ammo 3",
@@ -13352,7 +14832,28 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 209,
+                "material": [
+                    90
+                ]
+            },
+            {
+                "output": 210,
+                "material": [
+                    209,
+                    96
+                ]
+            },
+            {
+                "output": 211,
+                "material": [
+                    209,
+                    100
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Shrapnel Ammo 1",
@@ -13471,7 +14972,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 210,
+                "material": [
+                    209,
+                    96
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Shrapnel Ammo 2",
@@ -13590,7 +15099,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 211,
+                "material": [
+                    209,
+                    100
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Shrapnel Ammo 3",
@@ -13709,7 +15226,28 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 212,
+                "material": [
+                    91
+                ]
+            },
+            {
+                "output": 213,
+                "material": [
+                    212,
+                    96
+                ]
+            },
+            {
+                "output": 214,
+                "material": [
+                    212,
+                    100
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Sticky Ammo 1",
@@ -13828,7 +15366,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 213,
+                "material": [
+                    212,
+                    96
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Sticky Ammo 2",
@@ -13947,7 +15493,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 214,
+                "material": [
+                    212,
+                    100
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Sticky Ammo 3",
@@ -14066,7 +15620,28 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 215,
+                "material": [
+                    92
+                ]
+            },
+            {
+                "output": 216,
+                "material": [
+                    215,
+                    96
+                ]
+            },
+            {
+                "output": 217,
+                "material": [
+                    215,
+                    100
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Cluster Bomb 1",
@@ -14185,7 +15760,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 216,
+                "material": [
+                    215,
+                    96
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Cluster Bomb 2",
@@ -14304,7 +15887,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 217,
+                "material": [
+                    215,
+                    100
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Cluster Bomb 3",
@@ -14423,7 +16014,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 218,
+                "material": [
+                    200,
+                    67
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Flaming Ammo",
@@ -14542,7 +16141,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 219,
+                "material": [
+                    203,
+                    67
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Piercing Fire Ammo",
@@ -14661,7 +16268,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 220,
+                "material": [
+                    200,
+                    68
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Water Ammo",
@@ -14780,7 +16395,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 221,
+                "material": [
+                    203,
+                    68
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Piercing Water Ammo",
@@ -14899,7 +16522,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 222,
+                "material": [
+                    200,
+                    82
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Thunder Ammo",
@@ -15018,7 +16649,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 223,
+                "material": [
+                    203,
+                    82
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Piercing Thunder Ammo",
@@ -15137,7 +16776,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 224,
+                "material": [
+                    200,
+                    69
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Freeze Ammo",
@@ -15256,7 +16903,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 225,
+                "material": [
+                    203,
+                    69
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Piercing Ice Ammo",
@@ -15375,7 +17030,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 226,
+                "material": [
+                    200,
+                    93
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Dragon Ammo",
@@ -15494,7 +17157,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 227,
+                "material": [
+                    203,
+                    93
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Piercing Dragon Ammo",
@@ -15613,7 +17284,14 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 228,
+                "material": [
+                    94
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Slicing Ammo",
@@ -15732,7 +17410,14 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 229,
+                "material": [
+                    95
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Wyvern Ammo",
@@ -15851,7 +17536,22 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 230,
+                "material": [
+                    200,
+                    77
+                ]
+            },
+            {
+                "output": 231,
+                "material": [
+                    230,
+                    63
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Poison Ammo 1",
@@ -15970,7 +17670,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 231,
+                "material": [
+                    230,
+                    63
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Poison Ammo 2",
@@ -16089,7 +17797,22 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 232,
+                "material": [
+                    200,
+                    78
+                ]
+            },
+            {
+                "output": 233,
+                "material": [
+                    232,
+                    63
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Paralysis Ammo 1",
@@ -16208,7 +17931,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 233,
+                "material": [
+                    232,
+                    63
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Paralysis Ammo 2",
@@ -16327,7 +18058,22 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 234,
+                "material": [
+                    200,
+                    70
+                ]
+            },
+            {
+                "output": 235,
+                "material": [
+                    234,
+                    63
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Sleep Ammo 1",
@@ -16446,7 +18192,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 235,
+                "material": [
+                    234,
+                    63
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Sleep Ammo 2",
@@ -16565,7 +18319,22 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 236,
+                "material": [
+                    200,
+                    79
+                ]
+            },
+            {
+                "output": 237,
+                "material": [
+                    236,
+                    63
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Exhaust Ammo 1",
@@ -16684,7 +18453,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 237,
+                "material": [
+                    236,
+                    63
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Exhaust Ammo 2",
@@ -16803,7 +18580,22 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 238,
+                "material": [
+                    200,
+                    1
+                ]
+            },
+            {
+                "output": 239,
+                "material": [
+                    238,
+                    63
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Recover Ammo 1",
@@ -16922,7 +18714,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 239,
+                "material": [
+                    238,
+                    63
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Recover Ammo 2",
@@ -17041,7 +18841,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 240,
+                "material": [
+                    200,
+                    17
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Demon Ammo",
@@ -17160,7 +18968,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 241,
+                "material": [
+                    200,
+                    20
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Armor Ammo",
@@ -17279,7 +19095,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 242,
+                "material": [
+                    31,
+                    200
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Tranq Ammo",
@@ -17398,7 +19222,50 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 244,
+                "material": [
+                    243,
+                    76
+                ]
+            },
+            {
+                "output": 245,
+                "material": [
+                    243,
+                    77
+                ]
+            },
+            {
+                "output": 246,
+                "material": [
+                    243,
+                    78
+                ]
+            },
+            {
+                "output": 247,
+                "material": [
+                    243,
+                    70
+                ]
+            },
+            {
+                "output": 248,
+                "material": [
+                    243,
+                    67
+                ]
+            },
+            {
+                "output": 250,
+                "material": [
+                    243,
+                    79
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Empty Phial",
@@ -17517,7 +19384,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 244,
+                "material": [
+                    243,
+                    76
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Power Coating",
@@ -17636,7 +19511,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 245,
+                "material": [
+                    243,
+                    77
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Poison Coating",
@@ -17755,7 +19638,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 246,
+                "material": [
+                    243,
+                    78
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Para Coating",
@@ -17874,7 +19765,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 247,
+                "material": [
+                    243,
+                    70
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Sleep Coating",
@@ -17993,7 +19892,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 248,
+                "material": [
+                    243,
+                    67
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Blast Coating",
@@ -18231,7 +20138,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 250,
+                "material": [
+                    243,
+                    79
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Exhaust Coating",
@@ -18350,7 +20265,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 301,
+                "material": [
+                    300,
+                    64
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "First-aid Med",
@@ -18469,7 +20392,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 301,
+                "material": [
+                    300,
+                    64
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "First-aid Med+",
@@ -21325,7 +23256,14 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 330,
+                "material": [
+                    325
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Gray Seed",
@@ -21444,7 +23382,14 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 331,
+                "material": [
+                    326
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Crimson Seed",
@@ -21563,7 +23508,14 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 332,
+                "material": [
+                    327
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Blue Seed",
@@ -21682,7 +23634,14 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 333,
+                "material": [
+                    328
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Gold Seed",
@@ -21801,7 +23760,14 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 334,
+                "material": [
+                    329
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Silver Seed",
@@ -21920,7 +23886,14 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 330,
+                "material": [
+                    325
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Exploding Kunai",
@@ -22039,7 +24012,14 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 331,
+                "material": [
+                    326
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Fire Barrel Bomb",
@@ -22158,7 +24138,14 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 332,
+                "material": [
+                    327
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Water Barrel Bomb",
@@ -22277,7 +24264,14 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 333,
+                "material": [
+                    328
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Thunder Barrel Bomb",
@@ -22396,7 +24390,14 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 334,
+                "material": [
+                    329
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Ice Barrel Bomb",
@@ -30131,7 +32132,22 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 19,
+                "material": [
+                    464,
+                    18
+                ]
+            },
+            {
+                "output": 22,
+                "material": [
+                    464,
+                    21
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Pale Extract",
@@ -30250,7 +32266,15 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 16,
+                "material": [
+                    63,
+                    465
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Dash Extract",
@@ -31083,7 +33107,14 @@
             "point": 0
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 29,
+                "material": [
+                    472
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Screamer Sac",
@@ -33106,7 +35137,15 @@
             "point": 4
         },
         "evaluation_value": 0,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 4,
+                "material": [
+                    15,
+                    502
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Kelbi Horn",
@@ -78207,7 +80246,22 @@
             "point": 4
         },
         "evaluation_value": 50,
-        "crafting": [],
+        "crafting": [
+            {
+                "output": 60,
+                "material": [
+                    59,
+                    881
+                ]
+            },
+            {
+                "output": 62,
+                "material": [
+                    61,
+                    881
+                ]
+            }
+        ],
         "name_entry": [
             {
                 "text": "Ibushi Claw+",

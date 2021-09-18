@@ -1,4 +1,5 @@
 import re
+from collections import defaultdict
 
 baseURL = "http://mhrise.mhrice.info"
 en_tag = "mh-lang-1"
@@ -41,4 +42,4 @@ def camel_to_snake(text):
 item_id = {}
 armor_id = {}
 weapon_id = {}
-item_crafting = {}
+item_crafting = defaultdict(list)

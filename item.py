@@ -6,6 +6,7 @@ import urllib.parse
 import json
 import multiprocessing.pool
 from utils import *
+from collections import defaultdict
 
 def fetch_icon(icon):
     icon_div = icon.find_all("div")
@@ -63,6 +64,8 @@ def fetch(link):
     else:
         material["material"] = " ".join(i.find(class_=en_tag).text.strip() for i in c[:-1])
         material["point"] = int(c[-1].split()[0])
+    
+    print(str(id_), str(id_) in item_crafting)
 
     entry = {
         "id": id_,
@@ -82,7 +85,7 @@ def fetch(link):
         "item_group": data[11].contents[1].text.lower(),
         "material_category": material,
         "evaluation_value": int(data[13].contents[1].text),
-        "crafting": item_crafting.setdefault(id_, [])
+        "crafting": item_crafting[str(id_)]
     }
 
     entry["name_entry"] = [{
@@ -143,18 +146,22 @@ else:
 
 if os.path.exists("json/item_crafting.json"):
     with open("json/item_crafting.json") as f:
-        item_crafting = json.load(f)
+        item_crafting.update(json.load(f))
 else:
     r = requests.get("https://mhrise.kiranico.com/data/item-mix-recipes")
     soup = BeautifulSoup(r.text, features="lxml")
     crafting_trs = soup.find("tbody").find_all("tr")
-    for crafring_tr in crafting_trs:
-        material = crafring_tr.find_all("td")
+    for crafting_tr in crafting_trs:
+        material = crafting_tr.find_all("td")
         output = item_id[material[1].text]
-        item_crafting[output] = item_crafting.setdefault(output, [])
-        item_crafting[output].append([item_id[material[2].text]])
+        m = [item_id[material[2].text]]
         if material[3].text != "":
-            item_crafting[output][-1].append(item_id[material[3].text])
+            m.append(item_id[material[3].text])
+        
+        crafting = {"output": output, "material": m}
+        item_crafting[output].append(crafting)
+        for i in crafting["material"]:
+            item_crafting[i].append(crafting)
 
     with open("json/item_crafting.json", "w") as f:
         json.dump(item_crafting, f)
